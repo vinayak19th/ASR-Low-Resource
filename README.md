@@ -39,3 +39,16 @@ Nabu : https://github.com/vrenkens/nabu
 
 ### Dataset
 https://catalog.ldc.upenn.edu/LDC2016S09 (Currently being purchased) 
+
+
+#### Alternative Approaches: 
+1. https://github.com/mozilla/DeepSpeech
+
+### Tasks 
+
+- [ ] Acquire Dataset
+- [ ] Test PyTorch Kaldi
+- [ ] Form Recipe
+- [ ] Test EspNet
+- [ ] Train Kaldi/EspNet to Convergence on Data
+- [ ] Test Model on Real Time Data
