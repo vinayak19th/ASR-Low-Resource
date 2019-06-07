@@ -39,6 +39,7 @@ Nabu : https://github.com/vrenkens/nabu
 
 ### Dataset
 https://catalog.ldc.upenn.edu/LDC2016S09 (Currently being purchased) 
+https://archive.org/details/ArabicEnglishPashtoQaziFazlUllah
 
 
 #### Alternative Approaches: 
