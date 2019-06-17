@@ -6,10 +6,11 @@ Propose Components :
 1. PyTorch
 2. Kaldi
 3. Misc NLP library for string matching. (TBD)
+4. Possible extension using BERT to perform further language inference
 
 
 Initital Protoype and Discussion
-> Insert Image here
+> ![Prototype for ](discussion.png)
 
 
 ### Resources for Specific Questions
@@ -47,8 +48,8 @@ https://archive.org/details/ArabicEnglishPashtoQaziFazlUllah
 
 ### Tasks 
 
-- [ ] Acquire Dataset
-- [ ] Test PyTorch Kaldi
+- [x] Acquire Dataset
+- [x] Test PyTorch Kaldi
 - [ ] Form Recipe
 - [ ] Test EspNet
 - [ ] Train Kaldi/EspNet to Convergence on Data
