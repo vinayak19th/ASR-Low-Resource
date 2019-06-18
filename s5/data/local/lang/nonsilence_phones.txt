@@ -1,9 +1,9 @@
 A
 A_A
 A_A_N
-A_E
-A_E_H
-A_E_N
+AE
+AE_H
+AE_N
 A_Y
 A_Y_H
 A_Y_N
@@ -21,8 +21,8 @@ G_G
 G_H
 H
 I
-I_I
-I_I_N
+II
+II_N
 J
 K
 K_H
@@ -47,8 +47,8 @@ T
 T_D
 T_D_H
 T_H
-T_S
-T_S_H
+TS
+TS_H
 U
 U_U
 U_U_N
