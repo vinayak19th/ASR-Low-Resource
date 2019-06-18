@@ -67,7 +67,7 @@ https://myelinf-my.sharepoint.com/:p:/g/personal/harsha_myelinfoundry_com/ER5nsC
     * __text.txt__ - Contains the transcript indexed by utterance ID's. 
     * __wav.scp__ - Contains all the full paths of all the wav audio files indexed by utterance ID's. **Make sure to edit this file before use to match your input files**
     * __utt2spk__ - Contains the utterance ID's matched to the speaker ID's.
->Example Train folder - [data/train](../s5/data/train) 
+>Example Train folder - [data/train](s5/data/train) 
  2. Make sure all the files are in __sorted order__ for kaldi to allignment computations.
 3. Create an identical test folder with the appropriate train-test split.  
 >Example Test folder - [data/test](data/test)
