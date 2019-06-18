@@ -1,6 +1,6 @@
 # Sunshine
-*Vernacular Language trigger word detector*
-
+*Vernacular Language trigger word detector* <br>
+<b> Most data and computed models have been remove. Please use your own data when employing the model</b>
 ## Background & Proposal
 
 Propose Components :
