@@ -149,8 +149,8 @@ CMVN minimizes distortion by noise contamination for robust feature extraction b
  * __FST__: A finite-state transducer (FST) is a finite-state machine with two memory tapes, following the terminology for Turing machines: an input tape and an output tape. This contrasts with an ordinary finite-state automaton, which has a single tape. An FST is a type of finite-state automaton that maps between two sets of symbols. An FST is more general than a finite-state automaton (FSA). An FSA defines a formal language by defining a set of accepted strings while an FST defines relations between sets of strings.</br>
  An FST will read a set of strings on the input tape and generates a set of relations on the output tape. An FST can be thought of as a translator or relater between strings in a set. [link](https://en.wikipedia.org/wiki/Finite-state_transducer)
  </br>
- > ![l.st](Literature/Lfst.png)
- >  <center><i>L.fst mapping</i></center>
+ > ![lfst](Literature/Lfst.png)
+   <center><i>L.fst mapping</i></center>
 
 <a id=openfst></a>
  * <u>__OpenFst__:</u> OpenFst is a library for constructing, combining, optimizing, and searching weighted finite-state transducers (FSTs).[link](http://www.openfst.org/twiki/bin/view/FST/WebHome)
