@@ -62,15 +62,15 @@ https://kaldi-asr.org/doc/kaldi_for_dummies.html#kaldi_for_dummies_environment)
     * __wav.scp__ - Contains all the full paths of all the wav audio files indexed by utterance ID's. **Make sure to edit this file before use to match your input files**
     * __utt2spk__ - Contains the utterance ID's matched to the speaker ID's.
 >Example Train folder - [data/train](s5/data/train) 
- 2. Make sure all the files are in __sorted order__ for kaldi to allignment computations.
-3. Create an identical test folder with the appropriate train-test split.  
+ 2. Make sure all the files are in __sorted order__ for kaldi f0r alignment computations.
+3. Create a test folder with the appropriate train-test split.  
 >Example Test folder - [data/test](s5/data/test)
 4. To create the [data/local/lang](s5/data/local/lang) directory the following files are needed:
     * __lexicon.txt__: Contains the Grapheme-Phoneme relationships
     * __silence_phones.txt__: Contains the silence markers
     * __nonsilence_phones.txt__: Contains all the other graphemes.
     * __extra_questions.txt__: Just an empty file
-5. run the [run.sh](s5/run.sh) script's first section - Data & Lexicon & Language Preparation to create remaining parts of the model.
+5. Run the [run.sh](s5/run.sh) script's first section - Data & Lexicon & Language Preparation to create the remaining parts of the recipe for pre-processing.
 
 ### Training the Model:
 **Refer to Pytorch Kaldi-Repository documentation for any clarifications: https://github.com/mravanelli/pytorch-kaldi#overview-of-the-toolkit-architecture**
