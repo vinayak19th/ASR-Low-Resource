@@ -149,15 +149,7 @@ for iter in 1 2 3 4; do
    --transform-dir exp/tri3/decode data/lang_test data/test \
    exp/sgmm2_4/decode exp/sgmm2_4_mmi_b0.1/decode_it$iter
 done
-
-echo ============================================================================
-echo "               DNN Hybrid Training & Decoding (Karel's recipe)            "
-echo ============================================================================
-
-local/nnet/run_dnn.sh
-
 echo ============================================================================
 echo "Finished Successfully"
-echo ============================================================================
-
+echo ===========================================================================
 exit 0
