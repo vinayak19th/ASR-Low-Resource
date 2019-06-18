@@ -67,8 +67,8 @@ https://myelinf-my.sharepoint.com/:p:/g/personal/harsha_myelinfoundry_com/ER5nsC
     * __text.txt__ - Contains the transcript indexed by utterance ID's. 
     * __wav.scp__ - Contains all the full paths of all the wav audio files indexed by utterance ID's. **Make sure to edit this file before use to match your input files**
     * __utt2spk__ - Contains the utterance ID's matched to the speaker ID's.
->Example Train folder - [data/train](data/train) 
-2. Make sure all the files are in __sorted order__ for kaldi to allignment computations.
+>Example Train folder - [data/train](../data/train) 
+ 2. Make sure all the files are in __sorted order__ for kaldi to allignment computations.
 3. Create an identical test folder with the appropriate train-test split.  
 >Example Test folder - [data/test](data/test)
 4. To create the [data/local/lang](data/local/lang) directory the following files are needed:
@@ -76,3 +76,12 @@ https://myelinf-my.sharepoint.com/:p:/g/personal/harsha_myelinfoundry_com/ER5nsC
     * __silence_phones.txt__: Contains the silence markers
     * __nonsilence_phones.txt__: Contains all the other graphemes.
     * __extra_questions.txt__: Just an empty file
+5. run the [run.sh](s5/run.sh) script's first section - Data & Lexicon & Language Preparation to create remaining parts of the model.
+
+### Training the Model:
+**Refer to Pytorch Kaldi-Repository documentation for any clarifications: https://github.com/mravanelli/pytorch-kaldi#overview-of-the-toolkit-architecture**
+
+1. Run the remaining sections of the [run.sh](s5/run.sh) script to compute the mfcc [^fn1]
+
+
+[^fn1] : [text]
