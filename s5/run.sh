@@ -108,48 +108,7 @@ utils/mkgraph.sh data/lang_test exp/tri3 exp/tri3/graph
 steps/decode_fmllr.sh --nj "$decode_nj" --cmd "$decode_cmd" \
  exp/tri3/graph data/test exp/tri3/decode
 
-echo ============================================================================
-echo "                        SGMM2 Training & Decoding                         "
-echo ============================================================================
-
-steps/align_fmllr.sh --nj "$train_nj" --cmd "$train_cmd" \
- data/train data/lang exp/tri3 exp/tri3_ali
-
-steps/train_ubm.sh --cmd "$train_cmd" \
- $numGaussUBM data/train data/lang exp/tri3_ali exp/ubm4
-
-steps/train_sgmm2.sh --cmd "$train_cmd" $numLeavesSGMM $numGaussSGMM \
- data/train data/lang exp/tri3_ali exp/ubm4/final.ubm exp/sgmm2_4
-
-utils/mkgraph.sh data/lang_test exp/sgmm2_4 exp/sgmm2_4/graph
-
-steps/decode_sgmm2.sh --nj "$decode_nj" --cmd "$decode_cmd"\
- --transform-dir exp/tri3/decode exp/sgmm2_4/graph data/test \
- exp/sgmm2_4/decode
-
-echo ============================================================================
-echo "                    MMI + SGMM2 Training & Decoding                       "
-echo ============================================================================
-
-steps/align_sgmm2.sh --nj "$train_nj" --cmd "$train_cmd" \
- --transform-dir exp/tri3_ali --use-graphs true --use-gselect true \
- data/train data/lang exp/sgmm2_4 exp/sgmm2_4_ali
-
-steps/make_denlats_sgmm2.sh --nj "$train_nj" --sub-split "$train_nj" \
- --acwt 0.2 --lattice-beam 10.0 --beam 18.0 \
- --cmd "$decode_cmd" --transform-dir exp/tri3_ali \
- data/train data/lang exp/sgmm2_4_ali exp/sgmm2_4_denlats
-
-steps/train_mmi_sgmm2.sh --acwt 0.2 --cmd "$decode_cmd" \
- --transform-dir exp/tri3_ali --boost 0.1 --drop-frames true \
- data/train data/lang exp/sgmm2_4_ali exp/sgmm2_4_denlats exp/sgmm2_4_mmi_b0.1
-
-for iter in 1 2 3 4; do
-  steps/decode_sgmm2_rescore.sh --cmd "$decode_cmd" --iter $iter \
-   --transform-dir exp/tri3/decode data/lang_test data/test \
-   exp/sgmm2_4/decode exp/sgmm2_4_mmi_b0.1/decode_it$iter
-done
-echo ============================================================================
+echo ===========================================================================
 echo "Finished Successfully"
 echo ===========================================================================
-exit 0
+
