@@ -61,24 +61,15 @@ https://kaldi-asr.org/doc/kaldi_for_dummies.html#kaldi_for_dummies_environment)
    * __text.txt__ - Contains the transcript indexed by utterance ID's. 
    * __wav.scp__ - Contains all the full paths of all the wav audio files indexed by utterance ID's. **Make sure to edit this file before use to match your input files**
     * __utt2spk__ - Contains the utterance ID's matched to the speaker ID's.
-<<<<<<< HEAD
   >Example Train folder - [data/train](s5/data/train) 
   2. Make sure all the files are in __sorted order__ for kaldi to allignment computations.
   3. Create an identical test folder with the appropriate train-test split.  
   >Example Test folder - [data/test](s5/data/test)
   4. To create the [data/local/lang](s5/data/local/lang) directory the following files are needed:
-=======
->Example Train folder - [data/train](s5/data/train) 
- 2. Make sure all the files are in __sorted order__ for kaldi f0r alignment computations.
-3. Create a test folder with the appropriate train-test split.  
->Example Test folder - [data/test](s5/data/test)
-4. To create the [data/local/lang](s5/data/local/lang) directory the following files are needed:
->>>>>>> 8a77d87f7578558a02e39815b6713a6fae8e338d
     * __lexicon.txt__: Contains the Grapheme-Phoneme relationships
     * __silence_phones.txt__: Contains the silence markers
     * __nonsilence_phones.txt__: Contains all the other graphemes.
     * __extra_questions.txt__: Just an empty file
-<<<<<<< HEAD
 5. Run the [run.sh](s5/run.sh) script's first section - Data & Lexicon & Language Preparation to create remaining parts of the model.
 
 ### Training the Model:<hr><hr>
@@ -145,9 +136,6 @@ https://kaldi-asr.org/doc/kaldi_for_dummies.html#kaldi_for_dummies_environment)
 # Theory and Definitions:
 <a id=i-vect></a>
  * __I-Vectors__: The word i-vector stands for "identity i-vector". It allows to compute an utterance model (a vector) using the corresponding MFCC features. This is done using a technique called Factor analysis which computes 0th and 1st order statistics of a set of featres over a generic model (a mixture of Gaussians) called world model or universal background model UBM, then computes the corresponding i-vector. Roughly, the UBM descibes what the average distribution of "speech" looks like and i-vectors allow to have a representation of a speech utterance that is "relative" to that generic model. [link](https://www.researchgate.net/post/Can_someone_introduce_me_to_i_vector_approach_for_speaker_recognition)
-=======
-5. Run the [run.sh](s5/run.sh) script's first section - Data & Lexicon & Language Preparation to create the remaining parts of the recipe for pre-processing.
->>>>>>> 8a77d87f7578558a02e39815b6713a6fae8e338d
 
 <a id=mfcc></a>
  * __MFCC Feature__: Mel-frequency cepstral coefficients (MFCCs) are coefficients that collectively make up an MFC. They are derived from a type of cepstral representation of the audio clip (a nonlinear "spectrum-of-a-spectrum"). The difference between the cepstrum and the mel-frequency cepstrum is that in the MFC, the frequency bands are equally spaced on the mel scale, which approximates the human auditory system's response more closely than the linearly-spaced frequency bands used in the normal cepstrum. This frequency warping can allow for better representation of sound, for example, in audio compression. [link](https://en.wikipedia.org/wiki/Mel-frequency_cepstrum)
