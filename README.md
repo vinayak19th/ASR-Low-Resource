@@ -59,8 +59,8 @@ https://kaldi-asr.org/doc/kaldi_for_dummies.html#kaldi_for_dummies_environment)
 
   1. Creating the data/train directory required the creating of 3 files manually:
    * __text.txt__ - Contains the transcript indexed by utterance ID's. 
-   * __wav.scp__ - Contains all the full paths of all the wav audio files indexed by utterance ID's. **Make sure to edit this file before use to match your input files**
-    * __utt2spk__ - Contains the utterance ID's matched to the speaker ID's.
+   * __wav.scp__ - Contains all the full paths of all the wav audio files indexed by utterance ID's. <b>Make sure to edit this file before use to match your input files</b>
+   * __utt2spk__ - Contains the utterance ID's matched to the speaker ID's.
   >Example Train folder - [data/train](s5/data/train) 
   2. Make sure all the files are in __sorted order__ for kaldi to allignment computations.
   3. Create an identical test folder with the appropriate train-test split.  
