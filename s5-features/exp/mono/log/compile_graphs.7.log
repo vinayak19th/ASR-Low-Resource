@@ -1,0 +1,29 @@
+# compile-train-graphs --read-disambig-syms=data/lang/phones/disambig.int exp/mono/tree exp/mono/0.mdl data/lang/L.fst "ark:sym2int.pl --map-oov 2 -f 2- data/lang/words.txt < data/train/split8/7/text|" "ark:|gzip -c >exp/mono/fsts.7.gz" 
+# Started at Tue Jun 18 17:05:32 IST 2019
+#
+compile-train-graphs --read-disambig-syms=data/lang/phones/disambig.int exp/mono/tree exp/mono/0.mdl data/lang/L.fst 'ark:sym2int.pl --map-oov 2 -f 2- data/lang/words.txt < data/train/split8/7/text|' 'ark:|gzip -c >exp/mono/fsts.7.gz' 
+sym2int.pl: replacing میران with 2
+sym2int.pl: replacing بگٹی with 2
+sym2int.pl: replacing امرتا with 2
+sym2int.pl: replacing بھیس with 2
+sym2int.pl: replacing منڈھے with 2
+sym2int.pl: replacing مواضعات with 2
+sym2int.pl: replacing بنگالی with 2
+sym2int.pl: replacing مندری with 2
+sym2int.pl: replacing تھیوا with 2
+sym2int.pl: replacing سوئچ with 2
+sym2int.pl: replacing بیچنے with 2
+sym2int.pl: replacing بیعانہ with 2
+sym2int.pl: replacing ڈیسک with 2
+sym2int.pl: replacing پرچیز with 2
+sym2int.pl: replacing گڈ with 2
+sym2int.pl: replacing گورنینس with 2
+sym2int.pl: replacing اپنائیں with 2
+sym2int.pl: replacing بیلدار with 2
+sym2int.pl: replacing کمینگی with 2
+sym2int.pl: replacing نزدیک with 2
+sym2int.pl: not warning for OOVs any more times
+** Replaced 421 instances of OOVs with 2
+LOG (compile-train-graphs[5.5.383~1-bd1d]:main():compile-train-graphs.cc:147) compile-train-graphs: succeeded for 80 graphs, failed for 0
+# Accounting: time=0 threads=1
+# Ended (code 0) at Tue Jun 18 17:05:32 IST 2019, elapsed time 0 seconds

@@ -1,0 +1,5739 @@
+<oov> 1.0	oov
+<SIL> 1.0	SIL
+کھیل 1.0	K_H A_Y L
+علینہ 1.0	A L II N A_A
+ایشیا 1.0	A_Y S_H I J A_A
+فضل 1.0	F A Z A L
+حساب 1.0	H I S A_A B
+لمحات 1.0	L A M H A_A T_D
+زمرد 1.0	Z U M A R R U D_D
+سوہنی 1.0	S O_O H N II
+توانائی 1.0	T_D A V A_A N A_A II
+بہمن 1.0	B AE_H H M A N
+فٹنس 1.0	F I T N A S
+نکتہ 1.0	N U K T_D A_A
+کولنگ 1.0	K O_O L I N_G
+نسیمہ 1.0	N A S II M A_A
+اجالا 1.0	U D_Z A_A L A_A
+ضیغم 1.0	Z AE G_G A M
+حسام 1.0	H A S S A_A M
+حسان 1.0	H I S S A_A N
+ہنسنا 1.0	H A N S N A_A
+فضا 1.0	F I Z A_A
+ہنسنے 1.0	H A N S N A_Y
+مفاہمت 1.0	M U F A_A H A M A T_D
+ماموں 1.0	M A_A M O_O_N
+کروائے 1.0	K A R V A_A A_Y
+چھکے 1.0	TS_H A K K A_Y
+دعوت 1.0	D_D A_A V A T_D
+بالدستی 1.0	B A_A L D_D A S T_D II
+شہزادی 1.0	S_H A H Z A_A D_D II
+فضہ 1.0	F U Z A_A
+ظرافت 1.0	Z A R A_A F A T_D
+افسر 1.0	A F S A R
+رکے 1.0	R U K A_Y
+شائقین 1.0	S_H A_A I Q II N
+بیدار 1.0	B A_Y D_D A_A R
+تسلسل 1.0	T_D A S A L L U L
+شفقت 1.0	S_H A F A Q Q A T_D
+رکھ 1.0	R A K_H
+نبٹنے 1.0	N I B A T N A_Y
+آیئڈیالوجی 1.0	A_A A_Y D I J A_A L O_O D_Z II
+دائرے 1.0	D_D A_A I R A_Y
+علینا 1.0	A L II N A_A
+برہان 1.0	B A R H A_A N
+بائیکا 1.0	B A_A II K A_A
+خانہ 1.0	X A_A N A_A
+کرایوں 1.0	K A R A_A J O_O_N
+روٹیاں 1.0	R O_O T II A_A_N
+یکجہتی 1.0	J A D_Z D_Z A H T_D II
+خانے 1.0	X A_A N A_Y
+سہولیات 1.0	S U H U_U L J A_A T_D
+پذیرائی 1.0	P A Z II R A_A II
+سیتا 1.0	S II T_D A_A
+اسفندیار 1.0	I S F A N D_D J A_A R
+زیب 1.0	Z A_Y B
+عطر 1.0	A T_D R
+زیتون 1.0	Z II T_D U_U N
+عطا 1.0	A T_D A_A
+شاہ 1.0	S_H A_A
+سحرش 1.0	S U H R I S_H
+منسوخ 1.0	M A N S U_U X
+زیر 1.0	Z II R
+پتھر 1.0	P A T_D_H T_D_H A R
+چکلالہ 1.0	TS A K L A_A L A_A
+صدرِمملکت 1.0	S A D_D R A_Y M U M L A_Y K A T_D
+زین 1.0	Z II N
+خیالات 1.0	X A J A_A L A_A T_D
+سوزوکی 1.0	S O Z U_U K II
+باغات 1.0	B A_A G_G A_A T_D
+سڑکی 1.0	S A R_R K II
+نسل 1.0	N A S L
+شاعر 1.0	S_H A_A I R
+پالتے 1.0	P A_A L T_D A_Y
+ثنا 1.0	S A N A_A
+احباب 1.0	A H B A_A B
+خانم 1.0	X A_A N A M
+دلدوز 1.0	D_D I L D_D O_O Z
+لندن 1.0	L A N D_D A N
+مبشرہ 1.0	M U B S_H A R A_A
+دلدادہ 1.0	D_D I D_D D_D A_A D_D A_A
+بدنامی 1.0	B A D_D N A_A M II
+سنسنی 1.0	S U N S N II
+نوکروں 1.0	N O K A R O_O_N
+شان 1.0	S_H A_A N
+شام 1.0	S_H A_A M
+مشقیں 1.0	M I S_H Q A_Y_N
+حمود 1.0	H U M U_U D_D
+منفی 1.0	M U N A F F II
+نتھیا 1.0	N A T_D_H J I J A_A
+علمی 1.0	A L M II
+مالکہ 1.0	M A_A L A K A_A
+شاد 1.0	S_H A_A D_D
+خریدیں 1.0	X A R II D_D A_Y_N
+عثمان 1.0	U S M A_A N
+رخشندہ 1.0	R A X S_H A N D_D A_A
+کوششیں 1.0	K O_O S_H I S_H A_Y_N
+مقبولیت 1.0	M A Q B U_U L II J A T_D
+مناسبت 1.0	M U N A_A S A B A T_D
+سائز 1.0	S A_A I Z
+ابر 1.0	A B A R
+کرنا 1.0	K A R N A_A
+منڈی 1.0	M U N D II
+ابا 1.0	A B A_A
+ایبٹ 1.0	AE B A T
+بِن 1.0	B I N
+کمروں 1.0	K A M R O_O_N
+ملکی 1.0	M U L K II
+موٹاپے 1.0	M O_O T A_A P A_Y
+سائل 1.0	S A_A I L
+ملکہ 1.0	M U L K A_A
+فہیم 1.0	F A H II M
+طور 1.0	T_D U_U R
+خالدہ 1.0	X A_A L I D_D A_A
+چوکیدار 1.0	TS O K A_Y D_D A_A R
+نجومیوں 1.0	N U D_Z U_U M II O_O_N
+قارون 1.0	Q A_A R U_U N
+کارگل 1.0	K A_A R G A L
+وکلاء 1.0	V U K A L A_A
+اداکار 1.0	A D_D A_A K A_A R
+کارگو 1.0	K A_A R G U_U
+صغیر 1.0	S A G_G II R
+موٹاپا 1.0	M O_O T A_A P A_A
+موسمِ 1.0	M O S A M A_Y
+شکیل 1.0	S_H A K II L
+کرنی 1.0	K U R N II
+جذبوں 1.0	D_Z A Z B O_O_N
+شفاعت 1.0	S_H I F A_A A T_D
+شکیب 1.0	S_H I K A_Y B
+ہاجرہ 1.0	H A_A D_Z I R A_A
+مفید 1.0	M U F II D_D
+کرنے 1.0	K A R N A_Y
+ختم 1.0	X A T_D M
+مرکزی 1.0	M U R K A Z II
+دوپہر 1.0	D_D O P AE_H H R
+بیابان 1.0	B I J A_A B A_A N
+اولاد 1.0	O L A_A D_D A
+قسمت 1.0	Q I S M A T_D
+گلنار 1.0	G U L N A_A R
+احتساب 1.0	A_Y H T_D I S A_A B
+اجلاس 1.0	A D_Z L A_A S
+صاف 1.0	S A_A F
+مدحت 1.0	M U D_D D_D A T_D
+ٹوبہ 1.0	T O_O B A_A
+غلام 1.0	G_G U L L A_A M
+متعلق 1.0	M U T_D A A L L I Q
+سمیعہ 1.0	S A M II A_A
+الفت 1.0	A L F A T_D
+جاؤں 1.0	D_Z A_A U_U_N
+اجلال 1.0	A D_Z L A_A L
+کروائی 1.0	K A R V A_A II
+بچھا 1.0	B I TS_H A_A
+چاک 1.0	TS A_A K
+سدرہ 1.0	S A D_D D_D R A_A
+تعمیرات 1.0	T_D A_A M II R A_A T_D
+نظارہ 1.0	N A Z Z A_A R A_A
+مراکز 1.0	M A R A_A K I Z
+گودام 1.0	G U_U D_D A_A M
+اٹھاؤ 1.0	U T_H A_A O_O
+چاق 1.0	TS A_A Q
+وعدہ 1.0	V A D_D A_A
+چاپ 1.0	TS A_A P
+رہاہوں 1.0	R A H A_A H O_O_N
+ڈسپنسریاں 1.0	D I S P A N S A R I J A_A_N
+وعدے 1.0	V A_A D_D A_Y
+وسط 1.0	V A S T_D
+قطا 1.0	Q I T_D A N
+حویلی 1.0	H A V II L II
+منئی 1.0	M A N A II
+شبنم 1.0	S_H A B N A M
+گھنٹوں 1.0	G_H A N T O_O_N
+حباب 1.0	H A B A_A B
+غنڈہ 1.0	G_G U N D A_A
+دھوبی 1.0	D_D_H O_O B II
+پونچھ 1.0	P U_U N TS_H
+دہلی 1.0	D_D AE_H H L II
+چار 1.0	TS A_A R
+سورج 1.0	S O R D_Z
+جھرنا 1.0	D_Z_H A R N A_A
+مصیبت 1.0	M U S II B A T_D
+فلمیں 1.0	F I L M A_Y_N
+دارانہ 1.0	D_D A_A R A_A N A_A
+راجیہ 1.0	R A_A D_Z J A_A
+جولائی 1.0	D_Z O_O L A_A II
+مجھ 1.0	M U D_Z_H
+گہرے 1.0	G AE_H H R A_Y
+مہم 1.0	M U H A M
+عاشق 1.0	A_A S_H I Q
+گہری 1.0	G AE_H H R II
+ویڈیو 1.0	V AE D I J U_U
+محبِ 1.0	M U H B A_Y
+کھڑکیاں 1.0	K_H I R_R K I J A_A_N
+عدیل 1.0	A D_D II L
+محبت 1.0	M U H A B B A T_D
+عاشر 1.0	A_A S_H I R
+آمدن 1.0	A_A M D_D A N
+مجیبہ 1.0	M U D_Z II B A_A
+ثالثی 1.0	S A_A L I S II
+یزمان 1.0	J A Z M A_A N
+مہر 1.0	M U H R
+پالا 1.0	P A_A L A_A
+اٹھائیس 1.0	A T_H T_H A_A II S
+مسرت 1.0	M U S A R R A T_D
+بسمہ 1.0	B A S A M A_A
+ظہور 1.0	Z U H U_U R
+خیابانِسرسید 1.0	X A_A X A_A N I S A R S II D_D
+ناظرین 1.0	N A_A Z I R II N
+بھرنی 1.0	B_H A R N II
+لیٹا 1.0	L A_Y T A_A
+پھولوں 1.0	P_H U_U L O_O_N
+دھڑکن 1.0	D_D_H A R_R K A N
+ناشکری 1.0	N A_A S_H U K R II
+بیٹیاں 1.0	B A_Y T II A_A_N
+حاکم 1.0	H A_A K I M
+سموسے 1.0	S A M O_O S A_Y
+عرب 1.0	A R A B
+موچی 1.0	M O_O TS II
+تنظیم 1.0	T_D A N Z II M
+ناراض 1.0	N A_A R A_A Z
+اپنانے 1.0	A P N A_A N A_Y
+دونوں 1.0	D_D O_O N O_O_N
+اصل 1.0	A S L
+رعنا 1.0	R A A N A_A
+عرق 1.0	A R A Q
+اپنانی 1.0	A P N A_A N II
+گہرا 1.0	G AE_H H R A_A
+ثابت 1.0	S A_A B A T_D
+دیگر 1.0	D_D A_Y G A R
+امور 1.0	U M U_U R
+نشر 1.0	N A S_H A R
+نگر 1.0	N I G A R
+کمزوری 1.0	K A M Z O_O R II
+چھین 1.0	TS_H II N
+زیارت 1.0	Z I J A_A R A T_D
+آشنا 1.0	A_A S_H N A_A
+مہیا 1.0	M A H J A_A
+بازاروں 1.0	B A_A Z A_A R O_O_N
+فاخرہ 1.0	F A_A X I R A_A
+سنورنا 1.0	S A N V A R N A_A
+بڑھتی 1.0	B A R_R_H T_D II
+افتخار 1.0	I F T_D I X A_A R
+سوچ 1.0	S O_O TS
+بڑھتے 1.0	B A R_R_H T_D A_Y
+خاتمہ 1.0	X A_A T_D I M A_A
+طوطے 1.0	T_D U_U T_D A_Y
+سوٹ 1.0	S U_U T
+کھولنے 1.0	K_H O_O L N A_Y
+بڑھتا 1.0	B A R_R_H T_D A_A
+خاتمے 1.0	X A_A T_D M A_Y
+طوطی 1.0	T_D U_U T_D II
+منصوبے 1.0	M A N S U_U B A_Y
+قافلہ 1.0	Q A_A F I L A_A
+سپرد 1.0	S A P A R D_D
+برقرار 1.0	B A R Q A R A_A R
+قرار 1.0	Q I R A_A R
+مشین 1.0	M A S_H II N
+عربی 1.0	A R A B II
+مسکینہ 1.0	M I S K II N A_A
+محفلِ 1.0	M A H F I L A_Y
+انگریزی 1.0	A N_G R A_Y Z II
+نماز 1.0	N A M A_A Z
+لبابہ 1.0	L A B A_A B A_A
+بجلی 1.0	B I D_Z L II
+دفن 1.0	D_D A F N
+تبدیلی 1.0	T_D A B D_D II L II
+جملوں 1.0	D_Z A M L O_O_N
+مانگتی 1.0	M A_A N_G T_D II
+ٹھیکیدار 1.0	T_H A_Y K A_Y D_D A_A R
+تنقید 1.0	T_D A N Q II D_D
+بوسیدہ 1.0	B O_O S II D_D A_A
+شورش 1.0	S_H O_O R I S_H
+پولیس 1.0	P O_O L II S
+شفاقت 1.0	S_H A F A_A Q A T_D
+طویل 1.0	T_D A V II L
+گڑیا 1.0	G U R_R J A_A
+گزاریں 1.0	G U Z A_A R A_Y_N
+درہ 1.0	D_D A R R A_A
+دری 1.0	D_D A R R II
+شوق 1.0	S_H O Q
+دادو 1.0	D_D A_A D_D U_U
+اجتماع 1.0	I D_Z T_D I M A_A
+شوز 1.0	S_H O Z
+شور 1.0	S_H U_U R
+شوخ 1.0	S_H O X
+ارجمند 1.0	A R D_Z M A N D_D
+گداگری 1.0	G A D_D A_A G R II
+تلاوت 1.0	T_D A L A_A V A T_D
+ماجد 1.0	M A_A D_Z I D_D
+دشواریوں 1.0	D_D U S_H V A_A R II O_O_N
+جسمانی 1.0	D_Z I S M A_A N II
+پہنتے 1.0	P AE_H H A N T_D A_Y
+بدولت 1.0	B A D_D U_U L A T_D
+کیانی 1.0	K I J A_A N II
+بےمعنی 1.0	B A_Y M A Y N II
+اچھے 1.0	U TS_H TS_H A_Y
+مکمل 1.0	M U K M A L
+ناقابل 1.0	N A_A Q A_A B I L
+معلوم 1.0	M A_A L U_U M
+اصفر 1.0	A S F A R
+اچھی 1.0	A TS_H TS_H II
+خواہاں 1.0	X A_A H A_A_N
+اکبری 1.0	A K B A R II
+زید 1.0	Z II D_D
+تصویر 1.0	T_D A S V II R
+مجھے 1.0	M U D_Z_H D_Z_H A_Y
+درد 1.0	D_D A R D_D
+درج 1.0	D_D A R D_Z
+جھمرو 1.0	D_Z_H A M R U_U
+دروازہ 1.0	D_D A R V A_A Z A_A
+ٹیکسی 1.0	T AE K S II
+پہاڑوں 1.0	P A H A_A R_R O_O_N
+اورنگی 1.0	O R A N_G G II
+دروازے 1.0	D_D A R V A_A Z A_Y
+سنسان 1.0	S U N S A_A N
+نیلے 1.0	N II L A_Y
+برطرف 1.0	B A R T_D A R A F
+آلود 1.0	A_A L U_U D_D
+محبتوں 1.0	M U H A B B A T_D O_O_N
+باراتیوں 1.0	B A_A R A_A T_D II O_O_N
+ایوان 1.0	AE V A_A N
+چٹھی 1.0	TS I T T_H II
+جواں 1.0	D_Z A V A_A_N
+انیسہ 1.0	A N II S A_A
+عدل 1.0	A D_D L
+مشکل 1.0	M U S_H K I L
+مثبت 1.0	M U S B A T_D
+پھنسایا 1.0	P_H A N S A_A J A_A
+یورپی 1.0	J U_U R P II
+نمائش 1.0	N U M A_A I S_H
+شناختی 1.0	S_H A N A_A X T_D II
+خاندانی 1.0	X A_A N D_D A_A N II
+ترک 1.0	T_D A R K
+بارشو 1.0	B A_A R S_H U_U
+جواد 1.0	D_Z A V A_A D_D
+جواب 1.0	D_Z A V V A_A B
+ترچ 1.0	T_D A R TS
+کہڑور 1.0	K A H R_R A V A R
+نہایت 1.0	N I H A_A J A T_D
+اہلیہ 1.0	A H L I J A_A
+جواز 1.0	D_Z A V A_A Z
+ف 1.0	F
+موجودہ 1.0	M O D_Z U_U D_D A_A
+اٹھارہ 1.0	A T_H T_H A_A R A_A
+ڈیفنس 1.0	D II F A N S
+جوابی 1.0	D_Z A V V A_A B II
+پنکھے 1.0	P A N K_H A_Y
+نژاد 1.0	N I Z_Z A_A D_D
+کیا 1.0	K A J J A_A
+انٹرنیٹ 1.0	I N T A R N A_Y T
+جوہری 1.0	D_Z O H R II
+کیس 1.0	K A_Y S
+کمالیہ 1.0	K U M A_A L I J A_A
+گریز 1.0	G U R II Z
+سستا 1.0	S A S T_D A_A
+رویوں 1.0	R A V A J J O_O_N
+اِسکی 1.0	I S K II
+حنیفہ 1.0	H A N II F A_A
+خفیہ 1.0	X A F J A_A
+جدید 1.0	D_Z A D_D II D_D
+کیٹ 1.0	K AE T
+وقت 1.0	V A Q T_D
+بشانہ 1.0	B A S_H A_A N A_A
+گرین 1.0	G I R II N
+ٹھپ 1.0	T_H A P
+گھبرا 1.0	G_H A B R A_A
+کیں 1.0	K II_N
+پھیلاؤ 1.0	P_H AE L A_A O_O
+شعبوں 1.0	S_H O_O B O_O_N
+لڑکوں 1.0	L A R_R K O_O_N
+فرحین 1.0	F A R H AE N
+دوکانداروں 1.0	D_D U_U K A_A N D_D A_A R O_O_N
+صدمہ 1.0	S A D_D D_D A_A
+بلقیس 1.0	B A L Q II S
+لاو 1.0	L A_A V
+وطن 1.0	V A T_D A N
+جھوٹ 1.0	D_Z_H U_U T
+تکنیکی 1.0	T_D A K N II K II
+ڈھیلا 1.0	D_H A_Y L A_A
+قسم 1.0	Q I S A M
+لئے 1.0	L I A_Y
+دوستی 1.0	D_D O_O S T_D II
+کیے 1.0	K II A_Y
+والد 1.0	V A_A L I D_D
+باندھ 1.0	B A_A N D_D_H
+والا 1.0	V A_A L A_A
+غزل 1.0	G_G A Z A L
+پنجاب 1.0	P A N D_Z A_A B
+طورخم 1.0	T_D O R A X A M
+لیتے 1.0	L A_Y T_D A_Y
+برس 1.0	B A R S
+برت 1.0	B A R T_D
+لیتی 1.0	L A_Y T_D II
+مشاہدہ 1.0	M U S_H A_A H A D_D A_A
+عدد 1.0	A D_D A D_D
+دکھوں 1.0	D_D U K_H U_U_N
+مایوس 1.0	M A_A J U_U S
+خواب 1.0	X A_A B
+برف 1.0	B A R F
+بولا 1.0	B O_O L A_A
+مسعودہ 1.0	M A S U_U D_D A_A
+غزر 1.0	G_G A Z A R
+رپورٹ 1.0	R I P O_O R T
+اعتصام 1.0	I T_D I S A_A M
+باندی 1.0	B A_A N D_D II
+میلوڈی 1.0	M AE L O_O D II
+کاروائیاں 1.0	K A_A R V A_A I J A_A_N
+اتروانا 1.0	U T_D A R V A_A N A_A
+نازونخرے 1.0	N A_A Z O_O N X R A_Y
+معروف 1.0	M A R U_U F
+حقائق 1.0	H A Q A_A I Q
+آئندہ 1.0	A_A I N D_D A_A
+بولی 1.0	B O_O L II
+بتائی 1.0	B A T_D A_A II
+وسائل 1.0	V A S A_A I L
+صحافی 1.0	S A H H A_A F II
+جیئں 1.0	D_Z II A_Y_N
+آنکھ 1.0	A_A N K_H
+اہلیت 1.0	A H L II J A T_D
+بری 1.0	B A R II
+منگل 1.0	M A N_G G A L
+لیتا 1.0	L A_Y T_D A_A
+والی 1.0	V A_A L II
+ادھر 1.0	U D_D_H A R
+والہ 1.0	V A_A L A_A
+تیاری 1.0	T_D A J J A_A R II
+کاکو 1.0	K A_A K U_U
+مقدمات 1.0	M U Q A D_D D_D A M A_A T_D
+والے 1.0	V A_A L A_Y
+دلاور 1.0	D_D A L A_A V A R
+لورالائی 1.0	L O R A_A L A_A II
+کھو 1.0	K_H O_O
+کھل 1.0	K_H A L
+چاہے 1.0	TS A_A H A_Y
+خالق 1.0	X A_A L I Q
+چشمہ 1.0	TS A S_H M A_A
+انتخاب 1.0	I N T_D I X A_A B
+خونریز 1.0	X U_U N R II Z
+بہن 1.0	B AE_H H A N
+چوری 1.0	TS U_U R II
+فضیل 1.0	F A Z II L
+بہت 1.0	B A H A T_D
+ارخام 1.0	I R X A_A M
+افغانستان 1.0	A F G_G A_A N I S T_D A_A N
+بہا 1.0	B A H A_A
+لباس 1.0	L A B A_A S
+فواد 1.0	F A V A_A D_D
+دلنواز 1.0	D_D I L N A V A_A Z
+خالد 1.0	X A_A L I D_D
+ویگنوں 1.0	V AE G A N O_O_N
+عقیل 1.0	A Q II L
+کھا 1.0	K_H A_A
+بھلانی 1.0	B_H U L A_A N II
+بڑھئی 1.0	B A R_R_H A II
+بجھانے 1.0	B U D_Z_H A_A N A_Y
+خالی 1.0	X A_A L II
+البان 1.0	A L B A_A N
+ملتان 1.0	M U L T_D A_A N
+ربیعہ 1.0	R A B II A_A
+درزی 1.0	D_D A R Z II
+قرینے 1.0	Q A R II N A_Y
+گندگی 1.0	G A N D_D A G II
+چھوڑ 1.0	TS_H O_O R_R
+سینما 1.0	S AE N M A_A
+عبور 1.0	A B U_U R
+ابوتراب 1.0	A B O_O T_D A R A_A B
+منگوڑہ 1.0	M A N_G G U_U R_R A_A
+نمٹنے 1.0	N I M A T N A_Y
+ہمسایہ 1.0	H A M S A_A J A_A
+دبا 1.0	D_D A B A_A
+اخبار 1.0	A X B A_A R
+شاید 1.0	S_H A_A J A D_D
+برابر 1.0	B A R A_A B A R
+زبیدہ 1.0	Z A B II D_D A_A
+بیماریاں 1.0	B II M A_A R I J A_A_N
+ملاقات 1.0	M U L L A_A Q A_A T_D
+چاہت 1.0	TS A_A H A T_D
+قمر 1.0	Q A M A R
+بھائیوں 1.0	B_H A_A II O_O_N
+ٹھٹہ 1.0	T_H A T T A_A
+سست 1.0	S U S T_D
+برانڈس 1.0	B A R A_A N D S
+رہےہیں 1.0	R A H A_Y H A_Y_N
+آمریت 1.0	A_A M R II J A T_D
+اڑ 1.0	U R_R
+شریعت 1.0	S_H A R II J A T_D
+شہداد 1.0	S_H U H D_D A_A D_D
+ہڑتالیں 1.0	H A R_R T_D A_A L A_Y_N
+لوٹا 1.0	L O_O T A_A
+ڈپٹ 1.0	D I P I T
+سخت 1.0	S A X T_D
+ہوائی 1.0	H A V A_A II
+دالیں 1.0	D_D A_A L A_Y_N
+حلیمہ 1.0	H A L II M A_A
+متعارف 1.0	M U T_D A A_A R I F
+اے 1.0	A_Y
+گاتے 1.0	G A_A T_D A_Y
+ماہین 1.0	M A_A H II N
+ماجدہ 1.0	M A_A D_Z I D_D A_A
+تنگ 1.0	T_D A N_G
+از 1.0	A Z
+پتنگ 1.0	P A T_D T_D I N_G
+نئے 1.0	N I A_Y
+نئی 1.0	N A II
+بابت 1.0	B A_A B A T_D
+بِلا 1.0	B I L A_A
+حرمت 1.0	H A R M A T_D
+حرمد 1.0	H A R M A D_D
+اب 1.0	A B
+اسود 1.0	A S U_U D_D
+بہبود 1.0	B A H B U_U D_D
+سبکتگین 1.0	S U B K A T_D G II N
+جرمانہ 1.0	D_Z U R M A_A N A_A
+اسحاق 1.0	I S H A_A Q
+ڈالتے 1.0	D A_A L T_D A_Y
+یہیں 1.0	J A H A_Y_N
+وزارتِ 1.0	V A Z A_A R A T_D A_Y
+دادنخان 1.0	D_D A_A D_D N X A_A N
+طارق 1.0	T_D A_A R I Q
+مقبول 1.0	M A Q B U_U L
+پارلیمنٹ 1.0	P A_A R L II M A N T
+ان 1.0	A N
+رضوان 1.0	R I Z V A_A N
+اکیڈمیاں 1.0	A K AE D M I J A_A_N
+پنڈی 1.0	P I N D II
+صنعتی 1.0	S A N A T_D II
+ماچھی 1.0	M A_A TS_H II
+ڈھاکہ 1.0	D_H A_A K A_A
+حلال 1.0	H A L L A_A L
+کھڑکی 1.0	K_H I R_R K II
+مِل 1.0	M I L
+اجنبی 1.0	A D_Z N A B II
+بنیاد 1.0	B A N J A_A D_D
+کچی 1.0	K U TS TS II
+شاکر 1.0	S_H A_A K I R
+اکبر 1.0	A K B A R
+بدگمانیاں 1.0	B A D_D G U M A_A N I J A_A_N
+کچھ 1.0	K U TS_H
+خاموشی 1.0	X A_A M O_O S_H II
+گھومنے 1.0	G_H U_U M N A_Y
+ٹریفک 1.0	T A R AE F I K
+یلغار 1.0	J A L G_G A_A R
+چلوں 1.0	TS A L L O_O_N
+بارونق 1.0	B A_A R U_U N A Q
+شاہانہ 1.0	S_H A_A H A_A N A_A
+ضروری 1.0	Z A R U_U R II
+کارکردگی 1.0	K A_A R K A R D_D A G II
+بھٹیاں 1.0	B_H A T T I J A_A_N
+خام 1.0	X A_A M
+بھایئوں 1.0	B_H A_A II O_O_N
+ضرورت 1.0	Z A R U_U R A T_D
+دیانت 1.0	D_D I J A_A N A T_D
+تائثر 1.0	T_D A_A A S S U R
+آئند 1.0	A_A I N D_D
+زوہیب 1.0	Z O_O H II B
+جائے 1.0	D_Z A_A A_Y
+قصہ 1.0	Q I S S A_A
+سیمی 1.0	S II M II
+تجاوزات 1.0	T_D A D_Z A_A V U Z A_A T_D
+خاص 1.0	X A_A S
+تعمیراتی 1.0	T_D A_A M II R A_A T_D II
+سفیان 1.0	S A F J A_A N
+متین 1.0	M A T_D II N
+خدمت 1.0	X I D_D M A T_D
+رویہ 1.0	R A V I J A_A
+کاملہ 1.0	K A_A M I L A_A
+مشکلات 1.0	M U S_H K A L A_A T_D
+اچھاہے 1.0	A_A TS_H TS_H A_A H A_Y
+تائبہ 1.0	T_D A_A I B A_A
+لکھنا 1.0	L I K_H N A_A
+تعبیر 1.0	T_D A B II R
+دھو 1.0	D_D_H O_O
+شاہین 1.0	S_H A_A H II N
+جماعتوں 1.0	D_Z A M A_A A T_D O_O_N
+قطاریں 1.0	Q I T_D A_A R A_Y_N
+ہتھکڑی 1.0	H A T_D_H K A R_R II
+سربراہ 1.0	S A R B A R A_A
+چوٹی 1.0	TS O_O T II
+ہلکی 1.0	H A L K II
+ترسیل 1.0	T_D A R S II L
+پسینہ 1.0	P A S II N A_A
+انوشہ 1.0	A N O_O S_H A_A
+مدِنظر 1.0	M A D_D D_D A_Y N A Z A R
+ووٹروں 1.0	V O_O T R O_O_N
+ارد 1.0	A R D_D
+کیمرے 1.0	K AE M R A_Y
+ارب 1.0	A R A B
+تکلیف 1.0	T_D A K L II F
+مینار 1.0	M II N A_A R
+تنظیموں 1.0	T_D A N Z II M O_O_N
+چنن 1.0	TS U N A N
+انگلینڈ 1.0	I N_G L AE N D
+لکھنے 1.0	L I K_H N A_Y
+ارم 1.0	A R A M
+فکر 1.0	F I K R
+چند 1.0	TS A N D_D
+مزاحیہ 1.0	M U Z A_A H I J A_A
+جذبات 1.0	D_Z A Z B A_A T_D
+محکمے 1.0	M U H K A M A_Y
+اندازہ 1.0	A N D_D A_A Z A_A
+لانڈھی 1.0	L A_A N D_H II
+ملتوی 1.0	M U L T_D A V II
+اٹھنا 1.0	U T_H N A_A
+کاروائی 1.0	K A_A R V A_A II
+محکمہ 1.0	M U H K A M A_A
+اندازی 1.0	A N D_D A_A Z II
+بٹ 1.0	B A T
+رنگوں 1.0	R A N_G G O_O_N
+جاگ 1.0	D_Z A_A G
+کھولے 1.0	K_H O_O L A_Y
+جوق 1.0	D_Z O Q
+کارِخیر 1.0	K A_A R A_Y X AE R
+مسکراتے 1.0	M U S K U R A_A T_D A_Y
+ٹیسٹ 1.0	T AE S T
+توڑ 1.0	T_D O_O R_R
+بحیرہ 1.0	B A H AE R A_A
+بل 1.0	B I L
+بم 1.0	B A M
+لمحوں 1.0	L A M H O_O_N
+بس 1.0	B A S
+بر 1.0	B A R
+عاتکہ 1.0	A_A T_D I K A_A
+جوس 1.0	D_Z O S
+بد 1.0	B A D_D
+بج 1.0	B A D_Z
+با 1.0	B A_A
+پبلیسٹی 1.0	P A B L II S I T II
+بلند 1.0	B A L A N D_D
+نم 1.0	N A M
+سرخ 1.0	S U R X
+مافیا 1.0	M A_A F I J A_A
+صوفیہ 1.0	S O_O F I J A_A
+رداء 1.0	R I D_D A_A
+قرطبہ 1.0	Q U R T_D A B A_A
+غریب 1.0	G_G A R II B
+بیماریوں 1.0	B AE M A_A R II O_O_N
+حمایت 1.0	H A M A_A J A T_D
+لمحہ 1.0	L A M H A_A
+بے 1.0	B A_Y
+اتر 1.0	U T_D R
+لمحے 1.0	L A M H A_Y
+اعشاریہ 1.0	A S_H A_A R I J A_A
+کھولو 1.0	K_H O_O L O_O
+کرنٹ 1.0	K A R A N T
+رشتوں 1.0	R I S_H T_D O_O_N
+کھولا 1.0	K_H O_O L A_A
+نبھا 1.0	N I B_H A_A
+نامے 1.0	N A_A M A_Y
+عرفان 1.0	I R F A_A N
+عنان 1.0	I N A_A N
+جوڑ 1.0	D_Z O R_R
+بچ 1.0	B A TS
+میمونہ 1.0	M AE M U_U N A_A
+گاجر 1.0	G A_A D_Z A R
+قانونِ 1.0	Q A_A N U_U N A_Y
+کھاد 1.0	K_H A_A D_D
+پیچیدگیاں 1.0	P A_Y TS II D_D G II A_A_N
+برتی 1.0	B A R T_D II
+سبین 1.0	S A B II N
+بیروزگاری 1.0	B A_Y R O_O Z G A_A R II
+کشمیر 1.0	K A S_H M II R
+حضرو 1.0	H A Z R U_U
+کھانے 1.0	K_H A_A N A_Y
+تی 1.0	T_D II
+کھانی 1.0	K_H A_A N II
+انتقال 1.0	I N T_D I Q A_A L
+حضرت 1.0	H A Z R A T_D
+تاثرات 1.0	T_D A_A S S U R A_A T_D
+معطلی 1.0	M U A T_D T_D I L II
+کمپیوٹر 1.0	K A M P I J U_U T A R
+دیکھے 1.0	D_D A_Y K_H A_Y
+عبداللہ 1.0	A B D_D U L L A_A
+موذی 1.0	M U_U Z II
+ناصرہ 1.0	N A_A S I R A_A
+دیر 1.0	D_D A_Y R
+دیس 1.0	D_D A_Y S
+قیصر 1.0	Q II S A R
+چ 1.0	TS A TS
+دیہات 1.0	D_D A_Y H A_A T_D
+رزین 1.0	R A Z II N
+برتن 1.0	B A R T_D A N
+دیے 1.0	D_D II A_Y
+قانونی 1.0	Q A_A N U_U N II
+مادری 1.0	M A_A D_D A R II
+دیکھا 1.0	D_D A_Y K_H A_A
+چیزیں 1.0	TS II Z A_Y_N
+اصمد 1.0	A S M A D_D
+حضری 1.0	H A Z R II
+تو 1.0	T_D O_O
+قانوناً 1.0	Q A_A N U_U N A N
+صبوحی 1.0	S A B U_U H II
+تم 1.0	T_D U M
+وہاں 1.0	V A H A_A_N
+شازیہ 1.0	S_H A_A Z I J A_A
+کالام 1.0	K A_A L A_A M
+بدنظمی 1.0	B A D_D N A Z M II
+تر 1.0	T_D A R
+وزیرِپٹرولیم 1.0	V A Z II R A_Y P A T R O_O L II M
+کھانا 1.0	K_H A_A N A_A
+تا 1.0	T_D A_A
+پیشین 1.0	P A_Y S_H II N
+روایتی 1.0	R A V A_A II T_D II
+دیں 1.0	D_D A_Y_N
+علیکم 1.0	A L II K A M
+اٹھایا 1.0	U T_H A_A J A_A
+ریگل 1.0	R II G A L
+اہلکاروں 1.0	A H A L K A_A R O_O_N
+عارضی 1.0	A_A R Z II
+حسو 1.0	H U S U_U
+حسن 1.0	H U S A N
+جبین 1.0	D_Z A B II N
+گائے 1.0	G A_A A_Y
+افشین 1.0	A F S_H I J A N
+نکالا 1.0	N I K A_A L A_A
+بٹوہ 1.0	B A T V A_A
+رمشاء 1.0	R A M S_H A_A
+اکرم 1.0	A K R A M
+پہاڑی 1.0	P A H A_A R_R II
+بٹوے 1.0	B A T V A_Y
+عدلیہ 1.0	A D_D L I J A_A
+ہلاک 1.0	H A L L A_A K
+اپیل 1.0	A P II L
+واضح 1.0	V A_A Z A_Y
+طلاق 1.0	T_D A L L A_A Q
+طلال 1.0	T_D A L A_A L
+چینل 1.0	TS AE N A L
+سونیا 1.0	S O_O N I J A_A
+اُس 1.0	U S
+سطح 1.0	S A T_D H
+روایت 1.0	R I V A_A J A T_D
+بریانی 1.0	B A R J A_A N II
+مزدوروں 1.0	M A Z D_D U_U R O_O_N
+اندھا 1.0	A N D_D_H A_A
+حسب 1.0	H A S A B
+ایمانداری 1.0	II M A_A N D_D A_A R II
+مشتمل 1.0	M U S_H T_D A M I L
+لانے 1.0	L A_A N A_Y
+اندھی 1.0	A N D_D_H II
+مایا 1.0	M A_A J A_A
+مقام 1.0	M U Q A_A M
+نا 1.0	N A_A
+بابرہ 1.0	B A_A B A R A_A
+سواریاں 1.0	S A V A_A R I J A_A_N
+گئے 1.0	G I A_Y
+ہلال 1.0	H A L L A_A L
+بول 1.0	B O_O L
+چینی 1.0	TS II N II
+بہتری 1.0	B AE_H H T_D A R II
+نعمت 1.0	N A_Y M A T_D
+چوبرجی 1.0	TS O B A R D_Z II
+وصول 1.0	V U S U_U L
+جیون 1.0	D_Z II V A N
+چانسلر 1.0	TS A_A N S L A R
+شاباش 1.0	S_H A_A B A_A S_H
+ملا 1.0	M I L L A_A
+ایکشن 1.0	AE K S_H A N
+جات 1.0	D_Z A_A T_D
+ظلم 1.0	Z U L M
+انتظام 1.0	I N T_D I Z A_A M
+کلینک 1.0	K A L II N I K
+حافظہ 1.0	H A_A F I Z A_A
+خواہشات 1.0	X A_A H I S_H A_A T_D
+پرواز 1.0	P A R V A_A Z
+الاقوامی 1.0	A L A_A Q V A_A M II
+ادیب 1.0	A D_D II B
+صولت 1.0	S U_U L A T_D
+جمرود 1.0	D_Z A M R U_U D_D
+پاکپتن 1.0	P A_A K P A T_D A N
+مینارِپاکستان 1.0	M II N A_A R I P A_A K I S T_D A_A N
+ادیم 1.0	A D_D II M
+کریں 1.0	K U R R A_Y_N
+بروئے 1.0	B A R V I A_Y
+بیہودہ 1.0	B A_Y H U_U D_D A_A
+پروان 1.0	P A R V A_A N
+کوٹلی 1.0	K O_O T L II
+ترجح 1.0	T_D A R D_Z A_A
+بہزاد 1.0	B AE_H H Z A_A D_D
+انتظار 1.0	I N T_D I Z A_A R
+ساجدہ 1.0	S A_A D_Z I D_D A_A
+جھلس 1.0	D_Z_H U L A S
+تان 1.0	T_D A_A N
+ہوشمند 1.0	H O_O S_H M A N D_D
+عہدےداروں 1.0	O_O_H H D_D A_Y D_D A_A R O_O_N
+نمائندے 1.0	N U M A_A I N D_D A_Y
+تمہیں 1.0	T_D U M H A_Y_N
+فوجی 1.0	F O_O D_Z II
+معاشرتی 1.0	M U A_A S_H A R T_D II
+کریم 1.0	K A R II M
+مشکلوں 1.0	M U S_H K A L O_O_N
+سوچا 1.0	S O_O TS A_A
+عجب 1.0	A D_Z A B
+پیمانے 1.0	P AE M A_A N A_Y
+پیپلز 1.0	P AE P A L Z
+ٹرکوں 1.0	T A R K O_O_N
+فورٹ 1.0	F O_O R T
+پرواہ 1.0	P A R V A_A
+ونڈ 1.0	V I N D
+رلایا 1.0	R U L A_A J A_A
+تاب 1.0	T_D A_A B
+تاج 1.0	T_D A_A D_Z
+اردو 1.0	A R D_D U_U
+ذکی 1.0	Z A K II
+بوعلی 1.0	B O_O A L II
+تار 1.0	T_D A_A R
+ابوہریرہ 1.0	A B O_O H R II R A_A
+ناظمہ 1.0	N A_A Z I M A_A
+سفارشات 1.0	S I F A_A R I S_H A_A T_D
+جرم 1.0	D_Z U R M
+سیٹھ 1.0	S A_Y T_H
+ڈوبتے 1.0	D U_U B T_D A_Y
+والٹن 1.0	V A_A L T A N
+کھڑا 1.0	K_H A R_R A_A
+درست 1.0	D_D A R A S T_D
+جوڑا 1.0	D_Z O_O R_R A_A
+قاتلوں 1.0	Q A_A T_D I L O_O_N
+اسپیشل 1.0	I S P A_Y S_H A L
+خوابوں 1.0	X A_A B O_O_N
+ہڑپ 1.0	H A R_R A P
+کاموں 1.0	K A_A M O_O_N
+سیکھ 1.0	S II K_H
+پوسٹ 1.0	P O_O S T
+گیہوں 1.0	G AE H O_O_N
+خاموش 1.0	X A_A M O_O S_H
+پلوشہ 1.0	P A L O_O S_H A_A
+کمرہ 1.0	K A M R A_A
+سینیما 1.0	S AE N II M A_A
+رہنا 1.0	R A H N A_A
+غریبوں 1.0	G_G A R II B O_O_N
+بہاولنگر 1.0	B A H U_U L A N_G G A R
+مسکراہٹ 1.0	M U S K A R A_A H A T
+مائرہ 1.0	M A_A I R A_A
+رہنے 1.0	R AE_H H N A_Y
+شفاف 1.0	S_H I F F A_A F
+خیرسگالی 1.0	X AE R S I G A_A L II
+اخرم 1.0	A X R A M
+حمد 1.0	H A M D_D
+روئی 1.0	R O_O II
+زدگان 1.0	Z A D_D G A_A N
+مالیت 1.0	M A_A L II J A T_D
+جوڑے 1.0	D_Z O_O R_R A_Y
+ہادیہ 1.0	H A_A D_D J A_A
+ہوشیار 1.0	H O_O S_H J A_A R
+اشتر 1.0	I S_H T_D A R
+پڑاؤ 1.0	P A R_R A_A O_O
+درسی 1.0	D_D A R S II
+ردعمل 1.0	R A D_D D_D A_Y A M A L
+نافعہ 1.0	N A_A F I A_A
+شفاء 1.0	S_H I F A_A
+مورچہ 1.0	M O_O R TS A_A
+عسکری 1.0	A S K A R II
+کھایا 1.0	K_H A_A J A_A
+ہشام 1.0	H A S_H A_A M
+ثامر 1.0	S A_A M I R
+قربان 1.0	Q U R B A_A N
+دھبہ 1.0	D_D_H A B B A_A
+بولنگ 1.0	B O_O L I N_G
+مشترکہ 1.0	M U S_H T_D A R K A_A
+دورانِ 1.0	D_D O R A_A N A_Y
+خلف 1.0	X A L F
+خلل 1.0	X A L L
+معیار 1.0	M I J A_A R
+چنبیلی 1.0	TS A M B A_Y L II
+واپس 1.0	V A_A P S
+لگائیں 1.0	L A G A_A A_Y_N
+امتیاز 1.0	I M T_D I J A_A Z
+خلا 1.0	X A L L A_A
+ساندہ 1.0	S A_A N D_D A_Y
+دھوپ 1.0	D_D_H U_U P
+شرارت 1.0	S_H A R A_A R A T_D
+جاگنا 1.0	D_Z A_A G N A_A
+گاہک 1.0	G A_A H A K
+بیٹھے 1.0	B AE T_H A_Y
+ثامن 1.0	S A_A M A N
+بحریہ 1.0	B A H A R J A_A
+نایاب 1.0	N A_A J A_A B
+زمہ 1.0	Z U M A_A
+تماشوئیوں 1.0	T_D A M A_A S_H U_U II O_O_N
+بیٹھا 1.0	B AE T_H A_A
+کھاتا 1.0	K_H A_A T_D A_A
+برعکس 1.0	B A R A K S
+عالم 1.0	A_A L I M
+جاگنے 1.0	D_Z A_A G N A_Y
+میکے 1.0	M AE K A_Y
+گارمنٹس 1.0	G A_A R M A N T S
+بنچوں 1.0	B A N TS O_O_N
+مرکز 1.0	M U R K A Z
+ڈاکٹرز 1.0	D A_A K T A R Z
+عفت 1.0	I F F A T_D
+انشراح 1.0	I N S_H I R A_A
+نصاب 1.0	N I S A_A B
+ترتیب 1.0	T_D A R T_D II B
+بحرین 1.0	B A H R II N
+اسکولوں 1.0	I S K U_U L O_O_N
+حزیم 1.0	H A Z II M
+فہمی 1.0	F AE_H H M II
+تباہی 1.0	T_D A B A_A H II
+سچے 1.0	S A TS TS A_Y
+کشمیری 1.0	K A S_H M II R II
+کارکن 1.0	K A_A R K U N
+بجاتا 1.0	B A D_Z A_A T_D A_A
+سیاستدان 1.0	S II A_A S T_D I D_D A_A N
+دھجیاں 1.0	D_D_H U D_Z D_Z I J A_A_N
+تجربے 1.0	T_D A D_Z R A B A_Y
+تبصرے 1.0	T_D A B S A R A_Y
+تمہارا 1.0	T_D U M H A_A R A_A
+تجربہ 1.0	T_D A D_Z R I B A_A
+عرفانہ 1.0	I R F A_A N A_A
+تجربات 1.0	T_D A D_Z R I B A_A T_D
+اظہارکِیا 1.0	I Z H A_A R A_Y K I J A_A
+شیما 1.0	S_H AE M A_A
+زاہر 1.0	Z A_A H I R
+ملکوال 1.0	M A L K A V A_A L
+راگنی 1.0	R A_A G N II
+ضیا 1.0	Z A J A_A
+زاہد 1.0	Z A_A H I D_D
+کاروبار 1.0	K A_A R O_O B A_A R
+ہماس 1.0	H A M M A_A S
+پھولنا 1.0	P_H U_U L N A_A
+سمندر 1.0	S A M A N D_D A R
+مبینہ 1.0	M U B II N A_A
+حسنات 1.0	H A S A N A_A T_D
+سائیکلیں 1.0	S A_A II K L A_Y_N
+رئیسہ 1.0	R A II S A_A
+ہمان 1.0	H A M A_A N
+حسناء 1.0	H I S N A_A
+عطیات 1.0	A T_D I J A_A T_D
+تنخواہ 1.0	T_D A N X A_A
+گھوٹکی 1.0	G_H O_O T K II
+بنایا 1.0	B A N A_A J A_A
+سچا 1.0	S A TS TS A_A
+کمیشن 1.0	K A M II S_H A N
+طاقتیں 1.0	T_D A_A Q A T_D A_Y_N
+اڑاؤ 1.0	U R_R A_A O_O
+قرض 1.0	Q A R Z
+ضمنی 1.0	Z I M A N II
+فہیمہ 1.0	F A H II M A_A
+صوابی 1.0	S A V V A_A B II
+گولی 1.0	G O_O L II
+بیٹھتا 1.0	B AE T_H T_D A_A
+حقانی 1.0	H A Q Q A_A N II
+ڈاکہ 1.0	D A_A K A_A
+کمپنیوں 1.0	K A M P A N II O_O_N
+نہس 1.0	N A H A S
+نہر 1.0	N AE_H H R
+بشیر 1.0	B A S_H II R
+لللہ 1.0	L A L L A H
+نہا 1.0	N A H H A_A
+بسی 1.0	B A S II
+شرٹ 1.0	S_H A R T
+کھیلیں 1.0	K_H A_Y L A_Y_N
+بسا 1.0	B A S A_A
+چربہ 1.0	TS A R B A_A
+اظہار 1.0	I Z H A_A R
+جعلی 1.0	D_Z A_A L II
+وانا 1.0	V A_A N A_A
+جھنگ 1.0	D_Z_H A N_G
+قزافی 1.0	Q A Z Z A_A F II
+اڑانے 1.0	U R_R A_A N A_Y
+قیامت 1.0	Q I J A_A M A T_D
+ڈیوٹی 1.0	D I J U_U T II
+دلبر 1.0	D_D I L B A R
+صباح 1.0	S A B A_A
+ڈاکو 1.0	D A_A K O_O
+برا 1.0	B A R A_A
+غازی 1.0	G_G A_A Z II
+نہی 1.0	N A H II
+گھریلو 1.0	G_H A R A_Y L U_U
+عظیمہ 1.0	A Z II M A_A
+دیہی 1.0	D_D A_Y H II
+آپس 1.0	A_A P S
+روپے 1.0	R U_U P A_Y
+نگلہ 1.0	N I G L A_A
+بیٹھتے 1.0	B AE T_H T_D A_Y
+کیفرِکردار 1.0	K AE F A R A_Y K A R D_D A_A R
+تمہارے 1.0	T_D U M H A_A R A_Y
+بچت 1.0	B A TS A T_D
+کومدِنظر 1.0	K O_O M D_D A_Y N A Z A R
+غذا 1.0	G_G I Z A_A
+غیور 1.0	G_G A J J U_U R
+منانے 1.0	M A N A_A N A_Y
+ذبح 1.0	Z A B H
+پوچھا 1.0	P U_U TS_H A_A
+قلات 1.0	Q A L L A_A T_D
+دفتر 1.0	D_D A F T_D A R
+لگانا 1.0	L A G A_A N A_A
+فرخندہ 1.0	F A R X A N D_D A_A
+سکندر 1.0	S I K A N D_D A R
+تارص 1.0	T_D A_A R I S
+اسد 1.0	A S A D_D
+مطمئن 1.0	M U T_D M A I N
+شبیر 1.0	S_H A B II R
+مسلمان 1.0	M U S L I M A_A N
+محمود 1.0	M A H M U_U D_D
+چلے 1.0	TS A L L A_Y
+حمیدہ 1.0	H A M II D_D A_A
+بڑوں 1.0	B A R_R O_O_N
+قیمتی 1.0	Q II M T_D II
+افسانے 1.0	A F S A_A N A_Y
+مجالسِ 1.0	M U D_Z A_A L I S A_Y
+پمپ 1.0	P A M P
+قیدیوں 1.0	Q AE D_D II O_O_N
+ٹیکنالوجی 1.0	T AE K N A_A L O_O D_Z II
+بارانی 1.0	B A_A R A_A N II
+بکھیرنی 1.0	B A K_H A_Y R N II
+دریا 1.0	D_D A R J A_A
+زندہ 1.0	Z I N D_D A_A
+ڈنگہ 1.0	D A N_G G A_A
+زلیخا 1.0	Z U L A_Y X A_A
+چلا 1.0	TS A L L A_A
+احتیاط 1.0	I H T_D I J A_A T_D
+جیکب 1.0	D_Z AE K A B
+اسے 1.0	A S A_Y
+مخلص 1.0	M U X A L L I S
+ترقی 1.0	T_D A R A Q Q II
+چلن 1.0	TS A L A N
+چلو 1.0	TS A L O_O
+ڈر 1.0	D A R
+علاقے 1.0	A L L A_A Q A_Y
+دشوار 1.0	D_D U S_H V A_A R
+کاروبارِ 1.0	K A_A R O_O B A_A R A_Y
+آشفتہ 1.0	A_A S_H U F T_D A_A
+اونٹ 1.0	U_U N T
+حصے 1.0	H I S S A_Y
+حصہ 1.0	H I S S A_A
+زیرِ 1.0	Z A_Y R A_Y
+نافذ 1.0	N A_A F I Z
+ہالوں 1.0	H A_A L O_O_N
+البم 1.0	A L B A M
+زرینہ 1.0	Z A R II N A_A
+انڈسٹری 1.0	I N D A S T A R II
+ڈے 1.0	D A_Y
+ڈی 1.0	D II
+صاعقہ 1.0	S A_A I Q A_A
+پلنگ 1.0	P A L A N_G
+باہر 1.0	B A_A H A R
+بنوں 1.0	B A N O_O_N
+تلہ 1.0	T_D A L L A_A
+امکانات 1.0	I M K A_A N A_A T_D
+ٹاور 1.0	T A_A V A R
+ذمہ 1.0	Z I M M A_A
+تلے 1.0	T_D A L A_Y
+تلخ 1.0	T_D A L X
+ضلع 1.0	Z A L
+سفینہ 1.0	S A F II N A_A
+ونشریات 1.0	V A N S_H A R J A_A T_D
+ترین 1.0	T_D A R II N
+ساڑھے 1.0	S A_A R_R_H A_Y
+احتسابی 1.0	A_Y H T_D I S A_A B II
+گارڈن 1.0	G A_A R D A N
+چوہدری 1.0	TS O H D_D R II
+ساڑھی 1.0	S A_A R_R_H II
+دیئے 1.0	D_D II A_Y
+معطل 1.0	M U A T_D T_D I L
+پنجگور 1.0	P A N D_Z G U_U R
+ذرائع 1.0	Z A R A_A A_Y
+اختر 1.0	I X T_D A R
+جاریہ 1.0	D_Z A_A R J A_A
+تھپتھپائیں 1.0	T_D_H A P T_D_H A P A_A A_Y_N
+نشاط 1.0	N A S_H S_H A_A T_D
+جٹرانوالہ 1.0	D_Z A T R A_A N V A_A L A_A
+سانحہ 1.0	S A_A N I H A_A
+وارداتوں 1.0	V A_A R D_D A_A T_D O_O_N
+اخلاقی 1.0	I X L A_A Q II
+ماننا 1.0	M A_A N N A_A
+عیسی 1.0	AE S II
+سانحے 1.0	S A_A N H A_Y
+حصص 1.0	H I S S
+انتقام 1.0	I N T_D I Q A_A M
+گوشی 1.0	G O_O S_H II
+امیرہ 1.0	A M II R A_A
+دھماکے 1.0	D_D_H A M A_A K A_Y
+مؤقف 1.0	M U_U A Q Q A F
+ماڈل 1.0	M A_A D A L
+طاؤس 1.0	T_D A_A U_U S
+راشد 1.0	R A_A S_H I D_D
+جیسا 1.0	D_Z AE S A_A
+رائمہ 1.0	R A_A I M A_A
+محلہ 1.0	M U H A L L A_A
+مہریں 1.0	M O_O_H H R A_Y_N
+درخواست 1.0	D_D A R X A_A S T_D
+سلیقے 1.0	S A L II Q A_Y
+محلے 1.0	M A H L A_Y
+روائتی 1.0	R I V A_A II T_D II
+سلیقہ 1.0	S A L II Q A_A
+بلوں 1.0	B A L O_O_N
+چھتری 1.0	TS_H A T_D R II
+پہنچایا 1.0	P AE_H H N TS A_A J A_A
+نچلی 1.0	N I TS L II
+شمائلہ 1.0	S_H A M A_A I L A_A
+رؤف 1.0	R A U_U F
+امراء 1.0	A M R A_A
+عمدہ 1.0	A M D_D A_A
+سڑک 1.0	S A R_R A K
+چاہیئے 1.0	TS A_A H II A_Y
+نجمہ 1.0	N A D_Z M A_A
+نچلے 1.0	N I TS L A_Y
+امراض 1.0	A M R A_A Z
+آراء 1.0	A_A R A_A
+نتیجہ 1.0	N A T_D II D_Z A_A
+محفوظ 1.0	M A H F U_U Z
+فنکاروں 1.0	F A N K A_A R O_O_N
+منتخب 1.0	M U N T_D A X A B
+عبیدہ 1.0	A B II D_D A_A
+ججوں 1.0	D_Z I D_Z U_U_N
+منزلیں 1.0	M A N Z I L A_Y_N
+ابوالحسن 1.0	A B V A L H A S A N
+ضامن 1.0	Z A_A M I N
+ہیام 1.0	H I J A_A M
+جاپان 1.0	D_Z A_A P A_A N
+آرام 1.0	A_A R A_A M
+منیر 1.0	M U N II R
+خادمہ 1.0	X A_A D_D I M A_A
+فائقہ 1.0	F A_A I Q A_A
+مزنہ 1.0	M A Z N A_A
+ٹیکسالی 1.0	T AE K S A_A L II
+دیبا 1.0	D_D II B A_A
+کڑے 1.0	K A R_R A_Y
+منطر 1.0	M A N T_D A R
+سلا 1.0	S I L A_A
+مصنفین 1.0	M U S A N F I J A N
+مطالبات 1.0	M U T_D A_A L A B A_A T_D
+عمر 1.0	U M A R
+بااثر 1.0	B A_A A S A R
+منطق 1.0	M U N T_D I Q
+پڑنے 1.0	P A R_R N A_Y
+بندھی 1.0	B A N D_D_H II
+عمل 1.0	A M A L
+رافعہ 1.0	R A_A F I A_A
+تقریب 1.0	T_D A Q R II B
+بہاؤالدین 1.0	B A H A V A_A L D_D II N
+ڈیڑھ 1.0	D A_Y R_R_H
+عصمت 1.0	I S M A T_D
+مزنگ 1.0	M A Z I N_G
+اریبہ 1.0	A R II B A_A
+تقریر 1.0	T_D A Q R II R
+مومنا 1.0	M O_O M N A_A
+امپائروں 1.0	I M P A_A I R O_O_N
+فیض 1.0	F AE Z
+طبلہ 1.0	T_D A B L A_A
+بندھن 1.0	B A N D_D_H A N
+لگاؤ 1.0	L A G A_A O_O
+تھیٹروں 1.0	T_D_H A_Y T R O_O_N
+سلطان 1.0	S U L T_D A_A N
+خدمات 1.0	X I D_D M A_A T_D
+فیل 1.0	F A_Y L
+مشینں 1.0	M A S_H II N
+شبہات 1.0	S_H A B H A_A T_D
+ذرا 1.0	Z A R R A_A
+قیمتیں 1.0	Q II M A T_D A_Y_N
+جامی 1.0	D_Z A_A M II
+ابوالخیر 1.0	A B V A L X A_Y R
+تاریخی 1.0	T_D A_A R II X II
+حربی 1.0	H A R B II
+آفات 1.0	A_A F A_A T_D
+گرمی 1.0	G I R M II
+خاکے 1.0	X A_A K A_Y
+لگی 1.0	L A G II
+کائنات 1.0	K A_A I N A_A T_D
+پکڑ 1.0	P A K K A R_R
+مردانہ 1.0	M A R D_D A_A N A_A
+اشعار 1.0	A S_H A_A R
+لگے 1.0	L A G A_Y
+طرف 1.0	T_D A R F
+مِلی 1.0	M I L II
+طرز 1.0	T_D A R Z
+طرح 1.0	T_D A R H
+چل 1.0	TS I L
+واحدہ 1.0	V A_A H I D_D A_A
+انشال 1.0	I N S_H A_A L
+مہنگا 1.0	M A H N_G G A_A
+چپ 1.0	TS A P
+آفاق 1.0	A_A F A_A Q
+چچی 1.0	TS A TS II
+دامنِکوہ 1.0	D_D A_A M I N I K V A_A
+فہد 1.0	F A H D_D
+واقع 1.0	V A_A Q A_Y
+سنایا 1.0	S U N A_A J A_A
+مہنگی 1.0	M AE_H H N_G II
+تلواڑہ 1.0	T_D A L V A_A R_R A_A
+تاریخِ 1.0	T_D A_A R II X A_Y
+ابساط 1.0	A B S A_A T_D
+مذہب 1.0	M A Z H A B
+پکا 1.0	P A K K A_A
+تبدیل 1.0	T_D A B D_D II L
+مِلا 1.0	M I L A_A
+لگن 1.0	L A G A N
+چھ 1.0	TS_H A_Y
+واحدت 1.0	V A_A H I D_D A T_D
+ٹوٹنے 1.0	T U_U T N A_Y
+چک 1.0	TS A K
+کموک 1.0	K A M U_U K
+مردان 1.0	M U R D_D A_A N
+مختاری 1.0	M U X T_D A_A R II
+تمنا 1.0	T_D A M A N N A_A
+لگا 1.0	L A G A_A
+شورکوٹ 1.0	S_H O_O R K O_O T
+ابسام 1.0	A B S A_A M
+شادیوں 1.0	S_H A_A D_D II O_O_N
+فہمیدہ 1.0	F AE_H H M II D_D A_A
+متبادل 1.0	M U T_D A B A_A D_D I L
+جامد 1.0	D_Z A_A M I D_D
+گرما 1.0	G A R M A_A
+اسلم 1.0	A S L A M
+جامع 1.0	D_Z A_A M A_Y
+کلمات 1.0	K A L A M M A_A T_D
+اُسے 1.0	U S A_Y
+سارک 1.0	S A_A R K
+رفتہ 1.0	R A F T_D A_A
+میزبان 1.0	M A_Y Z B A_A N
+فوزیہ 1.0	F O_O Z I J A_A
+گجرات 1.0	G U D_Z R A_A T_D
+ٹینٹ 1.0	T AE N T
+مخالفت 1.0	M U X A_A L A F A T_D
+راکا 1.0	R A_A K A_A
+شارقہ 1.0	S_H A_A R Q A_A
+بہترین 1.0	B AE_H H T_D A R II N
+بولتے 1.0	B O_O L T_D A_Y
+سیاست 1.0	S I J A_A S A T_D
+سارہ 1.0	S A_A R A_A
+ساری 1.0	S A_A R II
+سکیں 1.0	S A K A_Y_N
+سپاہی 1.0	S I P A_A H II
+تحفہِ 1.0	T_D A H F A_A A_Y
+تعمیروترقی 1.0	T_D A_A M II R O_O T_D A R Q II
+علامہ 1.0	A L L A_A M A_A
+گھوڑیاں 1.0	G_H O_O R_R II A_A_N
+سارے 1.0	S A_A R A_Y
+ٹینا 1.0	T II N A_A
+پردے 1.0	P A R D_D A_Y
+مبارکباد 1.0	M U B A_A R A K B A_A D_D
+سارا 1.0	S A_A R A_A
+ناواقف 1.0	N A_A V A_A Q I F
+بنانا 1.0	B A N A_A N A_A
+مانتا 1.0	M A_A N T_D A_A
+غزالہ 1.0	G_G A Z A_A L A_A
+سکیم 1.0	S A K II M
+پیکنگ 1.0	P AE K I N_G
+بولتا 1.0	B O_O L T_D A_A
+راکھ 1.0	R A_A K_H
+دورے 1.0	D_D O R A_Y
+نشین 1.0	N A S_H II N
+دورہ 1.0	D_D O R A_A
+وائرس 1.0	V A_A I R A S
+جنوری 1.0	D_Z A N V A R II
+نعیمہ 1.0	N A II M A_A
+چھلکوں 1.0	TS_H A L K O_O_N
+ہمسائے 1.0	H A M S A_A A_Y
+ٹینک 1.0	T AE N K
+پہننے 1.0	P AE_H H A N N A_Y
+مچایا 1.0	M A TS A_A J A_A
+اجاڑ 1.0	U D_Z A_A R_R
+ڈھارس 1.0	D_H A_A R A S
+نبی 1.0	N A B II
+مخوص 1.0	M U X U_U S
+منرو 1.0	M A N R U_U
+ویرانوں 1.0	V II R A_A N O_O_N
+سوکھ 1.0	S U_U K_H
+سبزیاں 1.0	S A B Z I J A_A_N
+خدیجہ 1.0	X A D_D II D_Z A_A
+قنبر 1.0	Q A M B A R
+محنت 1.0	M A_Y H N A T_D
+دئے 1.0	D_D I A_Y
+مگر 1.0	M A G A R
+سہولتوں 1.0	S U H U_U L A T_D O_O_N
+تنخواہیں 1.0	T_D A N X A_A H A_Y_N
+امیدواروں 1.0	U M II D_D V A_A R O_O_N
+دیتا 1.0	D_D A_Y T_D A_A
+وکٹوں 1.0	V I K T O_O_N
+عاکف 1.0	A_A K I F
+لکشمی 1.0	L A K S_H A M II
+شفیقہ 1.0	S_H A F II Q A_A
+بشارت 1.0	B A S_H A_A R A T_D
+کرکٹ 1.0	K A R K A T
+تمھارا 1.0	T_D U M A_A R A_A
+بکاؤ 1.0	B A K A_A O_O
+ا 1.0	A
+حائر 1.0	H A_A I R
+ڈیزائین 1.0	D II Z A_A II N
+دیتے 1.0	D_D A_Y T_D A_Y
+دیتی 1.0	D_D A_Y T_D II
+انٹرویو 1.0	I N T A R V II V
+پھیلانے 1.0	P_H AE L A_A N A_Y
+فصلیں 1.0	F A S L A_Y_N
+حرا 1.0	H U R R A_A
+الزام 1.0	I L Z A_A M
+فخریہ 1.0	F A X R I J A_A
+یونیورسٹی 1.0	J U_U N II V A R S I T II
+نبض 1.0	N A B Z
+رستم 1.0	R U S T_D A M
+آدمیوں 1.0	A_A D_D M II O_O_N
+قبرستان 1.0	Q A B R I S T_D A_A N
+افزائی 1.0	A_A F Z A_A II
+ابتداء 1.0	I B T_D I D_D A_A
+درانی 1.0	D_D U R A_A N II
+اولین 1.0	O L II N
+بیلا 1.0	B A_Y L A_A
+قصور 1.0	Q U S U_U R
+پیر 1.0	P II R
+رہا 1.0	R A H A_A
+پیش 1.0	P A_Y S_H
+زکیہ 1.0	Z A K J A_A
+اقسام 1.0	A Q S A_A M
+دوائیوں 1.0	D_D A V A_A II O_O_N
+ہال 1.0	H A_A L
+نفاذ 1.0	N A F A_A Z
+کوٹری 1.0	K O_O T R II
+معاشرہ 1.0	M U A_A S_H A R A_A
+ناصر 1.0	N A_A S I R
+معاشرے 1.0	M U A_A S_H R A_Y
+انتظامات 1.0	I N T_D I Z A_A M A_A T_D
+پیٹ 1.0	P II T
+خیبر 1.0	X AE B A R
+ہار 1.0	H A_A R
+اخبارات 1.0	A X B A_A R A_A T_D
+بلتستان 1.0	B A L T_D I S T_D A_A N
+فرصت 1.0	F A R S A T_D
+فلموں 1.0	F I L M O_O_N
+حبیب 1.0	H A B II B
+پیڑ 1.0	P II R_R
+کرشن 1.0	K A R A S_H N
+تنزیل 1.0	T_D A N Z II L
+ذریعے 1.0	Z A R II A_Y
+زیرِبحث 1.0	Z A_Y R A_Y B A H S
+طالبعلم 1.0	T_D A_A L A_Y B A_Y L A M
+ذریعہ 1.0	Z A R II A_A
+مثالی 1.0	M I S A_A L II
+اداکاراؤں 1.0	A D_D A_A K A_A R A_A O_O_N
+رہے 1.0	R A H A_Y
+سکرپٹ 1.0	S I K R I P T
+گاؤں 1.0	G A_A U_U_N
+رہی 1.0	R A H II
+اگر 1.0	A G A R
+حیرانی 1.0	H AE R A_A N II
+لکھوں 1.0	L I K_H K_H O_O_N
+برطرفی 1.0	B A R T_D A R F II
+ترسی 1.0	T_D A R S II
+ٹیلی 1.0	T A_Y L II
+ماہانہ 1.0	M A_A H A_A N A_A
+غفوراں 1.0	G_G A F U_U R A_A_N
+نوفل 1.0	N O F I L
+رقوم 1.0	R A Q U_U M
+خریدتے 1.0	X A R II D_D T_D A_Y
+بھجوا 1.0	B_H I D_Z V A_A
+کثیر 1.0	K A S II R
+انتظامیہ 1.0	I N T_D I Z A_A M I J A_A
+ورزی 1.0	V A R Z II
+دیکھیں 1.0	D_D A_Y K_H A_Y_N
+دنیا 1.0	D_D U N J A_A
+مھین 1.0	M II N
+پورے 1.0	P U_U R A_Y
+انصاف 1.0	I N S A_A F
+پورہ 1.0	P U_U R A_A
+اہلکار 1.0	A H A L K A_A R
+پوری 1.0	P U_U R II
+نیاز 1.0	N I J A_A Z
+نشانیاں 1.0	N I S_H A_A N I J A_A_N
+میو 1.0	M I J U_U
+رئیس 1.0	R A II S
+سبھی 1.0	S A B_H II
+پورا 1.0	P U_U R A_A
+میلے 1.0	M II L A_Y
+ورزش 1.0	V A R Z I S_H
+گھروں 1.0	G_H A R O_O_N
+سبزیوں 1.0	S A B Z II J O_O_N
+افواج 1.0	A F V A_A D_Z
+قبائلی 1.0	Q A B A_A I L II
+شعور 1.0	S_H U U_U R
+بنیادوں 1.0	B U N J A_A D_D O_O_N
+باشندہ 1.0	B A_A S_H I N D_D A_A
+زیبا 1.0	Z A_Y B A_A
+پیتے 1.0	P II T_D A_Y
+سعد 1.0	S A_A D_D
+دوست 1.0	D_D O_O S T_D
+سہالہ 1.0	S A H A_A L A_A
+تاشفین 1.0	T_D A_A S_H I F II N
+شہاب 1.0	S_H A H A_A B
+ڈھاٹا 1.0	D_H A_A T A_A
+میئر 1.0	M A_Y A R
+رکتی 1.0	R U K T_D II
+صلاح 1.0	S A L L A_A
+ٹاس 1.0	T A_A S
+بندرگاہوں 1.0	B A N D_D A R G A_A H O_O_N
+لگنے 1.0	L A G N A_Y
+اہلِ 1.0	A H L A_Y
+انجم 1.0	I N D_Z A M
+فرزین 1.0	F A R Z II N
+چوک 1.0	TS O K
+ضروریات 1.0	Z U R U_U R II J A_A T_D
+سنائیے 1.0	S U N A_A II A_Y
+خوراک 1.0	X O R A_A K
+ووٹنگ 1.0	V U_U T I N_G
+اوکاڑہ 1.0	O K A_A R_R A_A
+لڑکو 1.0	L A R_R K O_O
+اسّی 1.0	A S S II
+مشورہ 1.0	M A S_H V A R A_A
+ارکانِ 1.0	A R K A_A N A_Y
+مشورے 1.0	M A S_H V A R A_Y
+ادویات 1.0	A D_D V I J A_A T_D
+عاقلہ 1.0	A_A Q I L A_A
+گیتوں 1.0	G II T_D O_O_N
+سمن 1.0	S A M A N
+طائی 1.0	T_D A_A II
+منٹو 1.0	M I N T O_O
+سائرہ 1.0	S A_A I R A_A
+پرتکلف 1.0	P U R T_D A K A L L U F
+زیادہ 1.0	Z I J A_A D_D A_A
+چھٹی 1.0	TS_H A T T II
+نکلیں 1.0	N I K L A_Y_N
+اسامہ 1.0	A S A_A M A_A
+رکھیں 1.0	R A K K_H A_Y_N
+چھٹا 1.0	TS_H A T T A_A
+طائر 1.0	T_D A_A I R
+پنکھوں 1.0	P A N K_H O_O_N
+چوا 1.0	TS U V A_A
+لڑکے 1.0	L A R_R K A_Y
+نوید 1.0	N A V II D_D
+نویس 1.0	N A V II S
+لڑکی 1.0	L A R_R K II
+اشبر 1.0	A S_H B A R
+دوکاندار 1.0	D_D U_U K A_A N D_D A_A R
+دوکان 1.0	D_D U_U K A_A N
+گراؤنڈ 1.0	G A R A_A U_U N D
+مزہبی 1.0	M A Z H A B II
+چہرے 1.0	TS AE_H H R A_Y
+الیاس 1.0	I L J A_A S
+چہرہ 1.0	TS AE_H H R A_A
+امام 1.0	A M M A_A M
+امان 1.0	A M A_A N
+تصدق 1.0	T_D A S A D_D D_D U Q
+بینظیر 1.0	B AE N A Z II R
+مقررین 1.0	M U Q A R R I R II N
+ایماندار 1.0	II M A_A N D_D A_A R
+چیچہ 1.0	TS II TS A_A
+سرما 1.0	S A R M A_A
+بورڈ 1.0	B O_O R D
+کوچ 1.0	K O_O TS
+ابوذر 1.0	A B U_U Z A R
+سلامتی 1.0	S A L A_A M T_D II
+ہنر 1.0	H A N A R
+الہی 1.0	I L H II
+ہنس 1.0	H A N S
+انڈر 1.0	A N D A R
+تلخی 1.0	T_D A L X II
+ٹوپی 1.0	T O_O P II
+جھیکا 1.0	D_Z_H II K A_A
+کشتی 1.0	K U S_H T_D II
+عابدہ 1.0	A_A B I D_D A_A
+کڑوی 1.0	K A R_R V II
+اقتصادی 1.0	I Q T_D I S A_A D_D II
+سنھبال 1.0	S A M B A_A L
+لڑکیاں 1.0	L A R_R K I J A_A_N
+تہمینہ 1.0	T_D AE_H H M II N A_A
+فقدان 1.0	F U Q D_D A_A N
+مچا 1.0	M A TS A_A
+پالیسیوں 1.0	P A_A L II S II O_O_N
+بیلٹ 1.0	B AE L A T
+حقوق 1.0	H U Q U_U Q
+پرست 1.0	P A R A S T_D
+پیچھے 1.0	P II TS_H A_Y
+انڈے 1.0	U N D A_Y
+اِن 1.0	I N
+محرومی 1.0	M A H R U_U M II
+کمیونیکیشن 1.0	K A M J U_U N II K A_Y S_H A N
+ہنی 1.0	H A N II
+خورشید 1.0	X U R S_H II D_D
+کون 1.0	K O_O N
+اِس 1.0	I S
+کوٹ 1.0	K O_O T
+پارکنگ 1.0	P A_A R K I N_G
+لپیٹ 1.0	L A P A_Y T
+گواہ 1.0	G A V A_A
+مختصر 1.0	M U X T_D A S A R
+ماریہ 1.0	M A_A R J A_A
+کانفرس 1.0	K A_A N F A R A S
+شاندار 1.0	S_H A_A N D_D A_A R
+لوگ 1.0	L O_O G
+دستخط 1.0	D_D A S T_D X A T_D
+رضاکار 1.0	R A Z A_A K A_A R
+درسگاہیں 1.0	D_D A R A S G A_A H A_Y_N
+چھتر 1.0	TS_H A T_D T_D A R
+جہلم 1.0	D_Z A H L A M
+عوامی 1.0	A V A_A M II
+تمیزی 1.0	T_D A M II Z II
+ذرہ 1.0	Z A R R A_A
+ابتدائی 1.0	I B T_D I D_D A_A II
+مارے 1.0	M A_A R A_Y
+تصور 1.0	T_D A S U_U R
+منصوبہ 1.0	M A N S U_U B A_A
+خاور 1.0	X A_A V A R
+بیویاں 1.0	B A_Y V I J A_A_N
+شنگریلا 1.0	S_H A N_G R II L A N
+جھیل 1.0	D_Z_H A_Y L
+کوشش 1.0	K O_O S_H I S_H
+نقصان 1.0	N U Q S A_A N
+منتظم 1.0	M U N T_D A Z A M
+وظیفہ 1.0	V A Z II F A_A
+فقیر 1.0	F A Q II R
+شمعون 1.0	S_H A M U_U N
+بھرمار 1.0	B_H A R M A_A R
+خان 1.0	X A_A N
+ٹھوکریں 1.0	T_H O_O K R A_Y_N
+ناجدہ 1.0	N A_A D_Z I D_D A_A
+پست 1.0	P I S T_D
+التمش 1.0	I L T_D A M A S_H
+سیدھے 1.0	S II D_D_H A_Y
+عوامل 1.0	A V A_A M I L
+ریکارڈ 1.0	R II K A_A R D
+رامین 1.0	R A_A M II N
+درویش 1.0	D_D A R V A_Y S_H
+ارکان 1.0	A R K A_A N
+تحفوں 1.0	T_D A H F O_O_N
+سمت 1.0	S A M T_D
+غربت 1.0	G_G A R B A T_D
+چنیوٹ 1.0	TS A N J U_U T
+لوٹ 1.0	L O_O T
+ضروریاتِ 1.0	Z A R U_U R II J A_A T_D A_Y
+مذکورہ 1.0	M A Z K U_U R A_A
+کِیا 1.0	K I J A_A
+تحقیقات 1.0	T_D A H Q II Q A_A T_D
+ٹھہر 1.0	T_H A H A R
+ایٹمی 1.0	AE T M II
+تعمیرِنو 1.0	T_D A_A M II R A_Y N O
+اطلاعات 1.0	I T_D T_D I L A_A T_D A_A T_D
+نشستیں 1.0	N A S_H A S T_D A_Y_N
+سیکٹر 1.0	S AE K T A R
+گلے 1.0	G A L L A_Y
+خوبصورت 1.0	X U_U B S U_U R A T_D
+فورنیا 1.0	F O_O R N I J A_A
+فائلوں 1.0	F A_A I L O_O_N
+جاندار 1.0	D_Z A_A N D_D A_A R
+طائرہ 1.0	T_D A_A I R A_A
+ندرت 1.0	N A D_D R A T_D
+بارات 1.0	B A_A R A_A T_D
+جیسی 1.0	D_Z AE S II
+جنوبی 1.0	D_Z U N U_U B II
+رسائی 1.0	R A S A_A II
+دبئی 1.0	D_D U B A II
+دلشاد 1.0	D_D I L S_H A_A D_D
+پڑول 1.0	P A R_R O_O L
+بَن 1.0	B A N
+ہوگئے 1.0	H O_O G I A_Y
+آصف 1.0	A_A S I F
+خیل 1.0	X AE L
+توقع 1.0	T_D A V A Q Q O_O
+اطلاعت 1.0	A T_D T_D I L A_A A T_D
+پروین 1.0	P A R V AE N
+نوبت 1.0	N O B A T_D
+باقاعدہ 1.0	B A_A Q A_A I D_D A_A
+بیرکوں 1.0	B AE R K O_O_N
+گلفام 1.0	G U L F A_A M
+ارشاد 1.0	I R S_H A_A D_D
+ظفر 1.0	Z A F A R
+چپکے 1.0	TS A P K A_Y
+پرویز 1.0	P A R V A_Y Z
+حقیقت 1.0	H A Q II Q A T_D
+داور 1.0	D_D A_A V A R
+خیر 1.0	X AE R
+کنندگان 1.0	K U N I N D_D G A_A N
+کاشتکار 1.0	K A_A S_H T_D K A_A R
+لچک 1.0	L A TS A K
+پیئیں 1.0	P II A_Y_N
+عدیلہ 1.0	A D_D II L A_A
+صاحب 1.0	S A_A H I B
+للکارا 1.0	L A L K A_A R A_A
+بدلتے 1.0	B A D_D A L T_D A_Y
+میتیاری 1.0	M A_Y T_D J A_A R II
+محاذ 1.0	M U H A_A Z
+سود 1.0	S O D_D
+مطالبہ 1.0	M U T_D A_A L A B A_A
+عبدالمالک 1.0	A B D_D U L M A_A L I K
+فیشن 1.0	F II S_H A N
+رہنما 1.0	R A H N U M A_A
+میڑک 1.0	M AE R_R A K
+ڈھانچہ 1.0	D_H A_A N TS A_A
+پاسبان 1.0	P A_A S B A_A N
+تعین 1.0	T_D A Y J U N
+ٹاؤن 1.0	T A_A U_U N
+اچانک 1.0	A TS A_A N K
+پیروی 1.0	P AE R V II
+ایوب 1.0	AE J U_U B
+دکان 1.0	D_D U K A_A N
+چکوال 1.0	TS A K V A_A L
+ڈکیتی 1.0	D A K A_Y T_D II
+وقوع 1.0	V U Q U_U
+تبادلوں 1.0	T_D A B A_A D_D I L O_O_N
+مزار 1.0	M A Z A_A R
+مواصلات 1.0	M U V A_A S A L A_A T_D
+جازم 1.0	D_Z A_A Z I M
+مزاج 1.0	M I Z A_A D_Z
+بدلتا 1.0	B A D_D A L T_D A_A
+مچھر 1.0	M A TS_H A R
+ہراس 1.0	H A R A_A S
+انتخابات 1.0	I N T_D I X A_A B A_A T_D
+مہارت 1.0	M A H A_A R A T_D
+شوٹنگ 1.0	S_H U_U T I N_G
+ابھرنا 1.0	U B_H A R N A_A
+مستونگ 1.0	M A S T_D U_U N_G
+تشیہر 1.0	T_D A S_H II H A R
+نوجوانوں 1.0	N O D_Z V A_A N O_O_N
+سرحدوں 1.0	S A R H A D_D O_O_N
+گھانچی 1.0	G_H A_A N TS II
+ڈرائیور 1.0	D A R A_A II V A R
+کٹھن 1.0	K A T_H A N
+دلیر 1.0	D_D A L II R
+ہابیل 1.0	H A_A B II L
+دلیل 1.0	D_D A L II L
+کوتاہیوں 1.0	K O_O T_D A_A H II O_O_N
+الفاظ 1.0	A L F A_A Z
+اشکبار 1.0	A S_H K B A_A R
+بنانے 1.0	B A N A_A N A_Y
+اروا 1.0	A R V A_A
+راضی 1.0	R A_A Z II
+وابسطہ 1.0	V A_A B I S T_D A_A
+حمیر 1.0	H A M II R
+فائرنگ 1.0	F A_A I R I N_G
+ستار 1.0	S I T_D A_A R
+ٹینس 1.0	T AE N S
+منسلک 1.0	M U N S I L I K
+فوراً 1.0	F O R A N
+پریکٹس 1.0	P A R AE K T I S
+ثانیہ 1.0	S A_A N I J A_A
+ودھائی 1.0	V I D_D_H A_A II
+انکوائری 1.0	I N K U V A_A I R II
+کانٹے 1.0	K A_A N T A_Y
+منگورہ 1.0	M A N_G G U_U R A_A
+سیکھنے 1.0	S II K_H N A_Y
+شراب 1.0	S_H A R A_A B
+دوران 1.0	D_D O R A_A N
+تواضع 1.0	T_D A V A_A Z O_O
+سغیرہ 1.0	S A G_G AE R A_A
+حکومت 1.0	H U K U_U M A T_D
+طبقہ 1.0	T_D A B Q A_A
+بغیر 1.0	B A G_G AE R
+عاقل 1.0	A_A Q I L
+نجی 1.0	N A D_Z II
+زوال 1.0	Z A V V A_A L
+طبقے 1.0	T_D A B Q A_Y
+کاروایوں 1.0	K A_A R V A_A J O_O_N
+زوار 1.0	Z A V A_A R
+تمام 1.0	T_D A M A_A M
+لوئر 1.0	L O_O A R
+سنے 1.0	S U N A_Y
+شالیمار 1.0	S_H A_A L II M A_A R
+نیکی 1.0	N A_Y K II
+سنی 1.0	S U N II
+برادران 1.0	B A R A_A D_D R A_A N
+عاقب 1.0	A_A Q I B
+بحری 1.0	B A H R II
+امداد 1.0	I M D_D A_A D_D
+ریشماں 1.0	R A_Y S_H M A_A_N
+مارکیٹ 1.0	M A_A R K II T
+ٹوٹ 1.0	T U_U T
+گزرتا 1.0	G U Z A R T_D A_A
+بیچارے 1.0	B A_Y TS A_A R A_Y
+بیچارہ 1.0	B A_Y TS A_A R A_A
+اضافہ 1.0	I Z A_A F A_A
+اضافی 1.0	I Z A_A F II
+بالائی 1.0	B A_A L A_A II
+سند 1.0	S A N D_D
+سنت 1.0	S U N T_D
+اضافے 1.0	I Z A_A F A_Y
+سنا 1.0	S U N A_A
+مفت 1.0	M U F T_D
+برطانیہ 1.0	B A R T_D A_A N I J A_A
+تقسیم 1.0	T_D A Q S II M
+کپاس 1.0	K A P P A_A S
+گیارہ 1.0	G I J A_A R A_A
+چوڑی 1.0	TS O R_R II
+کبھی 1.0	K A B_H B_H II
+حاتم 1.0	H A_A T_D I M
+آبادی 1.0	A_A B A_A D_D II
+جھوٹی 1.0	D_Z_H U_U T II
+وطنی 1.0	V A T_D N II
+دربار 1.0	D_D A R B A_A R
+سحر 1.0	S A H R
+گھبرانا 1.0	G_H A B R A_A N A_A
+جھوٹے 1.0	D_Z_H U_U T A_Y
+سیکھنا 1.0	S II K_H N A_A
+نوٹوں 1.0	N O_O T O_O_N
+نفسیاتی 1.0	N A F S I J A_A T_D II
+اچھا 1.0	U TS_H TS_H A_A
+رچانا 1.0	R A TS A_A N A_A
+ڈھیر 1.0	D_H A_Y R
+حصانت 1.0	H I S A_A N A T_D
+دولتمند 1.0	D_D O L A T_D M A N D_D
+شانہ 1.0	S_H A_A N A_A
+ایریا 1.0	AE R I J A_A
+جہانیاں 1.0	D_Z A H A_A N I J A_A_N
+باشی 1.0	B A_A S_H II
+چیزو 1.0	TS II Z O_O
+حرکات 1.0	H A R K A_A T_D
+ربانی 1.0	R A B A_A N II
+ڈھیٹ 1.0	D_H A_Y T
+واجدہ 1.0	V A_A D_Z I D_D A_A
+سیاسی 1.0	S I J A_A S II
+جھگڑا 1.0	D_Z_H A G R_R A_A
+لیزنگ 1.0	L II Z I N_G
+تربت 1.0	T_D A R B A T_D
+بن 1.0	B A N
+قرۃالعین 1.0	Q U R R A T_D A Y II N
+ڈھیل 1.0	D_H A_Y L
+دوگنی 1.0	D_D O_O G N II
+تابوت 1.0	T_D A_A B U_U T_D
+ہسپتال 1.0	H A S P A T_D A_A L
+بتایا 1.0	B A T_D A_A J A_A
+مسالے 1.0	M A S A_A L A_Y
+اختتام 1.0	I X T_D I T_D A_A M
+رابطوں 1.0	R A_A B I T_D O_O_N
+سنگھ 1.0	S U N_G G_H
+توہینِ 1.0	T_D O H II N A_Y
+سیلاب 1.0	S AE L A_A B
+مواقع 1.0	M A V A_A Q A_Y
+منیبہ 1.0	M U N II B A_A
+تفسیر 1.0	T_D A F S II R
+اظہر 1.0	A Z H A R
+منظور 1.0	M A N Z U_U R
+ثواب 1.0	S A V A_A B
+روبینہ 1.0	R O_O B II N A_A
+بنوانے 1.0	B A N V A_A N A_Y
+تیرہ 1.0	T_D AE R A_A
+خاندانوں 1.0	X A_A N D_D A_A N O_O_N
+رزنگار 1.0	R A Z A N_G G A_A R
+روزانہ 1.0	R O_O Z A_A N A_A
+خریدی 1.0	X A R II D_D II
+افراسیاب 1.0	A F R A_A S J A_A B
+جلانے 1.0	D_Z A L A_A N A_Y
+عذرا 1.0	U Z R A_A
+دھرنا 1.0	D_D_H A R N A_A
+کہانی 1.0	K A H A_A N II
+لکل 1.0	L I K A L
+بھاگا 1.0	B_H A_A G A_A
+اندرونی 1.0	A N D_D A R U_U N II
+نبھائے 1.0	N I B_H A_A A_Y
+آنسوؤں 1.0	A_A N S U_U O_O_N
+سانگھڑ 1.0	S A_A N_G G_H A R_R
+ممکن 1.0	M U M K I N
+سلوک 1.0	S A L U_U K
+عمارتیں 1.0	I M A_A R A T_D A_Y_N
+مدعو 1.0	M A D_D U_U
+گلوکاروں 1.0	G U L U_U K A_A R O_O_N
+کان 1.0	K A_A N
+کام 1.0	K A_A M
+کال 1.0	K A_A L
+فاضلہ 1.0	F A_A Z I L A_A
+لکی 1.0	L A K II
+اندرونِ 1.0	A N D_D A R V A N A_Y
+رابعہ 1.0	R A_A B I A_A
+کاٹ 1.0	K A_A T
+ولاز 1.0	V I L A_A Z
+ٹائر 1.0	T A_A I R
+عباس 1.0	A B B A_A S
+لکھ 1.0	L I K_H
+حجاج 1.0	H U D_Z D_Z A_A D_Z
+حجاب 1.0	H I D_Z A_A B
+گوالمنڈی 1.0	G U L A_A L M A N D II
+مستقبل 1.0	M U S T_D A Q B A L
+کاش 1.0	K A_A S_H
+کار 1.0	K A_A R
+ہزار 1.0	H A Z A_A R
+مذاکرات 1.0	M U Z A_A K A R A_A T_D
+ارتضا 1.0	I R T_D A Z A_A
+سیکیورٹی 1.0	S II K J O_O R I T II
+شیندور 1.0	S_H A_Y N D_D U_U R
+کاج 1.0	K A_A D_Z
+تقلید 1.0	T_D A Q L II D_D
+صفیہ 1.0	S A F I J J A_A
+تسنیم 1.0	T_D A S N II M
+مبہوت 1.0	M A B H U_U T_D
+ڈاکوؤں 1.0	D A_A K U_U O_O_N
+نگنیہ 1.0	N I G I N J A_A
+مذہبی 1.0	M A Z H A B II
+آٹھ 1.0	A_A T_H
+بساش 1.0	B A S A_A S_H
+خطے 1.0	X A T_D T_D A_Y
+پڑھے 1.0	P A R_R_H A_Y
+متعدد 1.0	M U T_D A A D_D D_D I D_D
+بھیجو 1.0	B_H A_Y D_Z O_O
+تعلقات 1.0	T_D A A L L U Q A_A T_D
+خطہ 1.0	X I T_D T_D A_A
+تصادم 1.0	T_D A S A_A D_D U M
+سوال 1.0	S A V A_A L
+بھیجا 1.0	B_H A_Y D_Z A_A
+باوردی 1.0	B A_A V A R D_D II
+اختیار 1.0	I X T_D I J A_A R
+سوار 1.0	S A V A_A R
+سوات 1.0	S A V A_A T_D
+بسام 1.0	B A S A_A M
+گزشتہ 1.0	G U Z A S_H T_D A_A
+نظرِثانی 1.0	N A Z R A_Y S A_A N II
+نگینہ 1.0	N A G II N A_A
+مہربانی 1.0	M A_Y_H H R B A_A N II
+حولاء 1.0	H O L A_A
+بدن 1.0	B A D_D A N
+بدل 1.0	B A D_D A L
+ممتاز 1.0	M U M T_D A_A Z
+بیراج 1.0	B AE R A_A D_Z
+سلہری 1.0	S U L AE_H H R II
+داخلہ 1.0	D_D A_A X I L A_A
+حوصلہ 1.0	H O S L A_A
+گلابوں 1.0	G U L A_A B O_O_N
+کارخانے 1.0	K A_A R X A_A N A_Y
+حوصلے 1.0	H O S L A_Y
+بھیجے 1.0	B_H A_Y D_Z A_Y
+ثمن 1.0	S A M A N
+تشکیل 1.0	T_D A S_H K II L
+بازو 1.0	B A_A Z U_U
+بازف 1.0	B A_A Z I F
+پلازوں 1.0	P A L A_A Z O_O_N
+پیداوار 1.0	P AE D_D A_A V A_A R
+اٹک 1.0	A T A K
+آٹو 1.0	A_A T O_O
+امعان 1.0	A M A N A_A
+اداکاروں 1.0	A D_D A_A K A_A R O_O_N
+اٹھ 1.0	U T_H
+مقررہ 1.0	M U Q A R R A R A_A
+پڑھا 1.0	P A R_R_H A_A
+عالمی 1.0	A_A L A M II
+کردار 1.0	K I R D_D A_A R
+عالمہ 1.0	A_A L I M A_A
+بدر 1.0	B A D_D A R
+گفتگو 1.0	G U F T_D G U_U
+گول 1.0	G O_O L
+شوگر 1.0	S_H U_U G A R
+بتائیے 1.0	B A T_D A_A II A_Y
+دراز 1.0	D_D A R A_A Z
+باغبان 1.0	B A_A G_G B A_A N
+مریضوں 1.0	M A R II Z O_O_N
+شجر 1.0	S_H A D_Z A R
+شکوک 1.0	S_H U K U_U K
+بھرتی 1.0	B_H A R T_D II
+نیچے 1.0	N II TS A_Y
+آمنہ 1.0	A_A M N A_A
+جی 1.0	D_Z II
+شکوے 1.0	S_H I K V A_Y
+ہنگام 1.0	H A N_G G A_A M
+شیخو 1.0	S_H A_Y X U_U
+شاہی 1.0	S_H A_A H II
+تابندہ 1.0	T_D A_A B I N D_D A_A
+حذیفہ 1.0	H A Z II F A_A
+چوبارہ 1.0	TS O B A_A R A_A
+رخشی 1.0	R A X S_H II
+توہین 1.0	T_D O H II N
+کاشت 1.0	K A_A S_H T_D
+کاشر 1.0	K A_A S_H A R
+جا 1.0	D_Z A_A
+رونما 1.0	R O_O N I M A_A
+جج 1.0	D_Z A D_Z
+انقلابی 1.0	I N Q I L A_A B II
+جب 1.0	D_Z A B
+شکور 1.0	S_H I K U_U R
+جس 1.0	D_Z I S
+جمع 1.0	D_Z A M A_A
+شاہد 1.0	S_H A_A H I D_D
+بھڑاس 1.0	B_H A R_R A_A S
+فلک 1.0	F A L A K
+جل 1.0	D_Z A L
+رابطہ 1.0	R A_A B I T_D A_A
+ٹنڈو 1.0	T A N D O_O
+جو 1.0	D_Z O_O
+رابطے 1.0	R A_A B I T_D A_Y
+تنہا 1.0	T_D A N H A_A
+زکریا 1.0	Z A K R I J A_A
+ہمیں 1.0	H A M A_Y_N
+کاشف 1.0	K A_A S_H I F
+دلکش 1.0	D_D I L K A S_H
+شکست 1.0	S_H I K S A T_D
+ریحانہ 1.0	R AE H A_A N A_A
+بریفنگ 1.0	B R II F I N_G
+کلاسیکی 1.0	K A L A_A S II K II
+دیکھنے 1.0	D_D A_Y K_H N A_Y
+جارحانہ 1.0	D_Z A_A R I H A_A N A_A
+لمبائی 1.0	L A M B A_A II
+بالکل 1.0	B I L K A L
+انجام 1.0	I N D_Z A_A M
+تشریح 1.0	T_D A S_H R II H
+وعدوں 1.0	V A_A D_D O_O_N
+عاتقہ 1.0	A_A T_D I Q A_A
+فیملی 1.0	F AE M L II
+فلاح 1.0	F A L A_A
+انکے 1.0	I N K A_Y
+تشریف 1.0	T_D A S_H R II F
+ثقافت 1.0	S A Q A_A F A T_D
+انکی 1.0	A N K II
+گورنگی 1.0	G U_U R A N_G G II
+لنڈا 1.0	L U N D A_A
+طلحہ 1.0	T_D A L H A_A
+سیالکوٹ 1.0	S I J A_A L K O_O T
+بارشوں 1.0	B A_A R I S_H O_O_N
+اداروں 1.0	I D_D A_A R O_O_N
+نوکری 1.0	N O K A R II
+دشمن 1.0	D_D U S_H M A N
+لنڈی 1.0	L U N D II
+دلباز 1.0	D_D I L B A_A Z
+بھکاریوں 1.0	B_H A K A_A R II O_O_N
+توقیر 1.0	T_D O Q II R
+جایئں 1.0	D_Z A_A J A_Y_N
+بخوبی 1.0	B A X U_U B II
+صالح 1.0	S A_A L A_Y
+تصنیف 1.0	T_D A S N II F
+ڈھونڈا 1.0	D_H U_U N D A_A
+س 1.0	S
+بچایا 1.0	B A TS A_A J A_A
+اداکارہ 1.0	A D_D A_A K A_A R A_A
+بےہوشی 1.0	B A_Y H O_O S_H II
+ویسا 1.0	V AE S A_A
+ظہیر 1.0	Z A H II R
+تجویز 1.0	T_D A D_Z V II Z
+عرضی 1.0	A R Z II
+السلام 1.0	A L S A L A_A M
+ٹی 1.0	T II
+کھاؤں 1.0	K_H A_A U_U_N
+پری 1.0	P A R II
+دیکھنا 1.0	D_D A_Y K_H N A_A
+رنجشیں 1.0	R A N D_Z I S_H A_Y_N
+ناران 1.0	N A_A R A_A N
+سندھ 1.0	S U N D_D_H
+عریبہ 1.0	A R II B A_A
+گھیب 1.0	G_H A_Y B
+فیڈرل 1.0	F AE D R A L
+تقدس 1.0	T_D A Q A D_D D_D U S
+صفحات 1.0	S A F H A_A T_D
+چونیاں 1.0	TS U_U N I J A_A_N
+بیج 1.0	B AE D_Z
+قیامتیں 1.0	Q I J A_A M A T_D A_Y_N
+کشیدہ 1.0	K A S_H II D_D A_A
+مقامی 1.0	M A Q A_A M II
+مظفرآباد 1.0	M U Z F A R A_Y A_A B A_A D_D
+کے 1.0	K A_Y
+آرب 1.0	A_A R B
+گزاری 1.0	G U Z A_A R II
+کی 1.0	K II
+کہ 1.0	K A_Y
+کر 1.0	K U R
+کس 1.0	K I S
+گزارش 1.0	G U Z A_A R I S_H
+کش 1.0	K U S_H
+کب 1.0	K U B
+آزان 1.0	A_A Z A_A N
+کا 1.0	K A_A
+ہدا 1.0	H A D_D D_D A_A
+بحران 1.0	B A H R A_A N
+مشغلہ 1.0	M A S_H G_G A L A_A
+بصیر 1.0	B A S II R
+کٹ 1.0	K A T
+ہدف 1.0	H A D_D A F
+ریٹائرمنٹ 1.0	R II T A_A A_Y R M A N T
+کھاراں 1.0	K_H A_A R A_A_N
+مظفر 1.0	M U Z A F F A R
+بدحال 1.0	B A D_D H A_A L
+کو 1.0	K O_O
+آزاد 1.0	A_A Z A_A D_D
+کم 1.0	K A M
+کل 1.0	K I L
+کن 1.0	K U N
+فنڈ 1.0	F A N D
+گزرا 1.0	G U Z R A_A
+حکم 1.0	H U K M
+مناظر 1.0	M U N A_A Z A R
+بحث 1.0	B A H U S
+گلیوں 1.0	G A L L II O_O_N
+بنایئں 1.0	B A N A_A A_Y_N
+بحا 1.0	B A H A_A
+محتاج 1.0	M U H T_D A_A D_Z
+اڈے 1.0	A D D A_Y
+کامونکی 1.0	K A_A M U_U N A K II
+منتقل 1.0	M U N T_D A Q I L
+اڈہ 1.0	A D D A_A
+شاہدہ 1.0	S_H A_A H I D_D A_A
+محتاط 1.0	M U H T_D A_A T_D
+فنی 1.0	F A N II
+وہی 1.0	V A H II
+گھومنا 1.0	G_H U_U M N A_A
+متفقہ 1.0	M U T_D T_D A F I Q A_A
+خرد 1.0	X U R D_D
+ابراہیم 1.0	I B R A_A H II M
+رسم 1.0	R A S M
+بانڈز 1.0	B A_A N D Z
+صہیب 1.0	S A H II B
+ارمان 1.0	A R M A_A N
+ایثار 1.0	II S A_A R
+مجسموں 1.0	M U D_Z A S S A M O_O_N
+شہداء 1.0	S_H U H A D_D A_A
+کابینہ 1.0	K A_A B II N A_A
+عدینہ 1.0	A D_D II N A_A
+موسیقار 1.0	M U_U S II Q A_A R
+صندل 1.0	S A N D_D A L
+ہلا 1.0	H I L L A_A
+حائقہ 1.0	H A_A I Q A_A
+باتوں 1.0	B A_A T_D O_O_N
+ابوزر 1.0	A B U_U Z A R
+قیوم 1.0	Q I J U_U M
+پراسرار 1.0	P U R A_A S R A_A R
+رشدی 1.0	R U S_H D_D II
+فنن 1.0	F I N A N
+وہم 1.0	V A H M
+اڑتالیس 1.0	A R_R T_D A_A L II S
+بلیو 1.0	B I L J U_U
+فنِ 1.0	F A N A_Y
+ہلو 1.0	H A L O_O
+امکان 1.0	I M K A_A N
+جانوروں 1.0	D_Z A_A N V A R O_O_N
+گزری 1.0	G U Z R II
+گزرے 1.0	G U Z R A_Y
+خرچ 1.0	X A R TS
+وزراء 1.0	V U Z A R A_A
+دی 1.0	D_D II
+کاوشوں 1.0	K A_A V I S_H O_O_N
+نقش 1.0	N A Q S_H
+اچھرہ 1.0	U TS_H A R A_A
+دہ 1.0	D_D A_Y
+مغل 1.0	M U G_G A L
+نقد 1.0	N A Q D_D
+دے 1.0	D_D A_Y
+ایڈز 1.0	AE D Z
+سرائے 1.0	S A R A_A A_Y
+شایان 1.0	S_H A_A J A_A N
+مٹانا 1.0	M I T A_A N A_A
+ملیحہ 1.0	M A L II H A_A
+ضمانت 1.0	Z A M A_A N A T_D
+امتحانوں 1.0	I M T_D I H A_A N O_O_N
+گستاخی 1.0	G U S T_D A_A X II
+جایا 1.0	D_Z A_A J A_A
+عطیہ 1.0	A T_D I J A_A
+خوردہ 1.0	X U R D_D A_A
+نطر 1.0	N A T_D R
+جوٹی 1.0	D_Z O_O T II
+فارسی 1.0	F A_A R S II
+دو 1.0	D_D O_O
+دن 1.0	D_D I N
+دل 1.0	D_D I L
+مرمت 1.0	M U R A M M A T_D
+رمیض 1.0	R A M II Z
+رمیز 1.0	R A M II Z
+سخاوت 1.0	S A X A_A V A T_D
+دیواری 1.0	D_D II V A_A R II
+اقرار 1.0	I Q R A_A R
+چوبند 1.0	TS O B A N D_D
+رامض 1.0	R A_A M Z
+شروع 1.0	S_H U R U_U
+سیڑھیوں 1.0	S II R_R_H II O_O_N
+دب 1.0	D_D A B
+اسکندر 1.0	I S K A N D_D A R
+قدمی 1.0	Q A D_D M II
+دس 1.0	D_D A S
+در 1.0	D_D A R
+پیدائش 1.0	P AE D_D A_A I S_H
+مکالموں 1.0	M U K A_A L A M O_O_N
+حاجب 1.0	H A_A D_Z I B
+کسی 1.0	K A S S II
+اسٹوڈیو 1.0	I S T O_O D II O_O
+انیلا 1.0	A N II L A_A
+معاملات 1.0	M U A_A M A L A_A T_D
+تابش 1.0	T_D A_A B I S_H
+اسکے 1.0	I S K A_Y
+ہندو 1.0	H I N D_D U_U
+اسکی 1.0	I S K II
+آپریشن 1.0	A_A P R A_Y S_H A N
+عبدالقادر 1.0	A B D_D U Q Q A_A D_D I R
+تارا 1.0	T_D A_A R A_A
+رنگا 1.0	R A N_G G A_A
+مسلمانوں 1.0	M U S L I M A_A N O_O_N
+بننا 1.0	B A N N A_A
+رشوت 1.0	R I S_H V A T_D
+پکڑا 1.0	P A K R_R A_A
+حافظ 1.0	H A_A F I Z
+جانتے 1.0	D_Z A_A N T_D A_Y
+پیس 1.0	P A_Y S
+شعاری 1.0	S_H I A_A R II
+سونا 1.0	S O_O N A_A
+بھونکتے 1.0	B_H O N K T_D A_Y
+رفیعہ 1.0	R A F II A_A
+سونے 1.0	S O_O N A_Y
+بھونکتا 1.0	B_H O N K T_D A_A
+جانتا 1.0	D_Z A_A N T_D A_A
+بننے 1.0	B A N N A_Y
+رنگے 1.0	R A N_G G A_Y
+رسمی 1.0	R A S M II
+قیام 1.0	Q I J A_A M
+مقدر 1.0	M U Q A D_D D_D A R
+پکڑے 1.0	P A K R_R A_Y
+مقدس 1.0	M U Q A D_D D_D A S
+واشنگ 1.0	V A_A S_H I N_G
+فخر 1.0	F A X R
+سعادت 1.0	S A A_A D_D A T_D
+جزبے 1.0	D_Z A Z B A_Y
+اقلیتوں 1.0	A Q L II J A T_D O_O_N
+اسکا 1.0	U S K A_A
+مسلح 1.0	M A S A L L A_A
+مقدم 1.0	M U Q A D_D D_D A M
+جزبہ 1.0	D_Z A Z B A_A
+کاپٹر 1.0	K A_A P T A R
+حاجی 1.0	H A_A D_Z II
+سیکریٹری 1.0	S AE K R II T R II
+ادائیگی 1.0	A D_D A_A II G II
+طلباء 1.0	T_D A L A B A_A
+سکولوں 1.0	S A K U_U L O_O_N
+تماشا 1.0	T_D A M A_A S_H A_A
+عصری 1.0	A S R II
+میچ 1.0	M AE TS
+ہارن 1.0	H A_A R N
+پسرور 1.0	P I S R U_U R
+یونہی 1.0	J U_U N H II
+ملتی 1.0	M U L T_D II
+میں 1.0	M II_N
+ہنزہ 1.0	H A N Z A_A
+ملتے 1.0	M A L T_D A_Y
+سامعین 1.0	S A_A M A_Y II N
+فرحان 1.0	F A R H A_A N
+دانت 1.0	D_D A_A N T_D
+چڑھنا 1.0	TS A R_R_H N A_A
+پھالیہ 1.0	P_H A_A L I J A_A
+ہونا 1.0	H O_O N A_A
+دانش 1.0	D_D A_A N I S_H
+فیضی 1.0	F AE Z II
+خانیوال 1.0	X A_A N J A_A L
+تادین 1.0	T_D A_A D_D II N
+رینا 1.0	R II N A_A
+آباد 1.0	A_A B A_A D_D
+اجلا 1.0	A D_Z L A N
+بیاسی 1.0	B II A_A S II
+دکھ 1.0	D_D U K_H
+خضدار 1.0	X I Z D_D A_A R
+مسجدِ 1.0	M A S D_Z A D_D A_Y
+ہونے 1.0	H O_O N A_Y
+متاثرین 1.0	M U T_D A A S S I R II N
+قاسم 1.0	Q A_A S I M
+جلال 1.0	D_Z A L L A_A L
+میز 1.0	M II Z
+ملیں 1.0	M I L A_Y_N
+میر 1.0	M II R
+ہونی 1.0	H O_O N II
+ملتا 1.0	M U L T_D A_A
+مین 1.0	M II N
+میل 1.0	M II L
+دوائیاں 1.0	D_D A V A_A I J A_A_N
+صادق 1.0	S A_A D_D I Q
+تمدنی 1.0	T_D A M A D_D D_D U N II
+تماشہ 1.0	T_D A M A_A S_H A_A
+آباو 1.0	A_A B A_A O_O
+معدنیات 1.0	M U D_D A N A J J A_A T_D
+متاثرہ 1.0	M U T_D A A S S I R A_A
+حل 1.0	H U L
+اسپن 1.0	I S P A N
+ایمن 1.0	II M A N
+اندھیرا 1.0	A N D_D_H A_Y R A_A
+حو 1.0	H U_U
+ہدائیت 1.0	H I D_D A_A I J A T_D
+معمولی 1.0	M A_A M U_U L II
+بند 1.0	B A N D_D
+بنا 1.0	B A N A_A
+پٹرول 1.0	P I T R O_O L
+طیارہ 1.0	T_D A J J A_A R A_A
+اوپر 1.0	U_U P A R
+فرزانہ 1.0	F A R Z A_A N A_A
+تیاریاں 1.0	T_D A J J A_A R I J A_A_N
+طیارے 1.0	T_D A J J A_A R A_Y
+تیرنا 1.0	T_D AE R N A_A
+قربانیاں 1.0	Q U R B A_A N I J A_A_N
+مکران 1.0	M U K A R R A_A N
+دکھائیے 1.0	D_D I K_H A_A II A_Y
+شگفتہ 1.0	S_H A G U F T_D A_A
+وضاحت 1.0	V A Z A_A H A T_D
+نغمے 1.0	N A G_G M A_Y
+حج 1.0	H I D_Z
+حد 1.0	H A D_D
+آہنگی 1.0	A_A H A N_G II
+پروازوں 1.0	P A R V A_A Z O_O_N
+حر 1.0	H A R
+جینا 1.0	D_Z II N A_A
+غور 1.0	G_G O R
+غوث 1.0	G_G O S
+عدالت 1.0	A D_D A_A L A T_D
+فریب 1.0	F A R II B
+فرید 1.0	F A R II D_D
+عافیہ 1.0	A_A F I J A_A
+لیاری 1.0	L I J A_A R II
+زندگیاں 1.0	Z I N D_D A G I J A_A_N
+مستجاب 1.0	M U S T_D A D_Z A_A B
+بلندیوں 1.0	B A L A N D_D II O_O_N
+وجیہہ 1.0	V A D_Z II H A_A
+کانفرنس 1.0	K A_A N F A R A N S
+آسانی 1.0	A_A S A_A N II
+تیار 1.0	T_D A J J A_A R
+عشرت 1.0	U S_H R A T_D
+بنے 1.0	B A N A_Y
+رہو 1.0	R A H U_U
+چڑھ 1.0	TS A R_R_H
+بنی 1.0	B A N II
+گھرانوں 1.0	G_H A R A_A N O_O_N
+شوکاز 1.0	S_H O K A_A Z
+تھیلا 1.0	T_D_H AE L A_A
+خطرے 1.0	X A T_D R A_Y
+معشیت 1.0	M A A S_H I J J A T_D
+زنیرہ 1.0	Z A N II R A_A
+عادت 1.0	A_A D_D A T_D
+اعتراض 1.0	A_Y T_D I R A_A Z
+وسیع 1.0	V A S II
+افشاں 1.0	A F S_H A_A_N
+عزیزہ 1.0	A Z II Z A_A
+رقم 1.0	R A Q A M
+بیچنا 1.0	B A_Y TS N A_A
+اشیائے 1.0	A_A S_H J A_A A_Y
+رقص 1.0	R A Q S
+پاشا 1.0	P A_A S_H A_A
+بگڑتی 1.0	B I G A R_R T_D II
+بیروز 1.0	B AE R U_U Z
+بچائیں 1.0	B A TS A_A A_Y_N
+اعتراف 1.0	A T_D I R A_A F
+چابی 1.0	TS A_A B II
+یاتریوں 1.0	J A_A T_D R II O_O_N
+دفاع 1.0	D_D I F A_A
+بربادی 1.0	B A R B A_A D_D II
+منائی 1.0	M A N A_A II
+آمد 1.0	A_A M I D_D
+نسیم 1.0	N A S II M
+کینٹ 1.0	K AE N T
+آمر 1.0	A_A M A R
+شائستہ 1.0	S_H A_A I S T_D A_A
+جنڈولہ 1.0	D_Z A N D O_O L A_A
+استقبال 1.0	I S T_D I Q B A_A L
+شاذب 1.0	S_H A_A Z I B
+قطرے 1.0	Q A T_D R A_Y
+لطف 1.0	L A T_D F
+معرکہ 1.0	M A R A K A_A
+قافلوں 1.0	Q A_A F I L O_O_N
+افسران 1.0	A F S A R A_A N
+اہمیت 1.0	A H M II J A T_D
+توڑوں 1.0	T_D O_O R_R O_O_N
+قوانین 1.0	Q A V A_A N II N
+لوگوں 1.0	L O_O G O_O_N
+رفاہی 1.0	R I F A_A H II
+اژدہام 1.0	A Z_Z D_D A H A_A M
+عادی 1.0	A_A D_D II
+زرعی 1.0	Z A R II
+آمل 1.0	A_A M I L
+دستیابی 1.0	D_D A S T_D A_Y J A_A B II
+اثاثے 1.0	A S A_A S A_Y
+اثاثہ 1.0	A S S A_A S A_A
+مسلم 1.0	M U S L A M
+چکے 1.0	TS U K K A_Y
+عمارات 1.0	A M A_A R A_A T_D
+روہڑی 1.0	R O_O H R_R II
+شادمان 1.0	S_H A_A D_D M A_A N
+چکی 1.0	TS U K K II
+پھیل 1.0	P_H AE L
+بیشتر 1.0	B A_Y S_H T_D A R
+رجحان 1.0	R U D_Z H A_A N
+دلچسپ 1.0	D_D I L TS A S P
+مختلف 1.0	M U X T_D A L I F
+مسلط 1.0	M U S L A T_D
+چیٹنگ 1.0	TS AE T I N_G
+کیف 1.0	K AE F
+اشتہاری 1.0	I S_H T_D I H A_A R II
+آرزو 1.0	A_A R Z U_U
+مبارک 1.0	M U B A_A R I K
+پژمردگی 1.0	P A Z_Z M U R D_D A G II
+مانے 1.0	M A_A N A_Y
+شناس 1.0	S_H A N A_A S
+سلامت 1.0	S A L A_A M A T_D
+کوتل 1.0	K O_O T_D A L
+امتنان 1.0	I M T_D I N A_A N
+شدہ 1.0	S_H U D_D D_D A_A
+سطوت 1.0	S U T_D V A T_D
+رافع 1.0	R A_A F A_Y
+انسانی 1.0	I N S A_A N II
+ہمایوں 1.0	H A M M A_A J O_O_N
+سطور 1.0	S U T_D U_U R
+نظرانداز 1.0	N A Z A R A N D_D A_A Z
+برباد 1.0	B A R B A_A D_D
+چکا 1.0	TS U K K A_A
+ذیشان 1.0	Z II S_H A_A N
+پیھلانے 1.0	P_H AE L A_A N A_Y
+فتوحات 1.0	F A T_D U_U H A_A T_D
+کرکٹر 1.0	K A R I K T A R
+بنتے 1.0	B A N T_D A_Y
+پاکیزہ 1.0	P A_A K II Z A_A
+بنتی 1.0	B A N T_D II
+سادہ 1.0	S A_A D_D A_A
+مصروف 1.0	M A S R U_U F
+اضلاع 1.0	A Z L A_A
+پھسل 1.0	P_H I S A L
+پھینک 1.0	P_H AE_N K
+منچن 1.0	M A N TS A N
+مبالغہ 1.0	M U B A_A L A G_G A_A
+مذمت 1.0	M U Z A M M A T_D
+قناعت 1.0	Q I N A_A A T_D
+سازوں 1.0	S A_A Z O_O_N
+ولایت 1.0	V I L A_A J A T_D
+ڈھاک 1.0	D_H A_A K
+تنظیمیں 1.0	T_D A N Z II M A_Y_N
+اطلاق 1.0	I T_D L A_A Q
+ہمکنار 1.0	H A M K A N A_A R
+اقتصادیات 1.0	I Q T_D I S A_A D_D I J A_A T_D
+اصلاح 1.0	I S L A_A
+گرجا 1.0	G I R D_Z A_A
+عبدالمطلب 1.0	A B D_D U L M U T_D L A B
+برآمدات 1.0	B A R A_A M D_D A_A T_D
+شکایت 1.0	S_H I K A_A J A T_D
+پسندیدگی 1.0	P A S A N D_D II D_D A G II
+ٹھنڈا 1.0	T_H A N D A_A
+ہاشم 1.0	H A_A S_H I M
+تمدن 1.0	T_D A M A D_D D_D U N
+اطلاع 1.0	I T_D L A_A
+ہوجائے 1.0	H U_U D_Z A_A A_Y
+مریڑ 1.0	M U R II R_R
+گشت 1.0	G A S_H T_D
+پذیر 1.0	P A Z II R
+تصورات 1.0	T_D A S U_U R U T_D A_A T_D
+اخلاق 1.0	I X L A_A Q
+قیمتوں 1.0	Q II M A T_D O_O_N
+ٹھنڈی 1.0	T_H A N D II
+مریم 1.0	M A R II M
+مسلسل 1.0	M U S L I S A L
+دوسروں 1.0	D_D U_U S R O_O_N
+برسی 1.0	B A R S II
+ہیلی 1.0	H A_Y L II
+ٹھنڈے 1.0	T_H A N D A_Y
+صبیحہ 1.0	S A B II H A_A
+مربوط 1.0	M A R B U_U T_D
+مرید 1.0	M U R II D_D
+اعجاز 1.0	A_Y D_Z A_A Z
+مریض 1.0	M A R II Z
+کپتان 1.0	K A P T_D A_A N
+گلشن 1.0	G A L S_H A N
+میکلوڈ 1.0	M AE K L U_U D
+قریشی 1.0	Q A R AE S_H II
+لطیفہ 1.0	L A T_D II F A_A
+ہاتھ 1.0	H A_A T_D_H
+شاگرد 1.0	S_H A_A G I R D_D
+حازم 1.0	H A_A Z I M
+ڈھال 1.0	D_H A_A L
+ایک 1.0	A_Y K
+مجیدہ 1.0	M U D_Z II D_D A_A
+شکھر 1.0	S_H I K_H A R
+ڈھکوسلے 1.0	D_H A K O_O S L A_Y
+متاثرینِ 1.0	M U T_D A_A S A R II N A_Y
+تماظر 1.0	T_D A M A_A Z U R
+مشینیں 1.0	M A S_H II N A_Y_N
+گیمز 1.0	G AE M Z
+بیچوں 1.0	B A_Y TS O_O_N
+کچہری 1.0	K A TS AE_H H R II
+بیویوں 1.0	B AE V II O_O_N
+کھلاڑی 1.0	K_H I L A_A R_R II
+بہاول 1.0	B A H A_A V A L
+کرتے 1.0	K U R T_D A_Y
+کرتی 1.0	K U R T_D II
+زمیندار 1.0	Z A M II N D_D A_A R
+ٹھن 1.0	T_H A N
+وزیر 1.0	V A Z II R
+مرغزار 1.0	M U R A G_G Z A_A R
+داد 1.0	D_D A_A D_D
+واہ 1.0	V A_A
+اعلان 1.0	A L A_A N
+سہی 1.0	S A H II
+تبادلہ 1.0	T_D A B A_A D_D I L A_A
+کنیزہ 1.0	K A N II Z A_A
+تبادلے 1.0	T_D A B A_A D_D I L A_Y
+سنٹر 1.0	S I N T A R
+زلزے 1.0	Z A L Z A_Y
+خارجہ 1.0	X A_A R I D_Z A_A
+کرتا 1.0	K U R T_D A_A
+موہنجو 1.0	M O_O H A N D_Z U_U
+ی 1.0	II
+زخمی 1.0	Z A X M II
+ایف 1.0	II F
+ایم 1.0	AE M
+این 1.0	AE N
+جیتیں 1.0	D_Z II T_D A_Y_N
+ھبہ 1.0	B_H A H
+وال 1.0	V A_A L
+قائدانہ 1.0	Q A_A I D_D A_A N A_A
+مجرمان 1.0	M U D_Z R I M A_A N
+قدروقیمت 1.0	Q A D_D R O_O Q II M A T_D
+قرارداد 1.0	Q A R A_A R D_D A_A D_D
+بادشاہ 1.0	B A_A D_D S_H A_A
+ہمیشہ 1.0	H A M A_Y S_H A_A
+شیریں 1.0	S_H II R A_Y_N
+ہوں 1.0	H U_U_N
+تربیتی 1.0	T_D A R B II T_D II
+آبپارہ 1.0	A_A B P A_A R A_A
+آسیہ 1.0	A_A S II
+ناصیحہ 1.0	N A_A S II H A_A
+جسے 1.0	D_Z A S A_Y
+توسیم 1.0	T_D O S II M
+گنجائش 1.0	G A N D_Z A_A I S_H
+توسیع 1.0	T_D O S II
+گلریز 1.0	G I L R II Z
+پرلطف 1.0	P U R L A T_D F
+گھماتے 1.0	G_H U M A_A T_D A_Y
+ہارنا 1.0	H A_A R N A_A
+شیراں 1.0	S_H II R A_A_N
+تحفظ 1.0	T_D A H A F F U Z
+توسید 1.0	T_D O S II D_D
+حظام 1.0	H A Z A_A M
+دوڑ 1.0	D_D O R_R
+شہر 1.0	S_H AE_H H R
+چکنائی 1.0	TS I K N A_A II
+حبسِ 1.0	H A B S A_Y
+پکار 1.0	P A K A_A R
+دوں 1.0	D_D U_U_N
+رنگین 1.0	R A N_G G II N
+شہد 1.0	S_H U H D_D
+ہوا 1.0	H A V V A_A
+ہود 1.0	H U_U D_D
+صحافیوں 1.0	S A H A_A F II O_O_N
+ہوس 1.0	H U_U S
+نفاست 1.0	N A F A_A S A T_D
+ہوش 1.0	H O_O S_H
+فاکھہ 1.0	F A_A K_H A_A
+شخص 1.0	S_H A X S
+پوش 1.0	P O_O S_H
+پور 1.0	P U_U R
+کیلی 1.0	K A_Y L II
+تحفہ 1.0	T_D A H F A_A
+تحفے 1.0	T_D A H F A_Y
+شلوار 1.0	S_H A L V A_A R
+نارنگ 1.0	N A_A R A N_G
+شیراز 1.0	S_H II R A_A Z
+ہمشیرہ 1.0	H A M S_H II R A_A
+دوا 1.0	D_D A V A_A
+دور 1.0	D_D O R
+عورتیں 1.0	O R A T_D A_Y_N
+پہرہ 1.0	P AE_H H R A_A
+اوور 1.0	O_O V A R
+پاکستانی 1.0	P A_A K I S T_D A_A N II
+متوازن 1.0	M U T_D A V A_A Z A N
+کھائے 1.0	K_H A_A A_Y
+ضابطے 1.0	Z A_A B I T_D A_Y
+راجن 1.0	R A_A D_Z A N
+رجب 1.0	R A D_Z B
+فردوس 1.0	F I R D_D O S
+رامثہ 1.0	R A_A M I S A_A
+بجانا 1.0	B A D_Z A_A N A_A
+اشتہارات 1.0	I S_H T_D I H A_A R A_A T_D
+کتابیں 1.0	K I T_D A_A B A_Y_N
+چاندنی 1.0	TS A_A N D_D N II
+مجیب 1.0	M U D_Z II B
+مجید 1.0	M U D_Z II D_D
+سوہاوہ 1.0	S O_O H A_A V A_A
+عبوری 1.0	A B U_U R II
+تلہاڑ 1.0	T_D I L H A_A R_R
+احسانات 1.0	I H S A_A N A_A T_D
+دلدار 1.0	D_D I L D_D A_A R
+لکھپت 1.0	L I K_H A P A T_D
+کاٹنے 1.0	K A_A T N A_Y
+راجہ 1.0	R A_A D_Z A_A
+اجتماعی 1.0	I D_Z T_D I M A_A II
+اصغر 1.0	A S G_G A R
+پریشانیاں 1.0	P A R A_Y S_H A_A N I J A_A_N
+احتشام 1.0	I H T_D I S_H A_A M
+چوتھائی 1.0	TS O T_D_H A_A II
+درآمد 1.0	D_D A R A_A M A D_D
+مضبوطی 1.0	M A Z B U_U T_D II
+ذکر 1.0	Z I K R
+پکوان 1.0	P A K V A_A N
+صمد 1.0	S A M A D_D
+دان 1.0	D_D A_A N
+کیجئیے 1.0	K II D_Z II A_Y
+متنازعہ 1.0	M U T_D A N A_A Z A A_A
+عماد 1.0	A M M A_A D_D
+خنکی 1.0	X U N K II
+لطیف 1.0	L A T_D II F
+خادم 1.0	X A_A D_D I M
+سیکھی 1.0	S II K_H II
+غیرت 1.0	G_G AE R A T_D
+آزماتے 1.0	A_A Z M A_A T_D A_Y
+حاذر 1.0	H A_A Z I R
+ثقابت 1.0	S A Q A_A B A T_D
+برجیس 1.0	B A R D_Z AE S
+رہائش 1.0	R A H A_A I S_H
+چاہئیں 1.0	TS A_A H I A_Y_N
+خا 1.0	X A_A
+تیس 1.0	T_D II S
+کوئی 1.0	K U_U II
+خو 1.0	X U_U
+اسمبلی 1.0	A S A M B L II
+حامد 1.0	H A_A M I D_D
+شعیب 1.0	S_H A II B
+عدالتوں 1.0	A D_D A_A L A T_D O_O_N
+حمراء 1.0	H U M R A_A
+حامز 1.0	H A_A M Z
+پاکستانیوں 1.0	P A_A K I S T_D A_A N II O_O_N
+کفائیت 1.0	K A F A_A I J A T_D
+حامص 1.0	H A_A M I S
+ذاتی 1.0	Z A_A T_D II
+عنصر 1.0	A N S A R
+بلے 1.0	B A L A_Y
+کھمبے 1.0	K_H A M B A_Y
+حاذق 1.0	H A_A Z I Q
+ستاتی 1.0	S A T_D A_A T_D II
+بلی 1.0	B I L II
+چاہئیے 1.0	TS A_A H I J A_Y
+بلا 1.0	B U L A_A
+کہتے 1.0	K A H T_D A_Y
+افلاح 1.0	A F L A_A
+اونچے 1.0	U_U N TS A_Y
+محترمہ 1.0	M U H T_D A R A M A_A
+پشین 1.0	P A S_H II N
+نذرانے 1.0	N A Z R A_A N A_Y
+اونچی 1.0	U_U N TS II
+کھیرا 1.0	K_H II R A_A
+مندی 1.0	M A N D_D II
+اعتماد 1.0	A_Y T_D A_Y M A_A D_D
+اثرات 1.0	A S R A_A T_D
+جیلر 1.0	D_Z A_Y L A R
+پگاڑا 1.0	P A G A_A R_R A_A
+مٹھاس 1.0	M I T_H A_A S
+احسن 1.0	A H S A N
+رضوی 1.0	R A Z V II
+حنفاء 1.0	H A N F A_A
+بینکوں 1.0	B AE N K O_O_N
+اعتبار 1.0	A_Y T_D I B A_A R
+تعلیمی 1.0	T_D A L II M II
+کفیل 1.0	K U F AE L
+پہچان 1.0	P AE_H H TS A_A N
+شاخیں 1.0	S_H A_A X A_Y_N
+سمجھ 1.0	S A M A D_Z_H
+آفیسروں 1.0	A_A F II S A R O_O_N
+شہروز 1.0	S_H AE_H H R U_U Z
+ہائش 1.0	H A_A I S_H
+داخل 1.0	D_D A_A X I L
+ایڈٹیر 1.0	AE D T II R
+جھک 1.0	D_Z_H A K
+زہریلی 1.0	Z AE_H H R II L II
+قہقہہ 1.0	Q A H Q A H A_A
+قبل 1.0	Q A B L
+قرعہ 1.0	Q U R A_A
+اکثریت 1.0	A K S A R II J A T_D
+ممالک 1.0	M U M A_A L I K
+ڈرامے 1.0	D A R A_A M A_Y
+ڈرامہ 1.0	D A R A_A M A_A
+بالاتر 1.0	B A_A L A_A T_D A R
+دھمکی 1.0	D_D_H A M K II
+ٹرین 1.0	T A R II N
+قابیل 1.0	Q A_A B II L
+درپیش 1.0	D_D A R P A_Y S_H
+شہروں 1.0	S_H AE_H H R O_O_N
+صابرہ 1.0	S A_A B I R A_A
+فارس 1.0	F A_A R I S
+حکومتی 1.0	H U K U_U M A T_D II
+اکابر 1.0	A K A_A B A R
+فارغ 1.0	F A_A R I G_G
+قریبی 1.0	Q A R II B II
+حاضر 1.0	H A_A Z I R
+مانیٹرنگ 1.0	M A_A N II T A R I N_G
+بغل 1.0	B A G_G A L
+اسماء 1.0	A S M A_A
+شعبے 1.0	S_H O_O B A_Y
+شعبہ 1.0	S_H O_O B A_A
+گئیں 1.0	G A A_Y_N
+تشویش 1.0	T_D A S_H V II S_H
+مقصد 1.0	M U Q S A D_D
+بالٹی 1.0	B A_A L T II
+دانیہ 1.0	D_D A_A N I J A_A
+سمجھتے 1.0	S A M A D_Z_H T_D A_Y
+داریاں 1.0	D_D A_A R II A_A_N
+سرمایہ 1.0	S A R M A_A J A_A
+ڈگریوں 1.0	D I G R II O_O_N
+سائنس 1.0	S A_A I N S
+مطالعہ 1.0	M U T_D A_A L A A_A
+منٹ 1.0	M I N T
+کمتری 1.0	K A M T_D A R II
+سردی 1.0	S A R D_D II
+فری 1.0	F A R II
+کرلیا 1.0	K U R L I J A_A
+زریں 1.0	Z A R II_N
+غلط 1.0	G_G A L T_D
+حصین 1.0	H A S II N
+ہفتے 1.0	H A F T_D A_Y
+فرش 1.0	F A R S_H
+ضیاء 1.0	Z I J A_A
+فرض 1.0	F A R Z
+فرائض 1.0	F A R A_A I Z
+فرح 1.0	F A R H
+فرخ 1.0	F A R X
+گیٹ 1.0	G AE T
+منایا 1.0	M A N A_A J A_A
+نجکاری 1.0	N A D_Z K A_A R II
+درختوں 1.0	D_D A R A X T_D O_O_N
+ائیرپورٹ 1.0	A_Y A R P O_O R T
+فرق 1.0	F A R Q
+دفتری 1.0	D_D A F T_D A R II
+سمجھتا 1.0	S A M A D_Z_H T_D A_A
+عاطرہ 1.0	A_A T_D I R A_A
+مغرب 1.0	M U G_G R A B
+سلیمان 1.0	S A L II M A_A N
+پرندوں 1.0	P A R I N D_D O_O_N
+چاہتے 1.0	TS A_A H T_D A_Y
+دلی 1.0	D_D I L L II
+چاہتی 1.0	TS A_A H T_D II
+کبریا 1.0	K A B R I J A_A
+بابر 1.0	B A_A B A R
+گنے 1.0	G A N A_Y
+جمالی 1.0	D_Z A M A_A L II
+سویرے 1.0	S A V A_Y R A_Y
+تحمل 1.0	T_D A H A M M U L
+بنیا 1.0	B A N J A_A
+حریم 1.0	H A R II M
+گنگ 1.0	G A N_G
+حریف 1.0	H A R II F
+بنیر 1.0	B A N II R
+سرتاج 1.0	S A R T_D A_A D_Z
+ادراک 1.0	I D_D R A_A K
+توفیق 1.0	T_D O F II Q
+مختص 1.0	M U X T_D A S
+بیمار 1.0	B II M A_A R
+تعداد 1.0	T_D A D_D A_A D_D
+انڈین 1.0	I N D II N
+مابین 1.0	M A_A B II N
+شمال 1.0	S_H A M M A_A L
+کنزہ 1.0	K A N Z A_A
+آسمانوں 1.0	A_A S M A_A N O_O_N
+عاطفہ 1.0	A_A T_D I F A_A
+اندازِگفتگو 1.0	A_Y N D_D A_A Z A_Y G U F T_D A G O_O
+اسامیاں 1.0	A S A_A M I J A_A_N
+راشدہ 1.0	R A_A S_H I D_D A_A
+جلدی 1.0	D_Z A L D_D II
+سویرا 1.0	S O A_Y R A_A
+گنج 1.0	G A N D_Z
+مقامات 1.0	M A Q A_A M A_A T_D
+ڈانت 1.0	D A_A N T_D
+شبینہ 1.0	S_H A B II N A_A
+فریدہ 1.0	F A R II D_D A_A
+واقعات 1.0	V A_A Q I A_A T_D
+شمار 1.0	S_H U M A_A R
+چاہتا 1.0	TS A_A H T_D A_A
+چائے 1.0	TS A_A A_Y
+صالحہ 1.0	S A_A L I H A_A
+مقدمے 1.0	M U Q D_D A M A_Y
+انخلا 1.0	I N X I L A_A
+ادو 1.0	A D_D U_U
+اوقات 1.0	O Q A_A T_D
+مقدمہ 1.0	M U Q A D_D D_D A M A_A
+کمال 1.0	K A M A_A L
+الزامات 1.0	I L Z A_A M A_A T_D
+کند 1.0	K U N D_D
+تجارت 1.0	T_D I D_Z A_A R A T_D
+تمدیح 1.0	T_D A M D_D II
+رہائشی 1.0	R A H A_A I S_H II
+چلتے 1.0	TS A L T_D A_Y
+خواں 1.0	X U V A_A_N
+چلتی 1.0	TS A L T_D II
+تاجر 1.0	T_D A_A D_Z I R
+بےجا 1.0	B A_Y D_Z A_A
+اعضاء 1.0	A_A Z A_A
+حداق 1.0	H A D_D D_D A_A Q
+خطیب 1.0	X A T_D II B
+ادب 1.0	A D_D A B
+ادا 1.0	A D_D A_A
+سلمان 1.0	S U L M A_A N
+سہراب 1.0	S A_Y_H H R A_A B
+پیکھے 1.0	P A_Y K_H A_Y
+کنسرٹ 1.0	K A N S A R T
+کمپنی 1.0	K A M P A N II
+پندرہ 1.0	P A N D_D A R A_A
+مزے 1.0	M A Z A_Y
+ناہید 1.0	N A_A H II D_D
+صفیان 1.0	S A F J A_A N
+میانی 1.0	M I J A_A N II
+ثمرہ 1.0	S A M R A_A
+مزہ 1.0	M A Z A_A
+دلائل 1.0	D_D A L A_A I L
+آؤٹ 1.0	A_A U_U T
+نوکر 1.0	N O K A R
+باولنگ 1.0	B A_A V A L I N_G
+جملہ 1.0	D_Z A M L A_A
+چلتا 1.0	TS A L T_D A_A
+سرگرم 1.0	S A R G A R A M
+مناسب 1.0	M A N A_A S I B
+خانوں 1.0	X A_A N O_O_N
+عاصمہ 1.0	A_A S I M A_A
+اسماعیل 1.0	I S M A_A II L
+صاحبان 1.0	S A_A H I B A_A N
+عابرہ 1.0	A_A B I R A_A
+عنیزہ 1.0	A N A_Y Z A_A
+اجرت 1.0	U D_Z R A T_D
+قتل 1.0	Q A T_D L
+جدوجہد 1.0	D_Z I D_D V D_Z A H D_D
+بحال 1.0	B A H A_A L
+حاشر 1.0	H A_A S_H I R
+سلیم 1.0	S A L II M
+اڈیالہ 1.0	A D J A_A L A_A
+حاشد 1.0	H A_A S_H I D_D
+جائزہ 1.0	D_Z A_A I Z A_A
+فرمائے 1.0	F A R M A_A A_Y
+تشدد 1.0	T_D A S_H A D_D D_D U D_D
+سال 1.0	S A_A L
+ساز 1.0	S A_A Z
+سات 1.0	S A_A T_D
+لوہاراں 1.0	L O H A_A R A_A_N
+ابلاغ 1.0	I B L A_A G_G
+زمینیں 1.0	Z A M II N A_Y_N
+سرکاری 1.0	S A R K A_A R II
+عاکفہ 1.0	A_A K I F A_A
+مرجانہ 1.0	M U R D_Z A_A N A_A
+حاشم 1.0	H A_A S_H I M
+چاہییے 1.0	TS A_A H II J A_Y
+پھل 1.0	P_H A L
+عہدوں 1.0	O_O_H H D_D O_O_N
+سہارا 1.0	S A H A_A R A_A
+تروتازہ 1.0	T_D A R O_O T_D A_A Z A_A
+اڑتی 1.0	U R_R T_D II
+فعال 1.0	F A A_A L
+ہڈیاں 1.0	H A D D I J A_A_N
+پانچواں 1.0	P A_A N TS V A_A_N
+کرامت 1.0	K A R A_A M A T_D
+پڑھاتی 1.0	P A R_R_H A_A T_D II
+علیحدہ 1.0	A L AE H D_D A_A
+پھٹ 1.0	P_H A T
+تخلیق 1.0	T_D A X L II Q
+گھنٹے 1.0	G_H A N T A_Y
+بِلامعاوضہ 1.0	B I L A_A M U A_A V A Z A_A
+حکام 1.0	H U K K A_A M
+دلوں 1.0	D_D I L O_O_N
+عناصر 1.0	A N A_A S I R
+سرحد 1.0	S A R H A D_D
+کھرب 1.0	K_H A R A B
+جسٹس 1.0	D_Z A S T A S
+ماحول 1.0	M A_A H U_U L
+دفعہ 1.0	D_D A F A_A
+ذکیہ 1.0	Z A K I J J A_A
+پھر 1.0	P_H I R
+نکال 1.0	N I K A_A L
+لئیق 1.0	L A II Q
+صوبائی 1.0	S U_U B A_A II
+یورپ 1.0	J U_U R I P
+لکھتا 1.0	L I K_H T_D A_A
+شہریوں 1.0	S_H AE_H H R II O_O_N
+ننکانہ 1.0	N U N K A_A N A_A
+ہرا 1.0	H A R A_A
+مردہ 1.0	M U R D_D A_A
+پچھتاتے 1.0	P A TS_H T_D A_A T_D A_Y
+رکھتی 1.0	R K_H T_D II
+چیخے 1.0	TS II X A_Y
+تہس 1.0	T_D A H A S
+ہرن 1.0	H A R A N
+رکھتے 1.0	R A K_H T_D A_Y
+لائے 1.0	L A_A A_Y
+فراز 1.0	F A R A_A Z
+فرار 1.0	F A R A_A R
+طاہرہ 1.0	T_D A_A H I R A_A
+نکاح 1.0	N I K A_A
+اراضی 1.0	A R A_A Z II
+فراغ 1.0	F A R A_A G_G
+اسلام 1.0	I S L A_A M
+درباری 1.0	D_D A R B A_A R II
+آراستہ 1.0	A_A R A_A S T_D A_A
+افضل 1.0	A F Z A L
+سانس 1.0	S A_A N S
+کنارہ 1.0	K I N A_A R A_A
+کنارے 1.0	K I N A_A R A_Y
+حلیے 1.0	H A L J A_Y
+وکیل 1.0	V A K II L
+عملی 1.0	A M A L II
+بچوں 1.0	B A TS TS O_O_N
+رکھتا 1.0	R A K_H T_D A_A
+عملہ 1.0	A M L A_A
+سیدن 1.0	S II D_D A N
+گلنا 1.0	G A L N A_A
+جنید 1.0	D_Z A N II D_D
+ملزم 1.0	M U L I Z M
+عملے 1.0	A M L A_Y
+تہہ 1.0	T_D AE_H H
+دوستوں 1.0	D_D O_O S T_D O_O_N
+مدد 1.0	M A D_D D_D
+سانپ 1.0	S A_A M P
+رملہ 1.0	R A M L A_A
+کیلئے 1.0	K A_Y L I A_Y
+ہری 1.0	H A R II
+لکھتے 1.0	L I K_H T_D A_Y
+لائق 1.0	L A_A I Q
+غنی 1.0	G_G A N II
+احسان 1.0	A H S A_A N
+ڈھوک 1.0	D_H O_O K
+تعمیری 1.0	T_D A M II R II
+صدارتی 1.0	S A D_D A_A R T_D II
+لحاف 1.0	L I H H A_A F
+زبیر 1.0	Z A B II R
+فوج 1.0	F O D_Z
+آسامیاں 1.0	A_A S A_A M I J A_A_N
+بہادر 1.0	B A H A_A D_D A R
+نارووال 1.0	N A_A R V A V A_A L
+ڈالو 1.0	D A_A L O_O
+اسید 1.0	A S II D_D
+پامال 1.0	P A_A M A_A L
+سکون 1.0	S U K U_U N
+پینشن 1.0	P AE N S_H A N
+حرشف 1.0	H A R S_H I F
+ڈالا 1.0	D A_A L A_A
+بورژوا 1.0	B O R A Z_Z V A_A
+شبو 1.0	S_H A B U_U
+ڈالر 1.0	D A_A L A R
+ٹرک 1.0	T A R A K
+گزارنے 1.0	G U Z A_A R N A_Y
+چور 1.0	TS O R
+عتیق 1.0	A T_D II Q
+دینا 1.0	D_D II N A_A
+لحاظ 1.0	L I H H A_A Z
+ماہرِارضیات 1.0	M A_A H A R A_A R A Z J A_A T_D
+یقین 1.0	J A Q II N
+ریشم 1.0	R II S_H A M
+گلا 1.0	G A L L A_A
+دینی 1.0	D_D II N II
+دینہ 1.0	D_D II N A_A
+کلانچی 1.0	K A L A_A N TS II
+گلی 1.0	G A L II
+افواہوں 1.0	A F V A_A H O_O_N
+دینے 1.0	D_D II N A_Y
+رمشہ 1.0	R A M S_H A_A
+ارقم 1.0	A R Q A M
+مشق 1.0	M A S_H A Q
+مشن 1.0	M I S_H A N
+اگرچہ 1.0	A G A R TS A_A
+ذاکیہ 1.0	Z A_A K I J A_A
+ڈالے 1.0	D A_A L A_Y
+سنسر 1.0	S A N S A R
+خوشنود 1.0	X U S_H N U_U D_D
+میانوالی 1.0	M I J A_A N V A_A L II
+احمد 1.0	A H M A D_D
+احمر 1.0	A H M A R
+آڈیو 1.0	A_A D II O_O
+مبین 1.0	M U B II N
+ڈھول 1.0	D_H O_O L
+ساحر 1.0	S A_A H I R
+چھتوں 1.0	TS_H A T_D O_O_N
+بھاگتے 1.0	B_H A_A G T_D A_Y
+لی 1.0	L II
+عمارتوں 1.0	I M A_A R A T_D O_O_N
+آئیں 1.0	A_A A_Y_N
+لے 1.0	L A_Y
+چھائی 1.0	TS_H A_A II
+چمڑے 1.0	TS A M R_R A_Y
+نعش 1.0	N A_A S_H
+پولی 1.0	P O_O L II
+بیٹا 1.0	B AE T A_A
+لڑ 1.0	L A R_R
+لگ 1.0	L A G
+جاوید 1.0	D_Z A_A V A_Y D_D
+آئیے 1.0	A_A II A_Y
+گائیڈ 1.0	G A_A II D
+لو 1.0	L O_O
+آئی 1.0	A_A II
+آئے 1.0	A_A A_Y
+حالانکہ 1.0	H A_A L A_A N K A_Y
+تنصیف 1.0	T_D A N S II F
+حارس 1.0	H A_A R S
+کامیاب 1.0	K A_A M J A_A B
+ولیمہ 1.0	V A L II M A_A
+عقیلہ 1.0	A Q II L A_A
+شرمندگی 1.0	S_H A R M A N D_D A G II
+صورت 1.0	S U_U R A T_D
+صلاحیتیں 1.0	S A L A_A H I J A T_D A_Y_N
+بیٹے 1.0	B AE T A_Y
+پولس 1.0	P O_O L I S
+پروٹوکول 1.0	P A R O_O T O_O K O_O L
+شادی 1.0	S_H A_A D_D II
+بیٹھ 1.0	B AE T_H
+آئین 1.0	A_A II N
+صفر 1.0	S A F R
+عبدالملک 1.0	A B D_D U L M U L K
+ہاؤس 1.0	H A_A U_U S
+لاہوری 1.0	L A_A H V A R II
+تماشائیوں 1.0	T_D A M A_A S_H A_A II O_O_N
+سرِشام 1.0	S A R A_Y S_H A_A M
+کروٹیں 1.0	K A R V A T A_Y_N
+حکمرانوں 1.0	H U K M R A_A N O_O_N
+ڈھونگ 1.0	D_H O_O N_G
+رسالے 1.0	R A S A_A L A_Y
+ڈھونڈ 1.0	D_H U_U N D
+دولہے 1.0	D_D O_O L H A_Y
+رائے 1.0	R A_A A_Y
+حشمت 1.0	H A S_H M A T_D
+مختار 1.0	M U X T_D A_A R
+شیردل 1.0	S_H II R D_D I L
+مرحلہ 1.0	M U R H A L A_A
+خانپور 1.0	X A_A N P U_U R
+مرحلے 1.0	M A R H A L A_Y
+دستیاب 1.0	D_D A S T_D J A_A B
+پرانا 1.0	P A R A_A N A_A
+اثر 1.0	A S A R
+عون 1.0	U_U N
+ہیجان 1.0	H AE D_Z A_A N
+قدرت 1.0	Q A D_D R A T_D
+میدان 1.0	M AE D_D A_A N
+تانیہ 1.0	T_D A_A N I J A_A
+قدرتی 1.0	Q U D_D R A T_D II
+سرمد 1.0	S A R M A D_D
+خراج 1.0	X A R A_A D_Z
+پرانے 1.0	P A R A_A N A_Y
+خراب 1.0	X A R A_A B
+پرانی 1.0	P A R A_A N II
+بدمعاشی 1.0	B A D_D M A_A S_H II
+انا 1.0	A N A_A
+حتم 1.0	H A T_D M
+دولہا 1.0	D_D O_O L H A_A
+ایمان 1.0	II M A_A N
+بھولتے 1.0	B_H U_U L T_D A_Y
+شہناز 1.0	S_H A H N A_A Z
+سہیل 1.0	S A H II L
+مفادات 1.0	M U F A_A D_D A_A T_D
+معاونت 1.0	M U A_A V A N A T_D
+کھبا 1.0	K_H A B B A_A
+شاداب 1.0	S_H A_A D_D A_A B
+حشمی 1.0	H A S_H M II
+دھام 1.0	D_D_H A_A M
+ریحان 1.0	R AE H A_A N
+مؤثر 1.0	M U_U A S S A R
+ساتویں 1.0	S A_A T_D V A_Y_N
+سچائی 1.0	S A TS TS A_A II
+ہیرو 1.0	H AE R O_O
+کریمہ 1.0	K A R II M A_A
+داتا 1.0	D_D A_A T_D A_A
+لگتا 1.0	L A G T_D A_A
+عینک 1.0	AE N I K
+تدبیریں 1.0	T_D A D_D B II R A_Y_N
+مستری 1.0	M I S T_D A R II
+عینی 1.0	AE N II
+مانگا 1.0	M A_A N_G G A_A
+مستحکم 1.0	M U S T_D A H K A M
+خاصا 1.0	X A_A S A_A
+ہیرا 1.0	H AE R A_A
+نظمی 1.0	N A Z M II
+گیں 1.0	G II_N
+زمانے 1.0	Z A M A_A N A_Y
+پتوکی 1.0	P A T_D O K II
+مطابقت 1.0	M U T_D A_A B A Q A T_D
+زمانہ 1.0	Z A M A_A N A_A
+ذوالقرنین 1.0	Z U L Q A R N AE N
+سینٹ 1.0	S AE N T
+مخالف 1.0	M U X A_A L I F
+طریقے 1.0	T_D A R II Q A_Y
+برداشت 1.0	B A R D_D A_A S_H T_D
+تعریف 1.0	T_D A R II F
+سختی 1.0	S A X T_D II
+مانگے 1.0	M A_A N_G G A_Y
+مسترد 1.0	M U S T_D A R A D_D
+متحد 1.0	M U T_D A H H I D_D
+مانگی 1.0	M A_A N_G G II
+عکاسی 1.0	A K K A_A S II
+لگتی 1.0	L A G T_D II
+سائنسی 1.0	S A_A I N S II
+ہوٹل 1.0	H O_O T A L
+موسمیات 1.0	M O_O S M II A_A T_D
+لگتے 1.0	L A G T_D A_Y
+طلعت 1.0	T_D A L A T_D
+رنگارنگ 1.0	R A N_G G A_A R A N_G
+گیا 1.0	G I J A_A
+گیت 1.0	G II T_D
+تسکین 1.0	T_D A S K II N
+لاتی 1.0	L A_A T_D II
+ناکام 1.0	N A_A K A_A M
+لاتے 1.0	L A_A T_D A_Y
+پھیری 1.0	P_H A_Y R II
+اکبیر 1.0	A K B II R
+شریف 1.0	S_H A R II F
+چیز 1.0	TS II Z
+چیت 1.0	TS II T_D
+چیخ 1.0	TS II X
+باؤلر 1.0	B A_A U_U L A R
+غفران 1.0	G_G A F R A_A N
+آفریدی 1.0	A_A F R II D_D II
+ضرغام 1.0	Z A R G_G A_A M
+مہینے 1.0	M A H II N A_Y
+شریر 1.0	S_H A R II R
+چیف 1.0	TS II F
+چین 1.0	TS II N
+اکٹھی 1.0	I K A T_H II
+سمیت 1.0	S A M II T_D
+افزا 1.0	A F Z A_A
+خاوند 1.0	X A_A V I N D_D
+سعید 1.0	S A II D_D
+قص 1.0	Q I S
+سمیع 1.0	S A M II
+سمیر 1.0	S A M II R
+کانپتے 1.0	K A_A M P T_D A_Y
+کانپتی 1.0	K A_A M P T_D II
+کشی 1.0	K U S_H II
+نمونی 1.0	N A M U_U N II
+سلمہ 1.0	S A L L M A_A
+موتی 1.0	M U_U T_D II
+نویسوں 1.0	N A V II S O_O_N
+عمران 1.0	U M R A_A N
+مچھروں 1.0	M A TS_H A R O_O_N
+شریک 1.0	S_H A R II K
+ٹھوکر 1.0	T_H O_O K A R
+ہامون 1.0	H A_A M U_U N
+مدیان 1.0	M U D_D D_D I J A_A N
+اشد 1.0	A S_H A D_D
+عاصم 1.0	A_A S I M
+ابھی 1.0	A B_H II
+مکان 1.0	M A K K A_A N
+ٹھیکے 1.0	T_H A_Y K A_Y
+واصفہ 1.0	V A_A S I F A_A
+ثاقل 1.0	S A_A Q I L
+یافتہ 1.0	J A_A F T_D A_A
+اٹھانا 1.0	U T_H A_A N A_A
+اطہر 1.0	A T_D H A R
+طالب 1.0	T_D A_A L I B
+کلمہ 1.0	K A L L M A_A
+برسوں 1.0	B A R S O_O_N
+دیجئیے 1.0	D_D II D_Z II A_Y
+طالش 1.0	T_D A_A L I S_H
+کافی 1.0	K A_A F II
+نازیبا 1.0	N A_A Z II B A_A
+ماسٹر 1.0	M A_A S T A R
+ہماری 1.0	H A M A_A R II
+قومی 1.0	Q O M II
+کانگو 1.0	K A_A N_G G U_U
+کوئٹہ 1.0	K U_U I T A_A
+ہمدوش 1.0	H A M D_D O_O S_H
+وقاص 1.0	V A Q Q A_A S
+وقار 1.0	V A Q A_A R
+ٹورنامنٹ 1.0	T U_U R N A_A M I N T
+ہمارے 1.0	H A M A_A R A_Y
+رکھیئے 1.0	R A K_H J I A_Y
+قیادت 1.0	Q I J A_A D_D A T_D
+ہول 1.0	H O_O L
+جیلوں 1.0	D_Z A_Y L O_O_N
+کرسیاں 1.0	K U R S I J A_A_N
+آگاہ 1.0	A_A G A_A
+شہری 1.0	S_H AE_H H R II
+ثاقب 1.0	S A_A Q I B
+ماورا 1.0	M A_A V A R A_A
+شاخوں 1.0	S_H A_A X O_O_N
+واہگہ 1.0	V A_A H G A_A
+پہنچنے 1.0	P A H U N TS N A_Y
+راہگیر 1.0	R A_A H G II R
+شہرت 1.0	S_H AE_H H R A T_D
+پیداواری 1.0	P AE D_D A_A V A_A R II
+حسینہ 1.0	H A S II N A_A
+ہمارا 1.0	H A M A_A R A_A
+سکردو 1.0	S U K R D_D U_U
+صبور 1.0	S A B U_U R
+تمہاری 1.0	T_D U M H A_A R II
+نااہل 1.0	N A_A A H L
+چیلنج 1.0	TS AE L A N D_Z
+کسان 1.0	K A S A_A N
+تنخواہوں 1.0	T_D A N X A_A H O_O_N
+ہوچکا 1.0	H O_O TS K A_A
+سہولتیں 1.0	S U H U_U L A T_D A_Y_N
+غفار 1.0	G_G A F F A_A R
+جلسے 1.0	D_Z A L S A_Y
+شکریہ 1.0	S_H U K R I J A_A
+خلوص 1.0	X U L U_U S
+ناامیدی 1.0	N A_A U M M II D_D II
+بورڈنگ 1.0	B O R D I N_G
+کانسٹیبل 1.0	K A_A N S T A_Y B A L
+گھوم 1.0	G_H U_U M
+فہم 1.0	F A H M
+چپل 1.0	TS A P P A L
+چپو 1.0	TS A P P U_U
+خریدا 1.0	X A R II D_D A_A
+ج 1.0	D_Z
+عاملہ 1.0	A_A M I L A_A
+پتھریاٹہ 1.0	P A T_D_H R I J A_A T A_A
+دھاندلی 1.0	D_D_H A_A N D_D L II
+جھگڑتا 1.0	D_Z_H A G A R_R T_D A_A
+گھوڑوں 1.0	G_H O_O R_R O_O_N
+رقیہ 1.0	R A Q II J A_A
+ہمدردی 1.0	H A M D_D A R D_D II
+اظفر 1.0	A Z F A R
+مارگلہ 1.0	M A_A R G A L A_A
+گرتی 1.0	G I R T_D II
+کہیں 1.0	K A H A_Y_N
+نیٹو 1.0	N A_Y T O_O
+الٹ 1.0	A L A T
+جاپانی 1.0	D_Z A_A P A_A N II
+عامرہ 1.0	A_A M I R A_A
+خواجہ 1.0	X A_A D_Z A_A
+حیات 1.0	H A J A_A T_D
+تعمیر 1.0	T_D A Y M II R
+بکر 1.0	B A K A R
+سیکھا 1.0	S II K_H A_A
+شکایات 1.0	S_H I K A_A J A_A T_D
+فارعہ 1.0	F A_A R I A_A
+دھمیال 1.0	D_D_H A M J A_A L
+عدولی 1.0	A D_D U_U L II
+بکا 1.0	B A K A_A
+کنڑول 1.0	K A N R_R O_O L
+میاں 1.0	M U J A_A_N
+شوکت 1.0	S_H O K A T_D
+آجاگر 1.0	A_A D_Z A_A G A R
+ڈیم 1.0	D AE M
+جانیں 1.0	D_Z A_A N A_Y_N
+الگ 1.0	A L A G
+گورنمنٹ 1.0	G A V A R N M A N T
+بختیار 1.0	B A X T_D J A_A R
+تناؤ 1.0	T_D A N A_A O_O
+الہ 1.0	A L L A_A
+گلبرگ 1.0	G A L B A R G
+بزمی 1.0	B A Z M II
+سجاوٹ 1.0	S A D_Z A_A V A T
+خریدے 1.0	X A R II D_D A_Y
+یہی 1.0	J A_Y H II
+سائیکل 1.0	S A_A II K A L
+خاطر 1.0	X A_A T_D I R
+زمانوں 1.0	Z U M A_A N O_O_N
+تیمور 1.0	T_D II M U_U R
+دئیے 1.0	D_D A II A_Y
+تعمیل 1.0	T_D A M II L
+قدسیہ 1.0	Q A D_D S I J A_A
+صبا 1.0	S A B A_A
+گرجدار 1.0	G A R D_Z D_D A_A R
+صبح 1.0	S U B H
+میڈیکل 1.0	M AE D II K A L
+گزر 1.0	G U Z A R
+صبر 1.0	S A B R
+بدلنے 1.0	B A D_D A L N A_Y
+اس 1.0	A S
+حقیقی 1.0	H A Q II Q II
+برصا 1.0	B A R S A_A
+فیاض 1.0	F A J J A_A Z
+پھٹے 1.0	P_H A T A_Y
+غفور 1.0	G_G A F U_U R
+مانگنے 1.0	M A_A N_G N A_Y
+میزان 1.0	M II Z A_A N
+تفتیشی 1.0	T_D A F T_D II S_H II
+عزیر 1.0	A Z II R
+عزیز 1.0	A Z II Z
+لوشن 1.0	L O_O S_H A N
+منان 1.0	M A N A_A N
+وزن 1.0	V I Z A N
+کتنا 1.0	K I T_D N A_A
+حاظر 1.0	H A_A Z I R
+کتنے 1.0	K I T_D N A_Y
+تازہ 1.0	T_D A_A Z A_A
+بمشکل 1.0	B A M U S_H I L
+جاول 1.0	D_Z A_A V A L
+سرگرمیوں 1.0	S A R G A R M II O_O_N
+پڑھائی 1.0	P A R_R_H A_A II
+جنہوں 1.0	D_Z I N H O_O_N
+اڑاتے 1.0	U R_R A_A T_D A_Y
+فلاحی 1.0	F A L A_A H II
+انضمام 1.0	I N Z I M A_A M
+معذور 1.0	M A_A Z U_U R
+ملکیت 1.0	M U L K II J A T_D
+سرگرمیاں 1.0	S A R G A R M I J A_A_N
+بدلنا 1.0	B A D_D A L N A_A
+روٹی 1.0	R O_O T II
+انداز 1.0	A N D_D A_A Z
+اجمل 1.0	A D_Z M A L
+اطراف 1.0	I T_D R A_A F
+سفارش 1.0	S A F A_A R I S_H
+حیران 1.0	H AE R A_A N
+انیس 1.0	U N N II S
+عزم 1.0	A Z M
+علوم 1.0	U L U_U M
+نپٹا 1.0	N I P T A_A
+بےشمار 1.0	B A_Y S_H U M A_A R
+سمجھدار 1.0	S A M A D_Z_H D_D A_A R
+سفارت 1.0	S I F A_A R A T_D
+محل 1.0	M U H A L
+جبر 1.0	D_Z A B R
+مں 1.0	M
+کینسر 1.0	K AE N S A R
+سودے 1.0	S O D_D A_Y
+رفعت 1.0	R I F A T_D
+رنز 1.0	R A N Z
+رنج 1.0	R A N D_Z
+محض 1.0	M U H Z
+کشادہ 1.0	K U S_H A_A D_D A_A
+چلانا 1.0	TS A L A_A N A_A
+مہمانوں 1.0	M U H M A_A N O_O_N
+عزت 1.0	I Z Z A T_D
+مدِنطر 1.0	M A D_D I N A T_D R
+فریحہ 1.0	F A R II H A_A
+کرائی 1.0	K A R A_A II
+سوئے 1.0	S O_O A_Y
+انیق 1.0	A N II Q
+موجود 1.0	M O D_Z U_U D_D
+طبیعت 1.0	T_D A B II J A T_D
+رعب 1.0	R A B
+سالک 1.0	S A_A L I K
+بال 1.0	B A_A L
+غائب 1.0	G_G A_A I B
+آفت 1.0	A_A F A T_D
+باپ 1.0	B A_A P
+ترپال 1.0	T_D I R P A_A L
+چاندی 1.0	TS A_A N D_D II
+مت 1.0	M A T_D
+محی 1.0	M U H H II
+ٹیمیں 1.0	T II M A_Y_N
+منتقلی 1.0	M U N T_D A Q A L II
+چلانی 1.0	TS A L A_A N II
+سودا 1.0	S O D_D A_A
+مر 1.0	M U R
+فلمبند 1.0	F I L M B A N D_D
+مل 1.0	M I L
+من 1.0	M A N
+اَسی 1.0	A S II
+رنگ 1.0	R A N_G
+باغ 1.0	B A_A G_G
+شاہجہان 1.0	S_H A_A H D_Z A H A_A N
+باز 1.0	B A_A Z
+بار 1.0	B A_A R
+انسانوں 1.0	I N S A_A N O_O_N
+باد 1.0	B A_A D_D
+بات 1.0	B A_A T_D
+گایا 1.0	G A_A J A_A
+باب 1.0	B A_A B
+سفاری 1.0	S A F A_A R II
+سالہ 1.0	S A_A L A_A
+ماہرینِ 1.0	M A_A H I R II N A_Y
+تابناک 1.0	T_D A_A B N A_A K
+پرندے 1.0	P A R I N D_D A_Y
+بیش 1.0	B AE S_H
+بیس 1.0	B A_Y S
+آدم 1.0	A_A D_D A M
+بوریوں 1.0	B O_O R II O_O_N
+بےچینی 1.0	B A_Y TS AE N II
+بیت 1.0	B II T_D
+دھرم 1.0	D_D_H A R M
+پودا 1.0	P O D_D A_A
+اخراجات 1.0	I X R A_A D_Z A_A T_D
+راولا 1.0	R A_A V L A_A
+جھاڑیاں 1.0	D_Z_H A_A R_R I J A_A_N
+لمبی 1.0	L A M B II
+بین 1.0	B II N
+بیل 1.0	B A_Y L
+انیتا 1.0	A N II J A T_D A N
+جزیرے 1.0	D_Z A Z II R A_Y
+یاسمین 1.0	J A_A S M II N
+انعامات 1.0	I N A_A M A_A T_D
+فراہم 1.0	F A R A_A H A M
+مشھودہ 1.0	M A S_H U_U D_D A_A
+پٹھانو 1.0	P A T_H A_A N O_O
+کلر 1.0	K A L L A R
+حطیم 1.0	H A T_D II M
+کلب 1.0	K A L A B
+بیچ 1.0	B A_Y TS
+شرقپور 1.0	S_H A R Q A P U_U R
+ضبط 1.0	Z A B T_D
+بیگ 1.0	B AE G
+نوٹ 1.0	N O_O T
+لمبا 1.0	L A M B A_A
+پودے 1.0	P U_U D_D A_Y
+سسٹم 1.0	S I S T A M
+اطفان 1.0	I T_D F A_A N
+گھوئینکی 1.0	G_H U_U AE_N K II
+زمین 1.0	Z A M II N
+خوری 1.0	X O R II
+صباحت 1.0	S A B A_A H A T_D
+صاحبہ 1.0	S A_A H I B A_A
+فاخر 1.0	F A_A X I R
+خصوصی 1.0	X U S U_U S II
+نور 1.0	N O R
+متحدہ 1.0	M U T_D A H H I D_D A_A
+لائحہ 1.0	L A_A I H A_A
+مانگ 1.0	M A_A N_G
+روز 1.0	R O_O Z
+سیاح 1.0	S A J J A_A H
+بھرو 1.0	B_H A R U_U
+الدین 1.0	A L D_D II N
+مکھی 1.0	M U K K_H II
+تاجروں 1.0	T_D A_A D_Z I R O_O_N
+شنکیاری 1.0	S_H A N K J A_A R II
+کیوں 1.0	K II J O_O_N
+مراد 1.0	M U R A_A D_D
+روح 1.0	R U_U
+قبول 1.0	Q U B U_U L
+عمارت 1.0	I M A_A R A T_D
+وریر 1.0	V A R II R
+معمولات 1.0	M A_A M U_U L A_A T_D
+سکتیں 1.0	S A K T_D II_N
+خطاب 1.0	X I T_D A_A B
+فوجیوں 1.0	F O_O D_Z II O_O_N
+روپ 1.0	R U_U P
+مانی 1.0	M A_A N II
+مروت 1.0	M A R A V A T_D
+فریال 1.0	F A R J A_A L
+انگیز 1.0	A N_G G II Z
+تراسی 1.0	T_D I R A_A S II
+ہوگیا 1.0	H O_O G II A_A
+ماند 1.0	M A_A N D_D
+محدود 1.0	M A H D_D U_U D_D
+ثانی 1.0	S A_A N II
+تینوں 1.0	T_D II N O_O_N
+آنا 1.0	A_A N A_A
+روڈ 1.0	R O_O D
+غلطیوں 1.0	G_G A L T_D II O_O_N
+ریلوے 1.0	R A_Y L V A_Y
+بھری 1.0	B_H A R II
+عمارہ 1.0	A M M A_A R A_A
+ماڑی 1.0	M A_A R_R II
+کاشتکاروں 1.0	K A_A S_H T_D K A_A R O_O_N
+روک 1.0	R O_O K
+بھرے 1.0	B_H A R A_Y
+عالیشان 1.0	A_A L II S_H A_A N
+دلاویز 1.0	D_D I L A_A V A_Y Z
+روی 1.0	R A V II
+ورثاء 1.0	V A R A S A_A
+ناقص 1.0	N A_A Q I S
+آغاز 1.0	A_A G_G A_A Z
+اقبال 1.0	I Q B A_A L
+جھومر 1.0	D_Z_H U_U M A R
+غیر 1.0	G_G AE R
+چاہیے 1.0	TS A_A H II A_Y
+بانو 1.0	B A_A N O_O
+ناک 1.0	N A_A K
+بصیرت 1.0	B A S II R A T_D
+عطاءالحق 1.0	A T_D A_A L A H A Q
+پہنچا 1.0	P A H U N TS A_A
+رحمان 1.0	R A H M A_A N
+چندریگڑھ 1.0	TS A N D_D R A_Y G A R_R_H
+اربوں 1.0	A R A B O_O_N
+انعام 1.0	I N A_A M
+استوار 1.0	I S T_D I V A_A R
+دیال 1.0	D_D I J A_A L
+لڑکا 1.0	L A R_R K A_A
+لینا 1.0	L A_Y N A_A
+پرچون 1.0	P I R TS O_O N
+جمخانہ 1.0	D_Z A M X A_A N A_A
+چاہیں 1.0	TS A_A H A_Y_N
+کاغذ 1.0	K A_A G_G A Z
+لینے 1.0	L A_Y N A_Y
+لفافہ 1.0	L I F A_A F A_A
+کلیئے 1.0	K U L II A_Y
+بھٹو 1.0	B_H A T O_O
+عائشہ 1.0	A_A I S_H A_A
+لینی 1.0	L A_Y N II
+پہنچی 1.0	P O_O_H H N TS II
+سزا 1.0	S I Z A_A
+عمار 1.0	A M M A_A R
+ناز 1.0	N A_A Z
+آہنگ 1.0	A_A H A N_G
+مصنوعات 1.0	M A S N U_U A_A T_D
+دلچسپی 1.0	D_D I L TS A S P II
+پہنچے 1.0	P A H A N TS A_Y
+حضانت 1.0	H A Z A_A N A T_D
+اگلے 1.0	U G L A_Y
+نام 1.0	N A_A M
+فاروق 1.0	F A_A R U_U Q
+چھڑا 1.0	TS_H I R_R A_A
+ناپ 1.0	N A_A P
+تبلیغی 1.0	T_D A B L II G_G II
+بحالی 1.0	B A H A_A L II
+ہدایات 1.0	H I D_D A_A J A_A T_D
+ستیاں 1.0	S U T_D J A_A_N
+نوازنے 1.0	N A V A_A Z N A_Y
+جاتےہیں 1.0	D_Z A_A T_D A_Y H A_Y_N
+بھرپور 1.0	B_H A R P U_U R
+تبدیلیوں 1.0	T_D A B D_D II L II O_O_N
+بدین 1.0	B A D_D D_D II N
+عشروں 1.0	U S_H R O_O_N
+دنوں 1.0	D_D I N O_O_N
+وفد 1.0	V A F A D_D
+بھلوال 1.0	B_H A L V A_A L
+نیوال 1.0	N A_Y V A_A L
+مصنوعی 1.0	M A S N U_U Y II
+غفلت 1.0	G_G A F L A T_D
+منظوری 1.0	M A N Z U_U R II
+ارسلان 1.0	A R S A L A_A N
+ڈھانپ 1.0	D_H A_A M P
+مبنی 1.0	M A B N II
+مرغے 1.0	M U R G_G AE
+شرمناک 1.0	S_H A R M N A_A K
+بدیع 1.0	B A D_D II
+طبی 1.0	T_D A B B II
+عیدالفطر 1.0	II D_D U L F A T_D R
+مجرموں 1.0	M U D_Z R A M O_O_N
+پہنیں 1.0	P AE_H H N A_Y_N
+تھیں 1.0	T_D_H II_N
+طبع 1.0	T_D A B A_A
+بذل 1.0	B A Z A L
+ننکاری 1.0	N A N K A_A R II
+سٹیج 1.0	S A T A_Y D_Z
+گلستان 1.0	G U L I S T_D A_A N
+فریقین 1.0	F A R II Q AE N
+کوکب 1.0	K O K A B
+رہیں 1.0	R A H A_Y_N
+ذاکر 1.0	Z A_A K I R
+ہٹنا 1.0	H A T N A_A
+دکھایا 1.0	D_D I K_H A_A J A_A
+بہروز 1.0	B AE_H H R U_U Z
+درخشاں 1.0	D_D A R A X S_H A_A_N
+گز 1.0	G A Z
+سٹیٹ 1.0	S A T A_Y T
+سینٹر 1.0	S AE N T A R
+کشمکش 1.0	K A S_H M A K A S_H
+قتیل 1.0	Q A T_D II L
+الماس 1.0	A L M A_A S
+حامل 1.0	H A_A M I L
+ناجائز 1.0	N A_A D_Z A_A I Z
+وبہبود 1.0	V A B H B U_U D_D
+برادری 1.0	B A R A_A D_D R II
+کوہاٹ 1.0	K O_O H A_A T
+پی 1.0	P II
+شک 1.0	S_H A K
+ماہ 1.0	M A_A
+ماں 1.0	M A_A_N
+بچائے 1.0	B A TS A_A A_Y
+بسوں 1.0	B A S O_O_N
+شے 1.0	S_H A_Y
+جہاز 1.0	D_Z A H A_A Z
+زلزلے 1.0	Z A L Z A L A_Y
+پک 1.0	P I K
+جہاد 1.0	D_Z A H H A_A D_D
+بچائی 1.0	B A TS A_A II
+زلزلہ 1.0	Z A L Z I L A_A
+لکھے 1.0	L I K_H A_Y
+مایوسی 1.0	M A_A J U_U S II
+پڑ 1.0	P A R_R
+المال 1.0	A L M A_A L
+محسنہ 1.0	M U H S A N A_A
+لکھی 1.0	L I K_H II
+جمیمہ 1.0	D_Z A M II M A_A
+پچ 1.0	P I TS
+پٹ 1.0	P I T
+رنجش 1.0	R A N D_Z I S_H
+اساتذہ 1.0	A S A_A T_D I Z A_A
+ناچاکی 1.0	N A_A TS A_A K II
+لکھا 1.0	L I K_H A_A
+ریسکیو 1.0	R AE S K II O_O
+پوشی 1.0	P O_O S_H II
+شر 1.0	S_H A R
+شخ 1.0	S_H A X
+کاروئی 1.0	K A_A R U_U II
+قابلِ 1.0	Q A_A B I L A_Y
+پل 1.0	P I L
+لقمان 1.0	L U Q M A_A N
+مال 1.0	M A_A L
+غصے 1.0	G_G U S S A_Y
+جہاں 1.0	D_Z A H A_A_N
+راولپنڈی 1.0	R A_A V A L P A N D II
+پر 1.0	P I R
+مار 1.0	M A_A R
+پس 1.0	P I S
+ذات 1.0	Z A_A T_D
+گہوارہ 1.0	G AE_H H V A_A R A_A
+مجبورا 1.0	M A D_Z B U_U R A_A
+غصہ 1.0	G_G U S S A_A
+نقدی 1.0	N A Q D_D II
+قریب 1.0	Q A R II B
+صدرِپاکستان 1.0	S A D_D R I P A_A K I S T_D A_A N
+حمزہ 1.0	H A M Z A_A
+پا 1.0	P A_A
+شپ 1.0	S_H I P
+بدتمیزی 1.0	B A D_D T_D A M A_Y Z II
+صحیح 1.0	S A H II
+نسرین 1.0	N A S R II N
+شخصیات 1.0	S_H A X S II J A_A T_D
+الیکشن 1.0	I L AE K S_H A N
+عارف 1.0	A_A R I F
+لکھو 1.0	L I K_H O_O
+تفصیلات 1.0	T_D A F S II L A_A T_D
+مالیات 1.0	M A_A L I J A_A T_D
+گو 1.0	G O_O
+گم 1.0	G A M
+گل 1.0	G A L
+مالا 1.0	M A_A L A_A
+پنج 1.0	P A N D_Z
+سوالوں 1.0	S A V A_A L O_O_N
+ڈھنڈورا 1.0	D_H A N D O_O R A_A
+ڈھیری 1.0	D_H A_Y R II
+انعقاد 1.0	I N A_Y Q A_A D_D
+اونچا 1.0	U_U N TS A_A
+گپ 1.0	G A P
+بڈھّا 1.0	B U D_H D_H A_A
+گھڑی 1.0	G_H A R_R II
+فِٹ 1.0	F I T
+سیریز 1.0	S AE R II Z
+قلی 1.0	Q A L II
+ارمغان 1.0	A R M A G_G A_A N
+اعزاز 1.0	A Z A_A Z
+حضور 1.0	H U Z U_U R
+گا 1.0	G A_A
+گئ 1.0	G A I
+حفصہ 1.0	H A F S A_A
+عراق 1.0	I R A_A Q
+گر 1.0	G A R
+گی 1.0	G II
+کاظم 1.0	K A_A Z A M
+نالے 1.0	N A_A L A_Y
+مالک 1.0	M A_A L I K
+منظر 1.0	M U N A Z Z A R
+گے 1.0	G A_Y
+امدادی 1.0	I M D_D A_A D_D II
+اشہر 1.0	A S_H H A R
+صنعت 1.0	S A N A T_D
+پنڈ 1.0	P I N D
+قلم 1.0	Q U L A M
+دہوکہ 1.0	D_D A H O_O K A_A
+آلودگی 1.0	A_A L U_U D_D G II
+مقبرہ 1.0	M A Q B A R A_A
+تاشقین 1.0	T_D A_A S_H I Q II N
+شکار 1.0	S_H I K A_A R
+عہدے 1.0	O_O_H H D_D A_Y
+عمیر 1.0	A M II R
+منظم 1.0	M U N A Z Z A M
+ہولی 1.0	H O_O L II
+مزدور 1.0	M A Z D_D U_U R
+اطمینان 1.0	I T_D M II N A_A N
+عہدہ 1.0	O_O_H H D_D A_A
+مالی 1.0	M A_A L II
+لڑائی 1.0	L A R_R A_A II
+بنیامن 1.0	B A N J A_A M A N
+تائب 1.0	T_D A_A I B
+رفتاری 1.0	R A F T_D A_A R II
+اچھال 1.0	U TS_H A_A L
+موسی 1.0	M U_U S II
+حبل 1.0	H A B L
+رکشہ 1.0	R I K S_H A_A
+رکشے 1.0	R I K S_H A_Y
+آخر 1.0	A_A X I R
+تابین 1.0	T_D A_A B II N
+حیثت 1.0	H AE S A T_D
+فیلڈنگ 1.0	F II L D I N_G
+جام 1.0	D_Z A_A M
+بہرام 1.0	B AE_H H R A_A M
+لڑکیوں 1.0	L A R_R K II O_O_N
+طالبات 1.0	T_D A_A L I B A_A T_D
+کماتا 1.0	K A M A_A T_D A_A
+معمے 1.0	M U A M M A_Y
+محفوظہ 1.0	M A H F U_U Z A_A
+اگائیں 1.0	U G A_A A_Y_N
+موسم 1.0	M U V A S S A M
+کرنسی 1.0	K A R A N S II
+پریشان 1.0	P A R A_Y S_H A_A N
+گرفتاری 1.0	G I R I F T_D A_A R II
+مبشر 1.0	M U B A S_H A R
+لیڈی 1.0	L A_Y D II
+ھادیہ 1.0	A_A D_D J A_A
+شمع 1.0	S_H A M A_A
+باصلاحیت 1.0	B A_A S A L A_A H II J A T_D
+ٹھیک 1.0	T_H II K
+دابر 1.0	D_D A_A B A R
+عروج 1.0	U R U_U D_Z
+شمس 1.0	S_H A M S
+عفیفہ 1.0	A F II F A_A
+بَند 1.0	B A N D_D
+پیشے 1.0	P A_Y S_H A_Y
+چھوڑنے 1.0	TS_H O_O R_R N A_Y
+کتے 1.0	K A T_D T_D A_Y
+سفید 1.0	S A F II D_D
+پیارے 1.0	P I J A_A R A_Y
+ٹیم 1.0	T II M
+سفیر 1.0	S A F II R
+بختاور 1.0	B A X T_D A_A V A R
+معاملہ 1.0	M U A_A M A L A_A
+برہم 1.0	B A R H A M
+بابوسر 1.0	B A_A B U_U S A R
+معاملے 1.0	M U A_A M A L A_Y
+نامور 1.0	N A_A M V A R
+سربلند 1.0	S A R B A L A N D_D
+انبار 1.0	A M B A_A R
+اویس 1.0	A V AE S
+آئمہ 1.0	A_A I M A_A
+پیشِ 1.0	P A_Y S_H A_Y
+پتریاٹہ 1.0	P A T_D A R J A_A T A_A
+پہچانتا 1.0	P AE_H H TS A_A N T_D A_A
+مشہور 1.0	M A S_H H U_U R
+رویئے 1.0	R A V II A_Y
+حسنین 1.0	H A S N AE N
+اوڑھ 1.0	O_O R_R_H
+ٹیں 1.0	T A_Y_N
+افراہیم 1.0	I F R A_A H II M
+مجموعہ 1.0	M A D_Z M U_U A_A
+عالمگیر 1.0	A_A L A M G II R
+کتا 1.0	K A T_D T_D A_A
+کتب 1.0	K U T_D A B
+مجموعی 1.0	M A D_Z M U_U II
+ٹیک 1.0	T II K
+سروش 1.0	S A R O_O S_H
+زار 1.0	Z A_A R
+اشفاق 1.0	A S_H F A_A Q
+فصل 1.0	F A S L
+دیوار 1.0	D_D II V A_A R
+سروس 1.0	S A R U_U S
+نبھانا 1.0	N I B_H A_A N A_A
+چھوڑنا 1.0	TS_H O_O R_R N A_A
+تقرریاں 1.0	T_D A Q A R R U J A_A_N
+پیشس 1.0	P A_Y S_H A S
+رزقِ 1.0	R A Z Q A_Y
+خبر 1.0	X A B A R
+روزینہ 1.0	R O_O Z II N A_A
+گروپوں 1.0	G A R U_U P O_O_N
+ستمبر 1.0	S I T_D A M B A R
+نامناسب 1.0	N A_A M U N A_A S I B
+کیسی 1.0	K A_Y S II
+محسوس 1.0	M A H S U_U S
+کیسے 1.0	K AE S A_Y
+آبرو 1.0	A_A B R U_U
+نوشاد 1.0	N O S_H A_A D_D
+آمدنی 1.0	A_A M D_D A N II
+آتشزدگی 1.0	A_A T_D I S_H Z A D_D G II
+ہدایت 1.0	H I D_D A_A J A T_D
+زراعت 1.0	Z I R A_A A T_D
+دارومدار 1.0	D_D A_A R O_O M D_D A_A R
+کتاب 1.0	K I T_D A_A B
+جشن 1.0	D_Z A S_H A N
+خواہش 1.0	X A_A H I S_H
+ضرور 1.0	Z U R U_U R
+رضیہ 1.0	R A Z II J A_A
+دشمنوں 1.0	D_D U S_H M A N O_O_N
+فیکٹریوں 1.0	F AE K T A R II O_O_N
+ضروت 1.0	Z A R U_U T_D
+ادھار 1.0	U D_D_H A_A R
+سالہا 1.0	S A_A L H A_A
+نشریات 1.0	N A S_H R I J A_A T_D
+ضروی 1.0	Z U R R II
+درہم 1.0	D_D A R H A M
+ہنگم 1.0	H A N_G G A M
+طاقت 1.0	T_D A_A Q A T_D
+ارصی 1.0	A R S II
+غالباً 1.0	G_G A_A L I B A N
+گھر 1.0	G_H I R
+ہنگو 1.0	H A N_G G U_U
+بھیجنے 1.0	B_H A_Y D_Z N A_Y
+فن 1.0	F A N
+کنجوسی 1.0	K A N D_Z U_U S II
+بہار 1.0	B A H A_A R
+علیمہ 1.0	A L II M A_A
+نکھر 1.0	N I K_H A R
+شہلا 1.0	S_H A H L A_A
+کمزوروں 1.0	K A M Z O_O R O_O_N
+کیسا 1.0	K AE S A_A
+چودہ 1.0	TS O D_D A_A
+خلافِ 1.0	X A L A_A F A_Y
+تنویر 1.0	T_D A N V II R
+کرایہ 1.0	K A R A_A J A_A
+فٹ 1.0	F A T
+گزار 1.0	G U Z A_A R
+مارنے 1.0	M A_A R N A_Y
+زردی 1.0	Z A R D_D II
+رائیگاں 1.0	R A_A II G A_A_N
+جاگتا 1.0	D_Z A_A G T_D A_A
+سازی 1.0	S A_A Z II
+شعر 1.0	S_H A_Y R
+پسنی 1.0	P I S N II
+بڑھا 1.0	B A R_R_H A_A
+پریس 1.0	P A R A_Y S
+ریشمی 1.0	R A_Y S_H M II
+عبادات 1.0	I B A_A D_D A_A T_D
+رکھو 1.0	R A K K_H U_U
+بڑھو 1.0	B A R_R_H O_O
+رزلٹ 1.0	R I Z A L T
+رکھا 1.0	R A K K_H A_A
+غرل 1.0	G_G A R L
+ٹنھڈ 1.0	T_H A N D_H
+کالجوں 1.0	K A_A L D_Z O_O_N
+چیئرنگ 1.0	TS A_Y A R I N_G
+رہتا 1.0	R A H T_D A_A
+ٹوٹی 1.0	T O_O T II
+ہوناچاہیے 1.0	H O_O N A_A TS A_A H II A_Y
+پیچیدہ 1.0	P A_Y TS II D_D A_A
+رہتے 1.0	R A H T_D A_Y
+حلق 1.0	H A L Q
+حلف 1.0	H A L F
+بروز 1.0	B U R U_U Z
+نثار 1.0	N I S A_A R
+سازو 1.0	S A_A Z U_U
+مساجد 1.0	M A S A_A D_Z I D_D
+لازم 1.0	L A_A Z I M
+رہتی 1.0	R AE_H H T_D II
+بداعمالی 1.0	B A D_D A M A_A L II
+کلفٹن 1.0	K A L F A T A N
+رکھے 1.0	R A K K_H A_Y
+پیرزادہ 1.0	P AE R Z A_A D_D A_A
+پوشاکی 1.0	P O_O S_H A_A K II
+رکھی 1.0	R A K K_H II
+ارسل 1.0	A R S A L
+ڈھکّن 1.0	D_H A K K A N
+مورگاہ 1.0	M O R G A_A
+زاہدہ 1.0	Z A_A H I D_D A_A
+بدمعاش 1.0	B A D_D M A_A S_H
+یومِ 1.0	J U_U M A_Y
+علاؤالدین 1.0	A L A V A_A L D_D II N
+سازش 1.0	S A_A Z I S_H
+جزو 1.0	D_Z U Z V
+بیزار 1.0	B A_Y Z A_A R
+مارنا 1.0	M A_A R N A_A
+پسند 1.0	P I S A N D_D
+دعوی 1.0	D_D A_A V A_A
+پہلے 1.0	P AE_H H L A_Y
+ثقلین 1.0	S A Q L II N
+پہلی 1.0	P AE_H H L II
+رام 1.0	R A_A M
+ہندوستان 1.0	H I N D_D O_O S T_D A_A N
+سہاب 1.0	S A H H A_A B
+چاہئے 1.0	TS A_A H I A_Y
+شمسہ 1.0	S_H A M S A_A
+خوشبو 1.0	X U S_H B U_U
+اعتزاز 1.0	I T_D I Z A_A Z
+بشیرہ 1.0	B A S_H II R A_A
+عجائب 1.0	A D_Z A_A I B
+دوسری 1.0	D_D U_U S R II
+بھکاری 1.0	B_H A K A_A R II
+دوسرے 1.0	D_D U_U S R A_Y
+گاہکوں 1.0	G A_A H A K O_O_N
+منصورہ 1.0	M A N S U_U R A_A
+نادرہ 1.0	N A_A D_D I R A_A
+محتسب 1.0	M U H T_D A S A B
+سکھا 1.0	S I K_H A_A
+راج 1.0	R A_A D_Z
+سالانہ 1.0	S A_A L A_A N A_A
+رات 1.0	R A_A T_D
+ادبی 1.0	A D_D A B II
+مانسہرہ 1.0	M A_A N S A H R A_A
+سکھر 1.0	S I K_H A R
+رزاق 1.0	R A Z Z A_A Q
+انجمن 1.0	I N D_Z A M A N
+پہلو 1.0	P AE_H H L O_O
+تجمل 1.0	T_D A D_Z A M M U L
+راہ 1.0	R A_A
+حفیظہ 1.0	H A F II Z A_A
+منافع 1.0	M U N A_A F A_A
+وابستہ 1.0	V A_A B A S T_D A_A
+کہکشاں 1.0	K A H K A S_H A_A_N
+اِتنا 1.0	I T_D N A_A
+ں 1.0	A T_D
+علیشیہ 1.0	A L A_Y S_H I J A_A
+مائیں 1.0	M A_A A_Y_N
+موبائل 1.0	M O_O B A_A I L
+نامعلوم 1.0	N A_A M U L U_U M
+پائے 1.0	P A_A A_Y
+مجوعی 1.0	M A D_Z U_U II
+سامان 1.0	S A_A M A_A N
+آدمی 1.0	A_A D_D M II
+مزید 1.0	M U Z II D_D
+پائی 1.0	P A_A II
+جائیداد 1.0	D_Z A_A II D_D A_A D_D
+راگ 1.0	R A_A G
+راک 1.0	R A_A K
+مولوی 1.0	M O_O L V II
+پہلا 1.0	P AE_H H L A_A
+فائزہ 1.0	F A_A I Z A_A
+کٹوا 1.0	K A T V A_A
+وفاقی 1.0	V A F A_A Q II
+پاکستان 1.0	P A_A K I S T_D A_A N
+گوادر 1.0	G A V A_A D_D A R
+زائد 1.0	Z A_A I D_D
+موت 1.0	M U_U V A T_D
+کہے 1.0	K A H A_Y
+آتا 1.0	A_A T_D A_A
+پختہ 1.0	P U X T_D A_A
+افراح 1.0	A F R A_A
+افراد 1.0	A F R A_A D_D
+تجارتی 1.0	T_D I D_Z A_A R T_D II
+افراض 1.0	A F R A_A Z
+آخرت 1.0	A_A X A R A T_D
+افراز 1.0	A F R A_A Z
+مردوں 1.0	M U R D_D O_O_N
+حیدر 1.0	H AE D_D A R
+قالین 1.0	Q A_A L II N
+پاک 1.0	P A_A K
+موڑ 1.0	M O_O R_R
+رخسانہ 1.0	R U X S A_A N A_A
+شفق 1.0	S_H A F A Q
+کہو 1.0	K A H U_U
+پاپ 1.0	P A_A P
+آتی 1.0	A_A T_D II
+آخری 1.0	A_A X I R II
+آتے 1.0	A_A T_D A_Y
+کہا 1.0	K A H A_A
+کلیم 1.0	K A L II M
+داؤد 1.0	D_D U U_U D_D
+پاس 1.0	P A_A S
+اصولوں 1.0	U S U_U L O_O_N
+بوتل 1.0	B O_O T_D A L
+آڑے 1.0	A_A R_R A_Y
+پات 1.0	P A_A T_D
+اٹھا 1.0	U T_H A_A
+مسافر 1.0	M U S A_A F I R
+بازغہ 1.0	B A_A Z G_G A_A
+جھگڑوں 1.0	D_Z_H A G R_R O_O_N
+ملازمین 1.0	M U L A_A Z M II N
+گڑھ 1.0	G A R_R_H
+مخصوص 1.0	M A X S U_U S
+گھوڑی 1.0	G_H O_O R_R II
+گھوڑے 1.0	G_H O_O R_R A_Y
+روشنی 1.0	R O_O S_H N II
+موہن 1.0	M O_O H A N
+داستان 1.0	D_D A_A S T_D A_A N
+استاد 1.0	U S T_D A_A D_D
+افہام 1.0	I F H A_A M
+تعینات 1.0	T_D A Y II N A_A T_D
+ثریا 1.0	S U R A J A_A
+باعث 1.0	B A_A I S
+تکرار 1.0	T_D A K R A_A R
+شیٹ 1.0	S_H II T
+ابوبکر 1.0	A B U_U B A K R
+بنائی 1.0	B A N A_A II
+سبطین 1.0	S A B T_D II N
+ذہانت 1.0	Z A H A_A N A T_D
+گھوڑا 1.0	G_H O_O R_R A_A
+بڑھنے 1.0	B A R_R_H N A_Y
+بھلائی 1.0	B_H A L A_A II
+بشر 1.0	B A S_H A R
+عظمت 1.0	A Z M A T_D
+شیخ 1.0	S_H II X
+ٹ 1.0	T
+منشور 1.0	M A N S_H U_U R
+کونسی 1.0	K O N S II
+سے 1.0	S AE
+رواج 1.0	R A V A_A D_Z
+روات 1.0	R A V A_A T_D
+صفورہ 1.0	S A F U_U R A_A
+سی 1.0	S II
+چھپی 1.0	TS_H A P P II
+پیشہ 1.0	P A_Y S_H A_A
+کرسمس 1.0	K A R I S M A S
+ڈگری 1.0	D I G R II
+جنگل 1.0	D_Z A N_G G A L
+واسطے 1.0	V A_A S I T_D A_Y
+گلاس 1.0	G A L A_A S
+واسطہ 1.0	V A_A S I T_D A_A
+گلاب 1.0	G U L L A_A B
+سچ 1.0	S A TS
+حنا 1.0	H A N N A_A
+قدوس 1.0	Q U D_D D_D U_U S
+چمک 1.0	TS A M A K
+نفرتیں 1.0	N A F A R A T_D A_Y_N
+پربت 1.0	P A R B A T_D
+محسن 1.0	M U H S I N
+چمن 1.0	TS A M A N
+حنہ 1.0	H U N H A_A
+کونسل 1.0	K O N S A L
+سو 1.0	S O_O
+اکرام 1.0	I K R A_A M
+سن 1.0	S A N
+درسگاہوں 1.0	D_D A R A S G A_A H O_O_N
+علاوہ 1.0	A L A_A V A_A
+ژوب 1.0	Z U_U B
+سنبل 1.0	S A M B A L
+یقینی 1.0	J A Q II N II
+عائلہ 1.0	A_A I L A_A
+نکلے 1.0	N I K L A_Y
+سفارشی 1.0	S I F A_A R S_H II
+ثالث 1.0	S A_A L I S
+تفریح 1.0	T_D A F R II H
+سبحان 1.0	S U B H A_A N
+نکلی 1.0	N I K L II
+بیسیوں 1.0	B AE S II O_O_N
+ناگہانی 1.0	N A_A G A H A_A N II
+سر 1.0	S A R
+بدصورتیاں 1.0	B A D_D S U_U R T_D II A_A_N
+سب 1.0	S A B
+سا 1.0	S A_A
+مدیحہ 1.0	M A D_D II H A_A
+ہزاروں 1.0	H A Z A_A R O_O_N
+کھائیے 1.0	K_H A_A II A_Y
+دعوتِ 1.0	D_D A Y V A T_D A_Y
+چھا 1.0	TS_H A_A
+بھائی 1.0	B_H A_A II
+پڑا 1.0	P A R_R A_A
+اقدس 1.0	A Q D_D A S
+ہاروت 1.0	H A_A R U_U T_D
+تقرری 1.0	T_D A Q A R R U R II
+قلعہ 1.0	Q A L A_A
+جذباتیت 1.0	D_Z A Z B A_A T_D II J A T_D
+منصوبوں 1.0	M A N S U_U B O_O_N
+خطرناک 1.0	X A T_D A R N A_A K
+سوالات 1.0	S A V A_A L A_A T_D
+چمچہ 1.0	TS A M TS A_A
+بچپن 1.0	B A TS P A N
+ملبے 1.0	M A L B A_Y
+مغیث 1.0	M U G_G II S
+جمہوری 1.0	D_Z A M H U_U R II
+ہارون 1.0	H A_A R U_U N
+ہیبت 1.0	H AE B A T_D
+سالوں 1.0	S A_A L O_O_N
+دائرہ 1.0	D_D A_A I R A_A
+گاہ 1.0	G A_A
+انہوں 1.0	U N H O_O_N
+بلاول 1.0	B A L A_A V A L
+فائق 1.0	F A_A I Q
+سعدی 1.0	S A D_D II
+نہاد 1.0	N I H H A_A D_D
+پڑھ 1.0	P A R_R_H
+حالات 1.0	H A_A L A_A T_D
+پڑے 1.0	P A R_R A_Y
+فنڈز 1.0	F A N D Z
+فائز 1.0	F A_A I Z
+فائر 1.0	F A_A I R
+عبقرہ 1.0	A B Q A R A_A
+شدید 1.0	S_H A D_D II D_D
+سفر 1.0	S A F A R
+غریبہ 1.0	G_G A R II B A_A
+اللہ 1.0	A L L A H
+ویسڑیج 1.0	V AE S R_R A_Y D_Z
+جازع 1.0	D_Z A_A Z A_Y
+لاڈ 1.0	L A_A D
+جویریہ 1.0	D_Z O J R I J A_A
+فراست 1.0	F A R A_A S A T_D
+اصول 1.0	U S U_U L
+لازمی 1.0	L A_A Z M II
+دہشت 1.0	D_D AE_H H S_H A T_D
+سکتی 1.0	S A K T_D II
+سکتے 1.0	S A K T_D A_Y
+اٹھاتی 1.0	U T_H A_A T_D II
+ریاستی 1.0	R II A_A S T_D II
+دوڑنے 1.0	D_D O_O R_R N A_Y
+تلاشی 1.0	T_D A L A_A S_H II
+نوجوان 1.0	N O D_Z A V A_A N
+دھونے 1.0	D_D_H O_O N A_Y
+بھیڑ 1.0	B_H A_Y R_R
+آسمان 1.0	A_A S M A_A N
+خیام 1.0	X A J A_A M
+خیال 1.0	X A J A_A L
+تاکہ 1.0	T_D A_A K A_A
+اترنا 1.0	U T_D A R N A_A
+ٹوکیو 1.0	T O_O K II O_O
+بھیک 1.0	B_H II K
+کنول 1.0	K A N V A L
+چھٹیاں 1.0	TS_H U T T I J A_A_N
+ہوئے 1.0	H U_U A_Y
+ہیلتھ 1.0	H AE L T_D_H
+عدم 1.0	A D_D A M
+امیدیں 1.0	U M II D_D A_Y_N
+دفاعی 1.0	D_D I F A_A II
+جائیں 1.0	D_Z A_A A_Y_N
+ہوئی 1.0	H U_U II
+لاؤ 1.0	L A_A O_O
+رفیق 1.0	R A F II Q
+لاج 1.0	L A_A D_Z
+تندرست 1.0	T_D A N D_D U R U S T_D
+علیجاہ 1.0	A L II D_Z A_A
+اشارے 1.0	I S_H A_A R A_Y
+لال 1.0	L A_A L
+زخمیوں 1.0	Z A X M II O_O_N
+نقشہ 1.0	N A Q S_H A_A
+ً 1.0	A T_D
+سکتا 1.0	S A K T_D A_A
+تکلفی 1.0	T_D A K A L L U F II
+رکزہ 1.0	R A K Z A_A
+رفیع 1.0	R A F II
+علاقائی 1.0	A L L A_A Q A_A II
+بگڑ 1.0	B I G A R_R
+زرخیز 1.0	Z A R X A_Y Z
+راستے 1.0	R A_A S T_D A_Y
+گِن 1.0	G I N
+راستہ 1.0	R A_A S T_D A_A
+جائیے 1.0	D_Z A_A II A_Y
+گنکا 1.0	G U N K A_A
+کلور 1.0	K A L O_O R
+پریشانی 1.0	P A R A_Y S_H A_A N II
+لبرٹی 1.0	L I B A R T II
+اکثر 1.0	A K S A R
+ڈونر 1.0	D O_O N A R
+اسلحے 1.0	A S L A_Y
+دیواروں 1.0	D_D II V A_A R O_O_N
+ٹکٹوں 1.0	T I K A T O_O_N
+خط 1.0	X A T_D
+قائد 1.0	Q A_A I D_D
+اِسے 1.0	I S A_Y
+ورائٹی 1.0	V A R A_A I T II
+اقارب 1.0	A Q A_A R I B
+قائم 1.0	Q A_A I M
+چہروں 1.0	TS AE_H H R O_O_N
+سامنا 1.0	S A_A M N A_A
+فرزند 1.0	F A R Z A N D_D
+آگاہی 1.0	A_A G A_A H II
+پھینٹیں 1.0	P_H AE N T A_Y_N
+اِسی 1.0	I S II
+مثال 1.0	M I S A_A L
+بچنے 1.0	B A TS N A_Y
+پارٹی 1.0	P A_A R T II
+جمہوریت 1.0	D_Z A M H U_U R II J A T_D
+ساکھ 1.0	S A_A K_H
+کپڑوں 1.0	K A P R_R O_O_N
+بچنا 1.0	B A TS N A_A
+شاہدرہ 1.0	S_H A_A H D_D I R A_A
+سامنے 1.0	S A_A M N A_Y
+سراج 1.0	S A R A_A D_Z
+زینب 1.0	Z AE N B
+بندر 1.0	B A N D_D A R
+دلنے 1.0	D_D I L N A_Y
+کاغان 1.0	K A_A G_G A_A N
+سیاحوں 1.0	S I J J A_A H O_O_N
+صلاحیتوں 1.0	S A L A_A H II J A T_D O_O_N
+غسل 1.0	G_G A S A L
+تحفیظ 1.0	T_D A H F II Z
+پرلئی 1.0	P U R L A II
+کومل 1.0	K O_O M A L
+اِسم 1.0	I S M
+فرحت 1.0	F A R H A T_D
+نظیر 1.0	N A Z II R
+ضدی 1.0	Z I D_D D_D II
+خامیوں 1.0	X A_A M II O_O_N
+جاری 1.0	D_Z A_A R II
+بولنا 1.0	B O_O L N A_A
+فورا 1.0	F O_O R A_A
+آپے 1.0	A_A P A_Y
+جوابات 1.0	D_Z A V A_A B A_A T_D
+تیر 1.0	T_D AE R
+پڑھنے 1.0	P A R_R_H N A_Y
+تیز 1.0	T_D A_Y Z
+ہمراہ 1.0	H A M R A_A
+چیزوں 1.0	TS II Z O_O_N
+تھکن 1.0	T_D_H A K A N
+امانت 1.0	A M A_A N A T_D
+پروفیسر 1.0	P A R O_O F AE S A R
+لاٹھی 1.0	L A_A T_H II
+خاران 1.0	X A_A R A_A N
+کشکول 1.0	K A S_H K U_U L
+میڈیا 1.0	M AE D I J A_A
+تیل 1.0	T_D II L
+تین 1.0	T_D II N
+انتھک 1.0	A N T_D_H A K
+کمیٹیوں 1.0	K A M A_Y T II O_O_N
+چلاتا 1.0	TS A L A_A T_D A_A
+حنان 1.0	H I N A_A N
+دھوم 1.0	D_D_H U_U M
+دھول 1.0	D_D_H U_U L
+دباو 1.0	D_D A B A_A O_O
+اختلا 1.0	I X T_D I L A_A
+طبیبہ 1.0	T_D A B II B A_A
+اصلاحات 1.0	I S L A_A H A_A T_D
+چلاتی 1.0	TS A L L A_A T_D II
+سننے 1.0	S U N N A_Y
+انتہائی 1.0	I N T_D I H A_A II
+ہیں 1.0	H II_N
+پٹرولیم 1.0	P I T R O_O L I J A M
+کشمور 1.0	K A S_H M U_U R
+یہاں 1.0	J A H A_A_N
+تابدار 1.0	T_D A_A B D_D A_A R
+تھکے 1.0	T_D_H A K K A_Y
+مسافروں 1.0	M U S A_A F I R O_O_N
+غضنفر 1.0	G_G A Z N A F A R
+مرزا 1.0	M A R Z A_A
+آنسو 1.0	A_A N S U_U
+دیہاڑے 1.0	D_D A_Y H A_A R_R A_Y
+چاول 1.0	TS A_A V A L
+پھول 1.0	P_H U_U L
+پڑھنا 1.0	P A R_R_H N A_A
+احکامات 1.0	I H K A_A M A_A T_D
+قابل 1.0	Q A_A B I L
+روانی 1.0	R A V A_A N II
+روانہ 1.0	R A V A_A N A_A
+قابو 1.0	Q A_A B U_U
+بک 1.0	B U K
+فوری 1.0	F O_O R II
+بولنے 1.0	B O_O L N A_Y
+بہادری 1.0	B A H A_A D_D R II
+ثوبیہ 1.0	S U_U B I J A_A
+ہیے 1.0	H II A_Y
+ڈالنی 1.0	D A_A L N II
+کوہستان 1.0	K O_O H I S T_D A_A N
+جالب 1.0	D_Z A_A L I B
+جوں 1.0	D_Z U_U_N
+علاقہ 1.0	A L L A_A Q A_A
+گہرائی 1.0	G AE_H H R A_A II
+تاروں 1.0	T_D A_A R O_O_N
+طغیانی 1.0	T_D U G_G J A_A N II
+سرور 1.0	S A R U_U R
+یتیم 1.0	J A T_D II M
+جمعے 1.0	D_Z A M A_Y
+روحی 1.0	R U_U H II
+سپریم 1.0	S I P R II M
+عندلیب 1.0	A N D_D A L II B
+گڑگڑاہت 1.0	G I R_R G I R_R A_A H A T_D
+دائمہ 1.0	D_D A_A I M A_A
+دہانی 1.0	D_D A H A_A N II
+عارفہ 1.0	A_A R I F A_A
+فورٹرس 1.0	F O_O R T R A S
+ڈالنا 1.0	D A_A L N A_A
+جوہی 1.0	D_Z U_U H II
+عوام 1.0	A V A_A M
+گورنر 1.0	G A V A R N A R
+اقدام 1.0	I Q D_D A_A M
+چھاپے 1.0	TS_H A_A P A_Y
+رونے 1.0	R O_O N A_Y
+سیڑھی 1.0	S II R_R_H II
+سمہ 1.0	S A M A_A
+بچاو 1.0	B A TS A_A O_O
+غازیہ 1.0	G_G A_A Z I J A_A
+پہنو 1.0	P AE_H H N O_O
+بِلاشبہ 1.0	B I L A_A S_H A B A_A
+حظیظ 1.0	H A Z II Z
+شگون 1.0	S_H A G U_U N
+کھیتوں 1.0	K_H A_Y T_D O_O_N
+وکیلوں 1.0	V A K A_Y L O_O_N
+کوتاہی 1.0	K O_O T_D A_A H II
+ہیڈماسڑ 1.0	H AE D M A_A S A R_R
+عالیہ 1.0	A_A L I J A_A
+پہنا 1.0	P AE_H H N A_A
+لودھراں 1.0	L U_U D_D_H R A_A_N
+پیغام 1.0	P AE G_G A_A M
+ناکامی 1.0	N A_A K A_A M II
+ٹیلیفون 1.0	T AE L II F U_U N
+میلہ 1.0	M A_Y L A_A
+خبریں 1.0	X A B R A_Y_N
+جگت 1.0	D_Z U G A T_D
+مشوروں 1.0	M A S_H V A R O_O_N
+رنگیلا 1.0	R A N_G G II L A_A
+میلسی 1.0	M AE L S II
+گوجرانوالہ 1.0	G U_U D_Z A R A N V A_A L A_A
+خریدوں 1.0	X A R II D_D O_O_N
+جگہ 1.0	D_Z A G A_A
+چھپاتے 1.0	TS_H U P A_A T_D A_Y
+کھاؤ 1.0	K_H A_A O_O
+سعود 1.0	S A U_U D_D
+شرکاء 1.0	S_H A R A K A_A
+تاخیر 1.0	T_D A_A X II R
+دائر 1.0	D_D A_A I R
+ملزمان 1.0	M U L Z I M A_A N
+فاصلے 1.0	F A_A S I L A_Y
+قومیں 1.0	Q O M A_Y_N
+چائییے 1.0	TS A_A II J A_Y
+لاکھ 1.0	L A_A K_H
+ملکوں 1.0	M U L K O_O_N
+گاڑیوں 1.0	G A_A R_R II O_O_N
+شہریار 1.0	S_H AE_H H R J A_A R
+واپڈا 1.0	V A_A P D A_A
+پہنچ 1.0	P O_O_H H N TS
+تنظیمں 1.0	T_D A N A Z Z A_Y_N M
+عفیرہ 1.0	A F II R A_A
+نمبر 1.0	N A M B A R
+اجداد 1.0	A D_Z D_D A_A D_D
+تعلیم 1.0	T_D A L II M
+اکیڈمی 1.0	A K AE D M II
+رو 1.0	R O_O
+صوفے 1.0	S O_O F A_Y
+حمیم 1.0	H A M II M
+سبب 1.0	S A B A B
+کھیلا 1.0	K_H A_Y L A_A
+اوٹ 1.0	U_U T
+سبق 1.0	S A B A Q
+ہڑتال 1.0	H A R_R T_D A_A L
+رس 1.0	R A S
+رش 1.0	R A S_H
+عبادت 1.0	I B A_A D_D A T_D
+ناپید 1.0	N A_A P II D_D
+اقدامات 1.0	I Q D_D A_A M A_A T_D
+معصوم 1.0	M A_A S U_U M
+حمید 1.0	H A M II D_D
+رد 1.0	R A D_D
+رخ 1.0	R U X
+ملک 1.0	M U L A K
+پالیسی 1.0	P A_A L II S II
+رہ 1.0	R A H
+جیو 1.0	D_Z II V
+حوالے 1.0	H A V A_A L A_Y
+جیل 1.0	D_Z A_Y L
+جیٹ 1.0	D_Z AE T
+کھیلی 1.0	K_H A_Y L II
+کھیلے 1.0	K_H A_Y L A_Y
+اوچ 1.0	O_O TS
+غپاڑہ 1.0	G_G U P A_A R_R A_A
+چترال 1.0	TS I T_D R A_A L
+ہٹا 1.0	H A T T A_A
+کمپنیاں 1.0	K A M P A N I J A_A_N
+زمنیدار 1.0	Z I M A N II D_D A_A R
+صبیح 1.0	S A B II
+کسانوں 1.0	K I S A_A N O_O_N
+ہمبر 1.0	H A M B A R
+سبی 1.0	S A B II
+دکھائے 1.0	D_D I K_H A_A A_Y
+قرضوں 1.0	Q A R Z O_O_N
+نورالحَسن 1.0	N O R U L H A S A N
+ملی 1.0	M A L II
+ملے 1.0	M I L A_Y
+جیت 1.0	D_Z II T_D
+جیب 1.0	D_Z AE B
+دکھائی 1.0	D_D I K_H A_A II
+رک 1.0	R U K
+تک 1.0	T_D A K
+ملازمت 1.0	M U L A_A Z A M A T_D
+فلمسازوں 1.0	F I L M S A_A Z O_O_N
+نکالیں 1.0	N I K A_A L A_Y_N
+کھلاڑیوں 1.0	K_H I L A_A R_R II O_O_N
+زدہ 1.0	Z A D_D D_D A_A
+ستاروں 1.0	S I T_D A_A R O_O_N
+بلاؤ 1.0	B U L A_A O_O
+بیان 1.0	B A J A_A N
+اڑھائی 1.0	A R_R_H A_A II
+کلچر 1.0	K U L TS A R
+عبدالرحمن 1.0	A B D_D U L R A_Y M A N
+لہر 1.0	L AE_H H R
+ڈھک 1.0	D_H A K
+شامل 1.0	S_H A_A M I L
+تربیت 1.0	T_D A R B II J A T_D
+دیا 1.0	D_D I J A_A
+اتارنا 1.0	U T_D A_A R N A_A
+اسناد 1.0	A S N A_A D_D
+ٹیبل 1.0	T A_Y B A L
+گھاس 1.0	G_H A_A S
+کوششوں 1.0	K O_O S_H I S_H O_O_N
+وزیرِثقافت 1.0	V A Z II R A_Y I S Q A_A F A T_D
+آواز 1.0	A_A V A_A Z
+تولیے 1.0	T_D O_O L J A_Y
+رکنی 1.0	R U K N II
+مدیر 1.0	M U D_D II R
+حاظرین 1.0	H A_A Z I R II N
+جوتے 1.0	D_Z U_U T_D A_Y
+کلیمہ 1.0	K A L II M A_A
+ڈھا 1.0	D_H A_A
+ڈھب 1.0	D_H A B
+میٹنگ 1.0	M II T I N_G
+عاطف 1.0	A_A T_D I F
+فردین 1.0	F A R D_D II N
+بیٹسمین 1.0	B AE T S M AE N
+بدلہ 1.0	B A D_D L A_A
+انسان 1.0	I N S A_A N
+بدلی 1.0	B A D_D L II
+سنبھال 1.0	S A M B_H A_A L
+شعراء 1.0	S_H U A R A_A
+بدلے 1.0	B A D_D L A_Y
+پاؤں 1.0	P A_A U_U_N
+خاندان 1.0	X A_A N D_D A_A N
+نگرانی 1.0	N I G R A_A N II
+نمائندگی 1.0	N U M A_A I N D_D A G II
+ریفرنس 1.0	R AE F R A N S
+فیصد 1.0	F II S A D_D
+ڈوب 1.0	D U_U B
+ڈیرہ 1.0	D A_Y R A_A
+اوارد 1.0	A V A_A R I D_D
+سبزی 1.0	S A B Z II
+مراحل 1.0	M U R A_A H A L
+ڈیرے 1.0	D A_Y R A_Y
+کھیلنے 1.0	K_H A_Y L N A_Y
+آبرہ 1.0	A_A B R A_A
+کھیلنا 1.0	K_H A_Y L N A_A
+کورٹ 1.0	K O_O R T
+وآواز 1.0	V A_A V A_A Z
+نائلہ 1.0	N A_A I L A_A
+نمائشی 1.0	N U M A_A I S_H II
+اندر 1.0	A N D_D A R
+کتابوں 1.0	K I T_D A_A B O_O_N
+ٹیکس 1.0	T AE K S
+آبدیدہ 1.0	A_A B D_D II D_D A_A
+مہمانِ 1.0	M AE_H H M A_A N A_Y
+چارسدہ 1.0	TS A_A R S A D_D A_A
+کورس 1.0	K U_U R S
+انکار 1.0	I N K A_A R
+چوراہوں 1.0	TS O R A_A H O_O_N
+ثمینہ 1.0	S A M II N A_A
+گھٹتی 1.0	G_H A T T_D II
+ہوزان 1.0	H O_O Z A_A N
+توصیف 1.0	T_D O S II F
+امبر 1.0	A M B A R
+بوندا 1.0	B O N D_D A_A
+کھلتی 1.0	K_H I L T_D II
+ذوالفقار 1.0	Z U L F I Q A_A R
+سکینہ 1.0	S A K II N A_A
+روجھان 1.0	R U_U D_Z_H A_A N
+عورتوں 1.0	O R A T_D O_O_N
+کاکول 1.0	K A_A K U_U L
+والدین 1.0	V A_A L D_D II N
+الحمرا 1.0	A L H I M R A_A
+مصور 1.0	M U S U_U R
+دار 1.0	D_D A_A R
+زبانوں 1.0	Z U B A_A N O_O_N
+شکی 1.0	S_H I K K II
+ترجیحات 1.0	T_D A R D_Z II H A_A T_D
+نیلوفر 1.0	N A_Y L O_O F A R
+عامر 1.0	A_A M I R
+داؤ 1.0	D_D A_A O_O
+مزاحمت 1.0	M U Z A_A H A M A T_D
+طوفان 1.0	T_D U_U F A_A N
+ہڑپہ 1.0	H A R_R P A_A
+سنجیدگی 1.0	S A N D_Z II D_D G II
+مشاعروں 1.0	M U S_H A_A A R O_O_N
+پہلوان 1.0	P AE_H H L V A_A N
+بنگلہ 1.0	B A N_G L A_A
+ٹیموں 1.0	T II M O_O_N
+زد 1.0	Z A D_D
+پروگرام 1.0	P A R O_O G A R A_A M
+منی 1.0	M A N II
+مبصیرین 1.0	M U B S II R II N
+منہ 1.0	M U N H
+ٹھنڈیانی 1.0	T_H A N D I J A_A N II
+عامل 1.0	A_A M I L
+تباہ 1.0	T_D A B A_A
+دام 1.0	D_D A_A M
+منزل 1.0	M A N Z I L
+بنوایا 1.0	B A N V A_A J A_A
+لگوانا 1.0	L A G V A_A N A_A
+علیم 1.0	A L II M
+انور 1.0	A N V A R
+وارث 1.0	V A_A R I S
+ایاز 1.0	I J A_A Z
+شکل 1.0	S_H A K L
+زہرہ 1.0	Z AE_H H R A_A
+جوڈیشیل 1.0	D_Z O_O D II S_H A_Y L
+منع 1.0	M A N N A_A
+سیٹلائٹ 1.0	S AE T L A_A I T
+شاہراہِقائدِاعظم 1.0	H A_A H A_A R A_Y Q A A_Y D_D I A_A Z A M
+لگائی 1.0	L A G A_A II
+بلوچستان 1.0	B A L O_O TS I S T_D A_A N
+منا 1.0	M A N N A_A
+محبوب 1.0	M A H B U_U B
+بادام 1.0	B A_A D_D A_A M
+حیرت 1.0	H AE R A T_D
+ادریس 1.0	I D_D R AE S
+بوڑھے 1.0	B U_U R_R_H A_Y
+نہیں 1.0	N A H A_Y_N
+انسانیت 1.0	I N S A_A N II J A T_D
+شکر 1.0	S_H U K A R
+تصاویر 1.0	T_D A S A_A V II R
+اَن 1.0	A N
+صہبا 1.0	S A H B A_A
+نشتر 1.0	N I S_H T_D A R
+حبیبہ 1.0	H A B II B A_A
+موسلادھار 1.0	M O_O S L A_A D_D_H A_A R
+دودھ 1.0	D_D U_U D_D_H
+وجہ 1.0	V A D_Z A_A
+کہوٹہ 1.0	K A H U_U T A_A
+جہان 1.0	D_Z A H A_A N
+ٹیکسلا 1.0	T AE K S A L A_A
+پھلنا 1.0	P_H A L N A_A
+ہوتا 1.0	H O_O T_D A_A
+ہنین 1.0	H A N II N
+دولت 1.0	D_D O L A T_D
+سردار 1.0	S A R D_D A_A R
+شہنشاہوں 1.0	S_H A H A N S_H A_A H O_O_N
+جنگیں 1.0	D_Z A N_G G A_Y_N
+مٹھی 1.0	M U T_H T_H II
+سڑکیں 1.0	S A R_R K A_Y_N
+مظاہرہ 1.0	M U Z A_A H A R A_A
+پھرتے 1.0	P_H I R T_D A_Y
+اتنے 1.0	I T_D N A_Y
+بوجھ 1.0	B U_U D_Z_H
+طیب 1.0	T_D AE B
+ہسپتالوں 1.0	H A S P A T_D A_A L O_O_N
+اتنی 1.0	I T_D N II
+کشور 1.0	K A S_H U_U R
+نواں 1.0	N A V A_A_N
+تیزی 1.0	T_D A_Y Z II
+ہوتی 1.0	H O_O T_D II
+اندیشے 1.0	A N D_D A_Y S_H A_Y
+ہوتے 1.0	H O_O T_D A_Y
+اندیشہ 1.0	A N D_D A_Y S_H A_A
+سعودی 1.0	S A U_U D_D II
+فراہمی 1.0	F A R A_A H A M II
+مٹھن 1.0	M I T_H A N
+سٹیڈیم 1.0	S A T A_Y D I J A M
+انڈسڑی 1.0	I N D A S R_R II
+سنوار 1.0	S A N V A_A R
+تہذیب 1.0	T_D AE_H H Z II B
+فرحانہ 1.0	F A R H A_A N A_A
+اسلامک 1.0	I S L A_A M I K
+اپنے 1.0	A P N A_Y
+حصار 1.0	H I S S A_A R
+گ 1.0	G
+پہن 1.0	P AE_H H A N
+پہل 1.0	P AE_H H L
+اپنی 1.0	A P N II
+قائدین 1.0	Q A_A I D_D II N
+ل 1.0	L
+نتائج 1.0	N A T_D A_A I D_Z
+کھوئے 1.0	K_H O_O A_Y
+پسندیدہ 1.0	P A S A N D_D II D_D A_A
+کھوئی 1.0	K_H O_O II
+بلکہ 1.0	B A L K A_A
+تلقین 1.0	T_D A L Q II N
+ہلاکتوں 1.0	H A L L A_A K A T_D O_O_N
+جنون 1.0	D_Z U N U_U N
+اسلامی 1.0	I S L A_A M II
+کمزور 1.0	K A M Z O_O R
+کانپور 1.0	K A_A M P U_U R
+استعمال 1.0	I S T_D A_Y M A_A L
+گنا 1.0	G I N A_A
+ستارہ 1.0	S A T_D A_A R A_A
+لیجئیے 1.0	L II D_Z II A_Y
+روایات 1.0	R A V A_A J A_A T_D
+ستارے 1.0	S I T_D A_A R A_Y
+شیروانی 1.0	S_H AE R V A_A N II
+حارثہ 1.0	H A_A R I S A_A
+سجے 1.0	S A D_Z A_Y
+اپنا 1.0	A P N A_A
+صداقت 1.0	S A D_D D_D A_A Q A T_D
+نوشکی 1.0	N O S_H K II
+انبساط 1.0	I M B I S A_A T_D
+سواری 1.0	S A V A_A R II
+شادباغ 1.0	S_H A_A D_D A_Y B A_A G_G
+محکے 1.0	M U H K A_Y
+بارہ 1.0	B A_A R A_A
+باری 1.0	B A_A R II
+بارے 1.0	B A_A R A_Y
+اہم 1.0	A H A M
+اہل 1.0	A H L
+اقوام 1.0	I Q V A_A M
+بندوق 1.0	B A N D_D U_U Q
+صفدر 1.0	S A F D_D A R
+بجے 1.0	B A D_Z A_Y
+فضیلہ 1.0	F A Z II L A_A
+چھوٹا 1.0	TS_H U_U T A_A
+ڈرپوک 1.0	D A R P O K
+انگور 1.0	A N_G G U_U R
+بنٹی 1.0	B A N T II
+کراچی 1.0	K A R A_A TS II
+ژالہ 1.0	Z_Z A_A L A_A
+بھوسے 1.0	B_H U_U S A_Y
+خلاف 1.0	X A L L A_A F
+ریفری 1.0	R AE F R II
+بارک 1.0	B A_A R K
+ثقافتی 1.0	S A Q A_A F A T_D II
+پارینہ 1.0	P A_A R II N A_A
+انفارمیشن 1.0	I N F A_A R M A_Y S_H A N
+ذہن 1.0	Z A_Y H N
+ہنسی 1.0	H A N S II
+ٹیکسٹائل 1.0	T AE K S T A_A I L
+بجٹ 1.0	B A D_Z A T
+صائمہ 1.0	S A_A I M A_A
+ارادہ 1.0	I R A_A D_D A_A
+بھگا 1.0	B_H A G A_A
+ہتھیاروں 1.0	H A T_D_H J A_A R O_O_N
+ارادے 1.0	I R A_A D_D A_Y
+شبانہ 1.0	S_H A B A_A N A_A
+دعائیں 1.0	D_D U A_A A_Y_N
+نشانہ 1.0	N I S_H A_A N A_A
+جمیلہ 1.0	D_Z A M A_Y L A_A
+نشانے 1.0	N I S_H A_A N A_Y
+چھوٹے 1.0	TS_H U_U T A_Y
+اورنگ 1.0	O_O R A N_G
+فضیلت 1.0	F A Z II L A T_D
+چھوٹی 1.0	TS_H U_U T II
+روزی 1.0	R O_O Z II
+سہولت 1.0	S A H U_U L A T_D
+چادر 1.0	TS A_A D_D A R
+روزہ 1.0	R O_O Z A_A
+بارز 1.0	B A_A R Z
+بارش 1.0	B A_A R I S_H
+رخسار 1.0	R U X S A_A R
+جڑواں 1.0	D_Z A R_R V A_A_N
+جامپور 1.0	D_Z A_A M P U_U R
+الماری 1.0	A L M A_A R II
+سردیوں 1.0	S A R D_D II O_O_N
+مرنے 1.0	M A R N A_Y
+بھڑک 1.0	B_H A R_R A K
+وہیں 1.0	V A H A_Y_N
+باندھا 1.0	B A_A N D_D_H A_A
+شاکرہ 1.0	S_H A_A K I R A_A
+مجلس 1.0	M U D_Z L I S
+کمبل 1.0	K A M B A L
+کمبر 1.0	K A M B A R
+ظریف 1.0	Z A R II F
+چنار 1.0	TS A N A_A R
+موضوع 1.0	M O Z U_U
+شرکت 1.0	S_H I R K A T_D
+وسطی 1.0	V A S T_D II
+مہنگائی 1.0	M AE_H H N_G G A_A II
+فاتحہ 1.0	F A_A T_D I H A_A
+دھوکہ 1.0	D_D_H O_O K A_A
+علاج 1.0	A L L A_A D_Z
+اسرار 1.0	A S R A_A R
+خوکشی 1.0	X U K S_H II
+یاد 1.0	J A_A D_D
+بدقسمتی 1.0	B A D_D Q I S M A T_D II
+لیڈر 1.0	L II D A R
+یار 1.0	J A_A R
+باورچیوں 1.0	B A_A V A R TS II O_O_N
+کئے 1.0	K I A_Y
+سٹور 1.0	S A T O_O R
+کئی 1.0	K A II
+متوقع 1.0	M U T_D A V A Q Q A_Y
+عظیم 1.0	A Z II M
+امجد 1.0	I M D_Z A D_D
+یادگار 1.0	J A_A D_D G A_A R
+محکموں 1.0	M U H K A M O_O_N
+عادل 1.0	A_A D_D I L
+برتنے 1.0	B A R A T_D N A_Y
+باغِجناح 1.0	B A_A G_G I D_Z N A_A
+منشی 1.0	M U N A S_H S_H II
+سیکھتے 1.0	S II K_H T_D A_Y
+گاڑیاں 1.0	G A_A R_R I J A_A_N
+سٹہ 1.0	S A T T A_A
+طلبہ 1.0	T_D A L B A_A
+طلبی 1.0	T_D A L B II
+کالونیاں 1.0	K A_A L U_U N I J A_A_N
+سٹی 1.0	S A T II
+شہود 1.0	S_H U H U_U D_D
+اٹھو 1.0	U T_H T_H
+وہاڑی 1.0	V A H A_A R_R II
+دستی 1.0	D_D A S T_D II
+نکالنا 1.0	N I K A_A L N A_A
+اپناتی 1.0	A P N A_A T_D II
+اوصاف 1.0	O S A_A F
+مشکوک 1.0	M A S_H K U_U K
+حسی 1.0	H A S II
+مٹھائی 1.0	M I T_H A_A II
+داڑو 1.0	D_D A_A R_R O_O
+پچھلی 1.0	P I TS_H L II
+کانجن 1.0	K A_A N D_Z A N
+امیدوار 1.0	U M II D_D V A_A R
+رہائشگاہ 1.0	R A H A_A I S_H G A_A
+سیکورٹی 1.0	S II K O_O R T II
+پچھلے 1.0	P I TS_H L A_Y
+زندگی 1.0	Z I N D_D A G II
+حفیظ 1.0	H A F II Z
+اٹھی 1.0	U T_H II
+افسروں 1.0	A F S A R O_O_N
+نرمی 1.0	N A R M II
+اپوزیشن 1.0	A P O_O Z II S_H A N
+آیا 1.0	A_A J A_A
+اسٹیٹ 1.0	I S T A_Y T
+منورہ 1.0	M A N A V V A R A_A
+حدیقہ 1.0	H A D_D II Q A_A
+قوم 1.0	Q O M
+مشکور 1.0	M A S_H K U_U R
+زینت 1.0	Z II N T_D
+سیکرٹری 1.0	S AE K R I T R II
+سیکھتا 1.0	S II K_H T_D A_A
+میوزک 1.0	M I J U_U Z I K
+حماد 1.0	H A M M A_A D_D
+کرسی 1.0	K U R S II
+حماس 1.0	H A M M A_A S
+گناہگار 1.0	G U N A_A H G A_A R
+پابندئِ 1.0	P A_A B A N D_D I A_Y
+نڈھال 1.0	N I D_H A_A L
+ظاہر 1.0	Z A_A H I R
+ناکارہ 1.0	N A_A K A_A R A_A
+قائدِاعظم 1.0	Q A_A A_Y D_D A_Y A A M M
+آنکھوں 1.0	A_A N K_H O_O_N
+مزمل 1.0	M U Z I M I L
+لہجہ 1.0	L AE_H H D_Z A_A
+ماہرِ 1.0	M A_A H I R A_Y
+گلبدن 1.0	G U L B A D_D A N
+سمگلنگ 1.0	S I M A G L I N_G
+دباؤ 1.0	D_D A B A_A O_O
+پیار 1.0	P I J A_A R
+ھالہ 1.0	D_Z_H A_A L
+اسٹیڈیم 1.0	I S T A_Y D I J A M
+ماہرین 1.0	M A_A H I R II N
+فیصل 1.0	F AE S A L
+جماعت 1.0	D_Z A M A_A A T_D
+ہومز 1.0	H O_O M Z
+پلیٹ 1.0	P A L A_Y T
+عام 1.0	A_A M
+کامران 1.0	K A_A M R A_A N
+شمشیر 1.0	S_H A M S_H II R
+چابیاں 1.0	TS A_A B I J A_A_N
+ریما 1.0	R II M A_A
+رونمائی 1.0	R O N U M A_A II
+ماہرہ 1.0	M A_A H I R A_A
+غنیمہ 1.0	G_G A N II M A_A
+گئی 1.0	G A II
+رواداری 1.0	R A V A_A D_D A_A R II
+توبہ 1.0	T_D O_O B A_A
+پولٹری 1.0	P O_O L T A R II
+مستحق 1.0	M U S T_D A H A Q
+فصیح 1.0	F A S II
+نازک 1.0	N A_A Z I K
+دہی 1.0	D_D A H II
+عائد 1.0	A_A I D_D
+شہباز 1.0	S_H A H B A_A Z
+ایجاد 1.0	II D_Z A_A D_D
+حکیمہ 1.0	H A K II M A_A
+بھکر 1.0	B_H A K A R
+چونکہ 1.0	TS O N K A_A
+تالوں 1.0	T_D A_A L O_O_N
+پروفیر 1.0	P A R O_O F AE R
+ظاہری 1.0	Z A_A H I R II
+ظاہرہ 1.0	Z A_A H I R A_A
+چاند 1.0	TS A_A N D_D
+برابری 1.0	B A R A_A B A R II
+عروسہ 1.0	A R U_U S A_A
+عروسی 1.0	U R U_U S II
+ڈیوس 1.0	D AE V I S
+شجاعت 1.0	S_H U D_Z A_A A T_D
+سرخی 1.0	S U R X II
+جانی 1.0	D_Z A_A N II
+خازمہ 1.0	X A_A Z I M A_A
+بادشاہی 1.0	B A_A D_D S_H A_A H II
+سرگودھا 1.0	S A R G O_O D_D_H A_A
+نجیبہ 1.0	N A D_Z II B A_A
+جانے 1.0	D_Z A_A N A_Y
+لگوایا 1.0	L A G V A_A J A_A
+چارج 1.0	TS A_A R D_Z
+درکار 1.0	D_D A R K A_A R
+چونگی 1.0	TS U_U N_G G II
+کھڈیاں 1.0	K_H A D D I J A_A_N
+جاسر 1.0	D_Z A_A S I R
+مجرم 1.0	M U D_Z R A M
+چوبیس 1.0	TS O B II S
+چارہ 1.0	TS A_A R A_A
+چارے 1.0	TS A_A R A_Y
+جانب 1.0	D_Z A_A M I B
+بینی 1.0	B AE N II
+ہیبتی 1.0	H A_Y B T_D II
+بھجانے 1.0	B_H U D_Z A_A N A_Y
+بادشاہت 1.0	B A_A D_D S_H A_A H A T_D
+کنویں 1.0	K U N V A_Y_N
+جانا 1.0	D_Z A_A N A_A
+پشاور 1.0	P I S_H A_A V A R
+اچھّے 1.0	U TS_H TS_H A_Y
+دماغ 1.0	D_D A M A_A G_G
+لاشیں 1.0	L A_A S_H A_Y_N
+بٹائیں 1.0	B A T A_A A_Y_N
+نواز 1.0	N A V V A_A Z
+نواب 1.0	N A V V A_A B
+درمیان 1.0	D_D A R M A J A_A N
+ذہین 1.0	Z A H II N
+مصوری 1.0	M U S U_U R II
+حلقوں 1.0	H A L Q O_O_N
+نسلوں 1.0	N A S L O_O_N
+ترجیحی 1.0	T_D A R D_Z II H II
+ہصیم 1.0	H A S II M
+بینچ 1.0	B AE N TS
+غلطی 1.0	G_G A L T_D II
+وی 1.0	V II
+وہ 1.0	V V A_A
+بنائیں 1.0	B A N A_A A_Y_N
+بینک 1.0	B AE N K
+قطار 1.0	Q I T_D A_A R
+شانگلہ 1.0	S_H A_A N_G L A_A
+مسیحی 1.0	M A S II H II
+متحرک 1.0	M U T_D A H A R R I K
+لیں 1.0	L A_Y_N
+بھلا 1.0	B_H A L A_A
+پڑتا 1.0	P A R_R T_D A_A
+سمندری 1.0	S A M A N D_D A R II
+کنڈ 1.0	K U N D
+جھلک 1.0	D_Z_H A L A K
+عجوبہ 1.0	A D_Z U_U B A_A
+راول 1.0	R A_A V A L
+گھیرے 1.0	G_H A_Y R A_Y
+دکھا 1.0	D_D U K_H K_H A_A
+گھیرا 1.0	G_H A_Y R A_A
+پڑتی 1.0	P A R_R T_D II
+صرافہ 1.0	S A R R A_A F A_A
+ون 1.0	V A N
+نوشابہ 1.0	N O_O S_H A_A B A_A
+نبیلہ 1.0	N A B II L A_A
+محتا 1.0	M U H T_D A_A
+بینا 1.0	B II N A_A
+تلخیاں 1.0	T_D A L X I J A_A_N
+بچاتے 1.0	B A TS A_A T_D A_Y
+مؤمن 1.0	M U_U A M M A N
+لگایا 1.0	L A G A_A J A_A
+جہد 1.0	D_Z I H D_D
+کلثوم 1.0	K A L S U_U M
+آسمارا 1.0	A_A S M A_A R A_A
+ثقات 1.0	S I Q A_A T_D
+جہت 1.0	D_Z I H A T_D
+ور 1.0	V A R
+وش 1.0	V I S_H
+راوی 1.0	R A_A V II
+چڑھایا 1.0	TS A R_R_H A_A J A_A
+محمد 1.0	M U H A M M A D_D
+علم 1.0	A L A M
+بیرسٹری 1.0	B AE R I S T R II
+ساحرہ 1.0	S A_A H I R A_A
+گوندل 1.0	G O_O N D_D I L
+قبضے 1.0	Q A B Z A_Y
+فروغ 1.0	F U R U_U G_G
+قبضہ 1.0	Q A B Z A_A
+احتجاج 1.0	I H T_D I D_Z A_A D_Z
+پھرنے 1.0	P_H I R N A_Y
+درخواستیں 1.0	D_D A R X A_A S T_D A_Y_N
+زیور 1.0	Z A_Y V A R
+ایمپائر 1.0	AE M P A_A I R
+حاضرین 1.0	H A_A Z I R II N
+علی 1.0	A L II
+آفتاب 1.0	A_A F T_D A_A B
+آسان 1.0	A_A S A_A N
+شرقیہ 1.0	S_H A R Q I J A_A
+ریڈیو 1.0	R AE D J O_O
+واحد 1.0	V A_A H I D_D
+اراکین 1.0	A R A_A K II N
+قصائی 1.0	Q A S A_A II
+انتضامات 1.0	I N T_D I Z A_A M A_A T_D
+جرنلسٹ 1.0	D_Z A R N A L I S T
+ماہم 1.0	M A_A H A M
+ستر 1.0	S A T_D T_D A R
+بگڑی 1.0	B I G R_R II
+سنبھالنا 1.0	S A M B_H A_A L N A_A
+ڈانٹا 1.0	D A_A N T A_A
+گڈو 1.0	G U D D U_U
+جھگڑے 1.0	D_Z_H A G R_R A_Y
+جناح 1.0	D_Z A N A_A
+جناب 1.0	D_Z A N A_A B
+پکوڑے 1.0	P A K O R_R A_Y
+زبان 1.0	Z U B A_A N
+فروہ 1.0	F A R V A_A
+گلگت 1.0	G I L G A T_D
+چونک 1.0	TS O N K
+فاطمہ 1.0	F A_A T_D M A_A
+ہاتھی 1.0	H A_A T_D_H II
+خون 1.0	X U_U N
+راست 1.0	R A_A S T_D
+چڑیاں 1.0	TS I R_R J A_A_N
+ہادی 1.0	H A_A D_D II
+ماشا 1.0	M A_A S_H A_A
+ٹانگ 1.0	T A_A N_G
+ڈھلتی 1.0	D_H A L T_D II
+ہجرت 1.0	H I D_Z R A T_D
+افگن 1.0	A F G A N
+خوانی 1.0	X V A_A N II
+آفندی 1.0	A_A F A N D_D II
+پرورش 1.0	P A R O_O R I S_H
+پرہیز 1.0	P A R H A_Y Z
+مسئلے 1.0	M A S A L A_Y
+آسٹریلیا 1.0	A_A S T A R A_Y L I J A_A
+رکھوا 1.0	R A K_H V A_A
+کیفیت 1.0	K AE F I J J A T_D
+مسئلہ 1.0	M A S A L A_A
+پروری 1.0	P A R O_O R II
+موسیقی 1.0	M U_U S II Q II
+دریاؤں 1.0	D_D A R J A_A O_O_N
+زور 1.0	Z O R
+خوشیوں 1.0	X U S_H II O_O_N
+حادث 1.0	H A_A D_D I S
+مطابق 1.0	M U T_D A_A B I Q
+آبدار 1.0	A_A B D_D A_A R
+نزہت 1.0	N A Z A H T_D A T_D
+تقاضوں 1.0	T_D A Q A_A Z O_O_N
+طاہر 1.0	T_D A_A H I R
+ہاتھا 1.0	H A_A T_D_H A_A
+دعا 1.0	D_D U A_A
+ڈسکہ 1.0	D I S K A_A
+ریواز 1.0	R II V A_A Z
+حالت 1.0	H A_A L A T_D
+کیماڑی 1.0	K II M A_A R_R II
+فصاحت 1.0	F A S A_A H A T_D
+فائدہ 1.0	F A_A I D_D A_A
+پاؤوں 1.0	P A_A U_U_N O_O_N
+ایجنسی 1.0	A_Y D_Z A N S II
+منیرہ 1.0	M U N II R A_A
+بلدیاتی 1.0	B A L D_D I J A_A T_D II
+بنانی 1.0	B A N A_A N II
+ہنگامہ 1.0	H A N_G G A_A M A_A
+فلمی 1.0	F I L M II
+ہنگامی 1.0	H A N_G G A_A M II
+تحریم 1.0	T_D A H R II M
+گانے 1.0	G A_A N A_Y
+کالونی 1.0	K A_A L U_U N II
+ذکاء 1.0	Z A K A_A
+تحریر 1.0	T_D A H R II R
+فصلوں 1.0	F A S L O_O_N
+خرید 1.0	X A R II D_D
+کِئے 1.0	K I A_Y
+کھِلا 1.0	K_H I L A_A
+جاتا 1.0	D_Z A_A T_D A_A
+حالم 1.0	H A_A L M
+رسول 1.0	R A S U_U L
+لیکن 1.0	L A_Y K I N
+جاتی 1.0	D_Z A_A T_D II
+ادارے 1.0	I D_D A_A R A_Y
+اجازت 1.0	I D_Z A_A Z A T_D
+خاتون 1.0	X A_A T_D U_U N
+صنوبر 1.0	S A N U_U B A R
+کمیٹی 1.0	K A M II T II
+ڈسٹرکٹ 1.0	D I S T A R I K T
+ادارہ 1.0	I D_D A_A R A_A
+جاتے 1.0	D_Z A_A T_D A_Y
+لاہور 1.0	L A_A H U_U R
+عزراء 1.0	U Z R A_A
+ڈھڈیال 1.0	D_H A D J A_A L
+افضال 1.0	I F Z A_A L
+گانا 1.0	G A_A N A_A
+مہذب 1.0	M U H A Z Z A B
+تحریک 1.0	T_D A H R II K
+سینکڑوں 1.0	S AE_N K R_R O_O_N
+برسات 1.0	B A R S A_A T_D
+تھرپارکر 1.0	T_D_H A R A P A_A R K A R
+مرشد 1.0	M U R S_H I D_D
+حملہ 1.0	H A M L A_A
+مشرق 1.0	M A S_H R I Q
+باسم 1.0	B A_A S A M
+کبیرہ 1.0	K A B II R A_A
+دوسرا 1.0	D_D U_U S R A_A
+نیو 1.0	N II O_O
+انظر 1.0	A N Z A R
+نیم 1.0	N II M
+پاسپورٹ 1.0	P A_A S P O_O R T
+نیٹ 1.0	N AE T
+رزق 1.0	R A Z A Q
+بالا 1.0	B A_A L A_A
+پھنس 1.0	P_H A N S
+آلات 1.0	A_A L A_A T_D
+غالب 1.0	G_G A_A L I B
+آگا 1.0	A_A G A_A
+و 1.0	V
+اقتدار 1.0	I Q T_D I D_D A_A R
+ہجوم 1.0	H U D_Z U_U M
+مملکت 1.0	M U M L A K A T_D
+لعنت 1.0	L A N A T_D
+بازاری 1.0	B A_A Z A_A R II
+انتہا 1.0	I N T_D I H A_A
+متاثر 1.0	M U T_D A A S S I R
+اکمال 1.0	I K M A_A L
+امینہ 1.0	A M II N A_A
+نیت 1.0	N II J A T_D
+باسط 1.0	B A_A S I T_D
+خود 1.0	X U D_D
+نیا 1.0	N II J A_A
+رشیدہ 1.0	R A S_H II D_D A_A
+زینا 1.0	Z II N A_A
+داروں 1.0	D_D A_A R O_O_N
+دوائی 1.0	D_D A V A_A II
+سیکریٹیریٹ 1.0	S AE K R II T II R II T
+قائمہ 1.0	Q A_A I M A_A
+بنیادی 1.0	B A N J A_A D_D II
+بخت 1.0	B A X T_D
+بخش 1.0	B A X S_H
+باوجود 1.0	B A_A V U D_Z U_U D_D
+جانور 1.0	D_Z A_A N V A R
+پرتوجہ 1.0	P A R T_D O D_Z A_A
+آگے 1.0	A_A G A_Y
+شاہراہ 1.0	S_H A_A H I R A_A
+آوروں 1.0	A_A V A R O_O_N
+حفاظت 1.0	H I F A_A Z A T_D
+اٹھائی 1.0	U T_H A_A II
+غلیظ 1.0	G_G A L II Z
+امپیریل 1.0	I M P II R I J A L
+برتری 1.0	B A R T_D A R II
+نیک 1.0	N A_Y K
+تہذیبی 1.0	T_D AE_H H Z II B II
+شیرافگن 1.0	S_H II R A_A F G I N
+رانی 1.0	R A_A N II
+توحید 1.0	T_D O H II D_D
+میرا 1.0	M II R A_A
+راضیہ 1.0	R A_A Z I J A_A
+وزیرِکھیل 1.0	V A Z II R A_Y K_H A_Y L
+گناہ 1.0	G U N A_A
+مسائل 1.0	M A S A_A I L
+محمودہ 1.0	M A H M U_U D_D A_A
+وارانہ 1.0	V A_A R A_A N A_A
+سابق 1.0	S A_A B I Q
+تحسین 1.0	T_D A H S II N
+لاتعداد 1.0	L A_A T_D A_Y A D_D A_A D_D
+چھانگا 1.0	TS_H A_A N_G G A_A
+تحسینہ 1.0	T_D A H S II N A_A
+مسجد 1.0	M A S D_Z A D_D
+فرماں 1.0	F A R M A_A_N
+انکشاف 1.0	I N K I S_H A_A F
+میرن 1.0	M II R A N
+جلد 1.0	D_Z A L D_D
+نشہ 1.0	N A S_H S_H A_A
+ترویج 1.0	T_D A R V II D_Z
+سہرا 1.0	S A_Y_H H R A_A
+کھول 1.0	K_H O_O L
+فرمان 1.0	F A R M A_A N
+شاہنواز 1.0	S_H A_A H N A V A_A Z
+برنی 1.0	B A R N II
+دیکھتے 1.0	D_D A_Y K_H T_D A_Y
+برکت 1.0	B A R K A T_D
+رحم 1.0	R A H M
+ڈراموں 1.0	D A R A_A M O_O_N
+کوٹھا 1.0	K O_O T_H A_A
+گھنٹی 1.0	G_H A N T II
+میری 1.0	M II R II
+ثروت 1.0	S U R A V A T_D
+گھنٹہ 1.0	G_H A N T A_A
+ذہنوں 1.0	Z I H N O_O_N
+لڑائیوں 1.0	L A R_R A_A II O_O_N
+میرے 1.0	M AE R A_Y
+رکھنا 1.0	R A K_H N A_A
+ڈاکٹروں 1.0	D A_A K T A R O_O_N
+حسنی 1.0	H A S N II
+اداسی 1.0	U D_D A_A S II
+امین 1.0	A M II N
+حصول 1.0	H U S U_U L
+لاگت 1.0	L A_A G A T_D
+ستھرا 1.0	S U T_D_H R A_A
+میلوں 1.0	M II L O_O_N
+پرکشش 1.0	P U R K A S_H I S_H
+تحقیقاتی 1.0	T_D A H Q II Q A_A T_D II
+نظام 1.0	N I Z Z A_A M
+فلائی 1.0	F A L A_A II
+مخاطب 1.0	M U X A_A T_D I B
+امیر 1.0	A M II R
+اٹھتے 1.0	U T_H T_D A_Y
+بہاولپور 1.0	B A H A_A V A L P U_U R
+موٹر 1.0	M O_O T A R
+التماس 1.0	I L T_D I M A_A S
+محفل 1.0	M U H A F F I L
+امید 1.0	A M II D_D
+ٹیلنٹ 1.0	T AE L A N T
+مقتول 1.0	M A Q T_D U_U L
+چھوٹ 1.0	TS_H U_U T
+حسنِ 1.0	H U S N A_Y
+تھانہ 1.0	T_D_H A_A N A_A
+سمجھا 1.0	S A M D_Z_H A_A
+حلقہ 1.0	H A L Q A_A
+فروخت 1.0	F A R O_O X T_D
+عنبر 1.0	A M B A R
+ناجیہ 1.0	N A_A D_Z I J A_A
+لفظوں 1.0	L A F Z O_O_N
+دارلخلافہ 1.0	D_D A_A R U L X I L A_A F A_A
+کاریوں 1.0	K A_A R II O_O_N
+معصومہ 1.0	M A S U_U M A_A
+حصوں 1.0	H I S S O_O_N
+رکھنی 1.0	R A K_H N II
+مغربی 1.0	M A G_G R A B II
+رکھنے 1.0	R A K_H N A_Y
+جابر 1.0	D_Z A_A B I R
+سیٹ 1.0	S II T
+مچھلی 1.0	M I TS_H L II
+کپڑے 1.0	K A P R_R A_Y
+نانگا 1.0	N A_A N_G G A_A
+فطری 1.0	F I T_D R II
+وحید 1.0	V A H II D_D
+صدارت 1.0	S A D_D A_A R A T_D
+فتح 1.0	F A T_D H
+نو 1.0	N O_O
+ترجمان 1.0	T_D A R D_Z U M A_A N
+آہ 1.0	A_A H
+خوفناک 1.0	X O F N A_A K
+ریاست 1.0	R II A_A S A T_D
+سیف 1.0	S II F
+حکمتِ 1.0	H U K M A T_D A_Y
+ہرجانے 1.0	H A R D_Z A_A N A_Y
+آگ 1.0	A_A G
+سیر 1.0	S II R
+لسبیلہ 1.0	L A S B II L A_A
+سید 1.0	S II D_D
+سیب 1.0	S A_Y B
+فائبر 1.0	F A_A I B A R
+جلیلہ 1.0	D_Z A L II L A_A
+سٹاپ 1.0	S A T A_A P
+نمایاں 1.0	N U M A_A J A_A_N
+جاے 1.0	D_Z A_A A_Y
+جادوگر 1.0	D_Z A_A D_D U_U G A R
+چہل 1.0	TS AE_H H L
+سیاحت 1.0	S I J A_A H A T_D
+نے 1.0	N A_Y
+بچّہ 1.0	B A TS TS A_A
+جاؤ 1.0	D_Z A_A O_O
+نہ 1.0	N A_A
+ظلِ 1.0	Z I L A_Y
+آپ 1.0	A_A P
+نی 1.0	N II
+اتفاق 1.0	I T_D T_D I F A_A Q
+آم 1.0	A_A M
+آف 1.0	A_A F
+تکمین 1.0	T_D A K M II N
+ہاکی 1.0	H A_A K II
+ڈاکیا 1.0	D A_A K J A_A
+سٹاک 1.0	S A T A_A K
+باہمی 1.0	B A_A H M II
+آؤ 1.0	A_A O_O
+آج 1.0	A_A D_Z
+آب 1.0	A_A B
+آس 1.0	A_A S
+سعدیہ 1.0	S A D_D A_Y J A_A
+فطرت 1.0	F I T_D R A T_D
+جان 1.0	D_Z A_A N
+روشن 1.0	R O_O S_H A N
+جال 1.0	D_Z A_A L
+توجہ 1.0	T_D O D_Z A_A
+کردا 1.0	K U R D_D A_A
+آتش 1.0	A_A T_D I S_H
+فیروزہ 1.0	F A_Y R O_O Z A_A
+کپڑا 1.0	K A P R_R A_A
+اشیاء 1.0	A_A S_H J A_A
+ڈاکٹر 1.0	D A_A K T A R
+بوریوالہ 1.0	B O R II V A_A L A_A
+شرم 1.0	S_H A R A M
+شیبا 1.0	S_H II B A_A
+فاطینہ 1.0	F A_A T_D II N A_A
+اندوز 1.0	I N D_D O_O Z
+طبقوں 1.0	T_D A B Q O_O_N
+ارباب 1.0	A R B A_A B
+تقاضا 1.0	T_D A Q A_A Z U N
+ہب 1.0	H A B
+ہر 1.0	H A R
+حجام 1.0	H U D_Z D_Z A_A M
+داریوں 1.0	D_D A_A R II O_O_N
+ہم 1.0	H A M
+بتانے 1.0	B A T_D A_A N A_Y
+ہو 1.0	H O_O
+ساتھ 1.0	S A_A T_D_H
+سبکدوش 1.0	S U B A K D_D O_O S_H
+شیطان 1.0	S_H AE T_D A_A N
+پلاٹوں 1.0	P A L A_A T O_O_N
+بچا 1.0	B A TS A_A
+فیصلہ 1.0	F AE S L A_A
+ہمس 1.0	H A M S
+آجکل 1.0	A_A D_Z I K A L
+شرح 1.0	S_H A R H
+فیصلے 1.0	F AE S L A_Y
+ہما 1.0	H U M A_A
+ہمت 1.0	H A M M A T_D
+انواع 1.0	A N V A_A
+تہلکہ 1.0	T_D AE_H H A L K A_A
+کنیز 1.0	K A N II Z
+انوار 1.0	A N V A_A R
+دلہن 1.0	D_D U L H A N
+پابندی 1.0	P A_A B A N D_D II
+حکمران 1.0	H U K M R A_A N
+بچے 1.0	B A TS A_Y
+سلسلے 1.0	S I L S I L A_Y
+گوئی 1.0	G O_O II
+بچی 1.0	B A TS II
+بچہ 1.0	B A TS TS A_A
+سلسلہ 1.0	S A L S I L A_A
+فسیح 1.0	F A S II
+خریداری 1.0	X A R II D_D A_A R II
+بردار 1.0	B A R D_D A_A R
+کمرے 1.0	K A M R A_Y
+ہی 1.0	H II
+ہے 1.0	H AE
+بھارت 1.0	B_H A_A R A T_D
+فیضان 1.0	F AE Z A_A N
+کاروباری 1.0	K A_A R O_O B A_A R II
+ڈسپنسریوں 1.0	D I S P A N S A R II O_O_N
+تنازعہ 1.0	T_D A N A_A Z A A_A
+مردے 1.0	M U R D_D A_Y
+تقاضے 1.0	T_D A Q A_A Z A_Y
+لاڑکانہ 1.0	L A_A R_R K A_A N A_A
+صوبہ 1.0	S U_U B A_A
+زارا 1.0	Z A_A R A_A
+زرقا 1.0	Z A R Q A N
+طلب 1.0	T_D A L A B
+بھول 1.0	B_H U_U L
+صوبے 1.0	S U_U B A_Y
+اشرف 1.0	A S_H R A F
+بھی 1.0	B_H II
+قرضے 1.0	Q A R Z A_Y
+صفوان 1.0	S A F V A_A N
+قرضہ 1.0	Q A R Z A_A
+آفروزہ 1.0	A_A F R O_O Z A_A
+ردو 1.0	R A D_D D_D U_U
+یا 1.0	J A_A
+آرائی 1.0	A_A R A_A II
+نعرہ 1.0	N A_A R A_A
+لواحقین 1.0	L A V A_A H I Q II N
+زوروں 1.0	Z O R O_O_N
+حال 1.0	H A_A L
+پان 1.0	P A_A N
+شائد 1.0	S_H A_A I D_D
+اکیلے 1.0	A K A_Y L A_Y
+شائع 1.0	S_H A_A A_Y
+قمیض 1.0	Q A M II Z
+اور 1.0	O R
+گاڑی 1.0	G A_A R_R II
+اکیلا 1.0	A K A_Y L A_A
+نفری 1.0	N A F R II
+کھالیں 1.0	K_H A_A L A_Y_N
+بیگم 1.0	B AE G A M
+جایان 1.0	D_Z A_A J A_A N
+نبٹا 1.0	N I B T A_A
+یہ 1.0	J A_Y
+ر 1.0	R A R
+ردی 1.0	R A D_D D_D II
+طیبہ 1.0	T_D A J J A B A_A
+مسکرا 1.0	M U S K U R A_A
+سلیمہ 1.0	S A L II M A_A
+یں 1.0	AE_N
+بھر 1.0	B_H A R
+بھوک 1.0	B_H U_U K
+اورنگزیب 1.0	O_O R A N_G Z A_Y B A B
+رانجھا 1.0	R A_A N D_Z_H A_A
+سلوا 1.0	S I L V A_A
+گرام 1.0	G A R A_A M
+ملبوسات 1.0	M A L B U_U S A_A T_D
+حتمی 1.0	H U T_D M II
+سسکیاں 1.0	S I S K I J A_A_N
+کھلی 1.0	K_H A L II
+مضافات 1.0	M U Z A_A F A_A T_D
+کھلے 1.0	K_H I L A_Y
+چوہیا 1.0	TS O H II A_A
+ترجیح 1.0	T_D A R D_Z II H
+تالا 1.0	T_D A_A L A_A
+اتحاد 1.0	I T_D T_D I H A_A D_D
+رحیم 1.0	R A H II M
+بیماری 1.0	B II M A_A R II
+سنیعہ 1.0	S U N II A_A
+دانیال 1.0	D_D A_A N I J A_A L
+عورت 1.0	O R A T_D
+غل 1.0	G_G U L
+غم 1.0	G_G A M
+اداکارائیں 1.0	A D_D A_A K A_A R A_A A_Y_N
+عطاء 1.0	A T_D A_A
+گرمیوں 1.0	G A R M II O_O_N
+نکات 1.0	N A K A_A T_D
+نظر 1.0	N A Z A R
+معدوم 1.0	M A D_D U_U M
+جمشید 1.0	D_Z A M S_H II D_D
+شمیم 1.0	S_H A M II M
+شمیل 1.0	S_H A M II L
+حفاظتی 1.0	H I F A_A Z A T_D II
+انارکلی 1.0	A N A_A R K A L II
+عیادت 1.0	II J A_A D_D A T_D
+ساجد 1.0	S A_A D_Z I D_D
+صندوق 1.0	S A N D_D U_U Q
+فصیحہ 1.0	F A S II H A_A
+تالے 1.0	T_D A_A L A_Y
+کھلا 1.0	K_H I L A_A
+رِنگ 1.0	R I N_G
+امتحان 1.0	I M T_D I H A_A N
+راحیلہ 1.0	R A_A H II L A_A
+پیسوں 1.0	P A_Y S O_O_N
+برائے 1.0	B A R A_A A_Y
+کھڑی 1.0	K_H A R_R II
+خرابیاں 1.0	X A R A_A B I J A_A_N
+نظم 1.0	N A Z M
+اقوامِ 1.0	I Q V A_A M A_Y
+معذرت 1.0	M U A Z Z A R A T_D
+برائی 1.0	B A R A_A II
+حادثے 1.0	H A_A D_D I S A_Y
+اپنایا 1.0	A P N A_A J A_A
+حادثہ 1.0	H A_A D_D I S A_A
+چلاس 1.0	TS A L L A_A S
+لوہاری 1.0	L O_O H A_A R II
+کاشفہ 1.0	K A_A S_H I F A_A
+تمھاری 1.0	T_D U M A_A R II
+پڑھی 1.0	P A R_R_H II
+بالٹیاں 1.0	B A_A L T II A_A_N
+مصری 1.0	M I S R II
+شجاع 1.0	S_H U D_Z A_A
+آمیز 1.0	A_A M A_Y Z
+بھال 1.0	B_H A_A L
+چھوڑتے 1.0	TS_H O_O R_R T_D A_Y
+صحن 1.0	S U H N
+اتحادی 1.0	I T_D T_D I H A_A D_D II
+رباب 1.0	R A B A_A B
+مستعدی 1.0	M U S T_D A A D_D D_D II
+بازی 1.0	B A_A Z II
+پتے 1.0	P A T_D T_D A_Y
+دورہِ 1.0	D_D O R A H A_Y
+پتہ 1.0	P A T_D T_D A_A
+بھاگ 1.0	B_H A_A G
+چیئرمین 1.0	TS A_Y A R M AE N
+ناظم 1.0	N A_A Z I M
+عفراء 1.0	U F R A_A
+ووٹ 1.0	V O_O T
+فحاشی 1.0	F A H A_A S_H II
+سلام 1.0	S A L A_A M
+قربانی 1.0	Q U R B A_A N II
+درجنوں 1.0	D_D A R D_Z A N O_O_N
+چوروں 1.0	TS O R O_O_N
+مراعات 1.0	M U R A_A A_A T_D
+اریب 1.0	A R II B
+یقیناً 1.0	J A Q II N A N
+صحت 1.0	S I H H A T_D
+بانیِ 1.0	B A_A N II A_Y
+انھوں 1.0	A N N_H O_O_N
+گلباز 1.0	G U L B A_A Z
+زلفی 1.0	Z U L F II
+کرداروں 1.0	K I R D_D A_A R O_O_N
+بیرونِ 1.0	B AE R U_U N A_Y
+ہاتھوں 1.0	H A_A T_D_H O_O_N
+شوقین 1.0	S_H O Q II N
+عبید 1.0	A B II D_D
+پیدل 1.0	P AE D_D A L
+اِسوقت 1.0	I S V A Q T_D
+نوشہرہ 1.0	N O S_H AE_H H R A_A
+قانون 1.0	Q A_A N U_U N
+عبیر 1.0	A B II R
+نظامِ 1.0	N I Z A_A M A_Y
+پیدا 1.0	P AE D_D A_A
+فضول 1.0	F U Z U_U L
+بچانا 1.0	B A TS A_A N A_A
+ڈاک 1.0	D A_A K
+سیدو 1.0	S A_Y D_D O_O
+ربوہ 1.0	R A B V A_A
+جیتا 1.0	D_Z II T_D A_A
+علاقوں 1.0	A L L A_A Q O_O_N
+شیشہ 1.0	S_H II S_H A_A
+بیرونی 1.0	B AE R U_U N II
+آدھا 1.0	A_A D_D_H A_A
+غنوی 1.0	G_G U N V II
+بانٹے 1.0	B A_A N T A_Y
+گیلی 1.0	G II L II
+جیتی 1.0	D_Z II T_D II
+عدنان 1.0	A D_D N A_A N
+مجاہد 1.0	M U D_Z A_A H I D_D
+کامیابی 1.0	K A_A M J A_A B II
+ڈال 1.0	D A_A L
+براہِ 1.0	B A R A_A H A_Y
+سمجھیں 1.0	S A M D_Z_H A_Y_N
+المتین 1.0	A L M A T_D II N
+روئیے 1.0	R U_U II A_Y
+حمدی 1.0	H A M D_D II
+حمدہ 1.0	H A M D_D A_A
+بایزید 1.0	B A_A J A Z II D_D
+شارق 1.0	S_H A_A R I Q
+ثائر 1.0	S A_A I R
+مربع 1.0	M U R A B B A
+ثائب 1.0	S A_A I B
+قیمہ 1.0	Q II M A_A
+بادل 1.0	B A_A D_D A L
+غالبہ 1.0	G_G A_A L I B A_A
+خوشی 1.0	X U S_H II
+وکالت 1.0	V A K A_A L A T_D
+آلو 1.0	A_A L U_U
+ہَوا 1.0	H A V A_A
+بازوں 1.0	B A_A Z O_O_N
+صرف 1.0	S A R F
+دھکا 1.0	D_D_H U K A_A
+صارفین 1.0	S A_A R I F II N
+اسٹیشن 1.0	I S T A_Y S_H A N
+دلانے 1.0	D_D I L A_A N A_Y
+سراہا 1.0	S A R A_A H A_A
+رضا 1.0	R A Z A_A
+پالیسیاں 1.0	P A_A L II S II A_A_N
+مجبور 1.0	M A D_Z B U_U R
+کشمیریاں 1.0	K A S_H M II R I J A_A_N
+چالیس 1.0	TS A_A L II S
+حالیہ 1.0	H A_A L I J A_A
+شارح 1.0	S_H A_A R A_Y H
+تاثیر 1.0	T_D A_A S II R
+گروہ 1.0	G A R V A_A
+اجاگر 1.0	U D_Z A_A G A R
+رشتے 1.0	R I S_H T_D A_Y
+رشتہ 1.0	R I S_H T_D A_A
+حسیب 1.0	H A S II B
+رضی 1.0	R A Z II
+ڈرتے 1.0	D A R T_D A_Y
+نکھٹو 1.0	N I K_H A T T U_U
+توقعات 1.0	T_D O A Q Q U A_A T_D
+آصفہ 1.0	A_A S I F A_A
+مضبوط 1.0	M A Z B U_U T_D
+باریک 1.0	B A_A R II K
+اقرباء 1.0	A_A Q R A B A_A
+عتیقہ 1.0	A T_D II Q A_A
+لائن 1.0	L A_A I N
+گروپ 1.0	G U R U_U P
+سرفراز 1.0	S A R F A R A_A Z
+ٹھوس 1.0	T_H O_O S
+نکھار 1.0	N I K_H A_A R
+محروم 1.0	M A H R U_U M
+شدت 1.0	S_H U D_D D_D A T_D
+حسین 1.0	H A S II N
+قاضی 1.0	Q A_A Z II
+قیمت 1.0	Q II M A T_D
+تعزیت 1.0	T_D A A Z Z II J A T_D
+بندوبست 1.0	B A N D_D O_O B A S T_D
+لمی 1.0	L A M II
+معاون 1.0	M U A_A V A N
+ماضی 1.0	M A_A Z II
+عرصے 1.0	A R S A_Y
+عرصہ 1.0	A R S A_A
+ہوناچاہئے 1.0	H O_O N A_A TS A_A H A A_Y
+عذاب 1.0	A Z A_A B
+سنائی 1.0	S U N A_A II
+بھاگتا 1.0	B_H A_A G T_D A_A
+پہنچتے 1.0	P A H U N TS A T_D A_Y
+خرچہ 1.0	X A R TS A_A
+مویشی 1.0	M A V A_Y S_H II
+تعلق 1.0	T_D A A L L U Q
+ملتیں 1.0	M U L L A T_D A_Y_N
+تجاویز 1.0	T_D A D_Z A_A V II Z
+صلاحیت 1.0	S A L A_A H II J A T_D
+کھلونا 1.0	K_H I L O_O N A_A
+راحیل 1.0	R A_A H II L
+کوثر 1.0	K O S A R
+صنعتکار 1.0	S A N A T_D K A_A R
+راحت 1.0	R A_A H A T_D
+کریمیں 1.0	K A R II M A_Y_N
+ابال 1.0	U B A_A L
+نوٹس 1.0	N O_O T S
+چلیں 1.0	TS A L A_Y_N
+پھوٹی 1.0	P_H U_U T II
+تبدیلیاں 1.0	T_D A B D_D II L I J A_A_N
+کھاریاں 1.0	K_H A_A R I J A_A_N
+دفاتر 1.0	D_D A F A_A T_D A R
+روکنا 1.0	R O_O K N A_A
+سڑکوں 1.0	S A R_R K O_O_N
+دیپالپور 1.0	D_D II P A_A L P U_U R
+ایسی 1.0	AE S II
+بگھیوں 1.0	B A G G_H II O_O_N
+نگار 1.0	N I G A_A R
+سکول 1.0	S A K U_U L
+ڈالیں 1.0	D A_A L A_Y_N
+دسمبر 1.0	D_D A S A M B A R
+صدف 1.0	S A D_D A F
+ڈیزائن 1.0	D II Z A_A I N
+بخار 1.0	B A X A_A R
+ایسے 1.0	AE S A_Y
+آ 1.0	A_A
+سقراط 1.0	S U Q R A_A T_D
+شفیع 1.0	S_H A F II
+پایا 1.0	P A_A J A_A
+چاروں 1.0	TS A_A R O_O_N
+قدم 1.0	Q A D_D A M
+صلح 1.0	S A L H
+پھاٹک 1.0	P_H A_A T A K
+روپیہ 1.0	R U_U P I J A_A
+کروایا 1.0	K A R V A_A J A_A
+قدر 1.0	Q A D_D R
+جھانسوں 1.0	D_Z_H A_A N S O_O_N
+شفیف 1.0	S_H A F II F
+شفیق 1.0	S_H A F II Q
+حارث 1.0	H A_A R I S
+صدر 1.0	S A D_D R
+جعفری 1.0	D_Z A_A F R II
+معیارِ 1.0	M I J A_A R I
+طبقات 1.0	T_D A B Q A_A T_D
+افتتاحی 1.0	I F T_D I T_D A_A H II
+شاگردی 1.0	S_H A_A G A R D_D II
+صادقہ 1.0	S A_A D_D I Q A_A
+تبسم 1.0	T_D A B A S S U M
+انوکھی 1.0	A N O_O K_H II
+چِلا 1.0	TS I L L A_A
+مقتل 1.0	M U Q T_D A L
+ہمدانی 1.0	H A M D_D A_A N II
+بلانے 1.0	B U L A_A N A_Y
+حریری 1.0	H A R II R II
+صلے 1.0	S I L A_Y
+ڈھائی 1.0	D_H A_A II
+صلہ 1.0	S I L L A_A
+پایہ 1.0	P A_A J A_A
+اختیارات 1.0	I X T_D I J A_A R A_A T_D
+روزگار 1.0	R O_O Z G A_A R
+ایسا 1.0	AE S A_A
+سکوں 1.0	S U K K O_O_N
+تاشف 1.0	T_D A_A S_H I F
+رسالپور 1.0	R A S A_A L P U_U R
+بےحرمتی 1.0	B A_Y H A R M A T_D II
+لایا 1.0	L A_A J A_A
+ازعم 1.0	A Z A M
+غرور 1.0	G_G U R U_U R
+بیوقوف 1.0	B A_Y V A Q U_U F
+بڑھانا 1.0	B A R_R_H A_A N A_A
+فارابی 1.0	F A_A R A_A B II
+گزیر 1.0	G U Z II R
+آنی 1.0	A_A N II
+آنے 1.0	A_A N A_Y
+خلیل 1.0	X A L II L
+خلیق 1.0	X A L II Q
+پھینکے 1.0	P_H AE_N K A_Y
+پالیساں 1.0	P A_A L II S A_A_N
+بناتا 1.0	B A N A_A T_D A_A
+فون 1.0	F O_O N
+مرتے 1.0	M A R T_D A_Y
+مچھیرا 1.0	M A TS_H A_Y R A_A
+تسلیم 1.0	T_D A S L II M
+دامن 1.0	D_D A_A M A N
+بظاہر 1.0	B A Z A_A H A R
+وباء 1.0	V A B A_A
+زیادتی 1.0	Z I J A_A D_D T_D II
+مزارِقائد 1.0	M U Z A_A R I Q A_A I D_D
+گاڑیو 1.0	G A_A R_R J O_O
+چراغ 1.0	TS A R A_A G_G
+عید 1.0	II D_D
+مرتب 1.0	M U R T_D A B
+معمول 1.0	M A_A M U_U L
+ابصار 1.0	A B S A_A R
+احساس 1.0	A H S A_A S
+بناتی 1.0	B A N A_A T_D II
+نیرہ 1.0	N II R A_A
+وزرا 1.0	V U Z R A_A
+خوشبخت 1.0	X U S_H B A X T_D
+رحمت 1.0	R A H M A T_D
+یونین 1.0	J U_U N I J A N
+مقابلے 1.0	M U Q A_A B L A_Y
+سیشن 1.0	S AE S_H A N
+وبال 1.0	V A B A_A L
+بانٹ 1.0	B A_A N T
+بڑھانے 1.0	B A R_R_H A_A N A_Y
+عین 1.0	AE N
+مقابلہ 1.0	M U Q A_A B A L L A_A
+اشتیاق 1.0	I S_H T_D I J A_A Q
+مشاعرہ 1.0	M U S_H A_A A R A_A
+کلام 1.0	K A L L A_A M
+حیثیت 1.0	H AE S I J A T_D
+بہتا 1.0	B AE_H H T_D A_A
+کہنے 1.0	K A H N A_Y
+بہتر 1.0	B AE_H H A T_D T_D A R
+دوبالا 1.0	D_D O_O B A_A L A_A
+بلال 1.0	B A L A_A L
+چشتیاں 1.0	TS I S_H T_D I J A_A_N
+بندرگاہ 1.0	B A N D_D A R G A_A
+فیکٹری 1.0	F AE K T A R II
+ابرار 1.0	I B R A_A R
+بڑھاپے 1.0	B A R_R_H A_A P A_Y
+جذبے 1.0	D_Z A Z B A_Y
+جنڈ 1.0	D_Z I N D
+جذبہ 1.0	D_Z A Z B A_A
+کیمپ 1.0	K AE M P
+ایمپائرنگ 1.0	AE M P A_A I R I N_G
+جنگ 1.0	D_Z A N_G
+عنبرین 1.0	A M B A R II N
+بھروسہ 1.0	B_H A R U_U S A_A
+شیدا 1.0	S_H AE D_D A_A
+شکوہ 1.0	S_H I K V A_A
+لمگیر 1.0	L A M G II R
+پرہز 1.0	P A R H A Z
+فرقان 1.0	F A R Q A_A N
+پینسٹھ 1.0	P A_Y N S A T_H
+اعظم 1.0	A Z A M
+حاکمہ 1.0	H A_A K I M A_A
+ملازم 1.0	M U L A_A Z I M
+احترام 1.0	I H T_D I R A_A M
+ٹریکٹر 1.0	T A R AE K T A R
+المناک 1.0	A L A M N A_A K
+شکیلہ 1.0	S_H A K II L A_A
+خیز 1.0	X AE Z
+حوا 1.0	H A V V A_A
+مضامین 1.0	M U Z A_A M II N
+طالبہ 1.0	T_D A_A L I B A_A
+بلاک 1.0	B I L A_A K
+حوض 1.0	H O Z
+کہنا 1.0	K A H N A_A
+دماغی 1.0	D_D I M A_A G_G II
+وزیرِاعظم 1.0	V A Z II R A_Y A_A Z A M
+حور 1.0	H U_U R
+مصروفیات 1.0	M A S R U_U F I J A_A T_D
+جنت 1.0	D_Z I N T_D
+کلاں 1.0	K U L A_A_N
+شہزاد 1.0	S_H A H Z A_A D_D
+فلم 1.0	F I L M
+چاہنے 1.0	TS A_A H N A_Y
+پارس 1.0	P A_A R S
+بدعنوانیوں 1.0	B A D_D U N V A_A N II O_O_N
+پینوراما 1.0	P AE N O_O R A_A M A_A
+نطریات 1.0	N A T_D A R J A_A T_D
+معلومات 1.0	M A L U_U M A_A T_D
+کاریگر 1.0	K A_A R II G A R
+چٹرھ 1.0	TS A T A R
+قیس 1.0	Q AE S
+ہلاکو 1.0	H A L A_A K O_O
+بوٹی 1.0	B O_O T II
+طالبعلموں 1.0	T_D A_A L A_Y B A_Y L A M O_O_N
+طرزِ 1.0	T_D A R Z I
+سمجھایا 1.0	S A M D_Z_H A_A J A_A
+روکتے 1.0	R O_O K T_D A_Y
+ملوث 1.0	M A L U_U S
+برفباری 1.0	B A R F A B A_A R II
+ہوگی 1.0	H O_O G II
+نرگس 1.0	N A R G A S
+چڑھے 1.0	TS A R_R_H A_Y
+پارو 1.0	P A_A R O_O
+آفرین 1.0	A_A F R II N
+دیکھ 1.0	D_D A_Y K_H
+صدیقہ 1.0	S I D_D D_D II Q A_A
+ہوگا 1.0	H O_O G A_A
+فنکار 1.0	F A N K A_A R
+افروز 1.0	A F R U_U Z
+پارک 1.0	P A_A R K
+باطنہ 1.0	B A_A T_D I N A_A
+کاغذات 1.0	K A_A G_G Z A_A T_D
+بہجت 1.0	B A H D_Z A T_D
+رومانہ 1.0	R U_U M A_A N A_A
+بادامی 1.0	B A_A D_D A_A M II
+چالان 1.0	TS A_A L A_A N
+خانساماں 1.0	X A_A N S A_A M A_A_N
+بھنور 1.0	B_H A N V A R
+ہوئےہیں 1.0	H U_U A_Y H A_Y_N
+انہیں 1.0	U N H A_Y_N
+تہواروں 1.0	T_D AE_H H V A_A R O_O_N
+نکل 1.0	N I K A L
+پارہ 1.0	P A_A R A_A
+ضد 1.0	Z I D_D
+رضوانہ 1.0	R A Z V A_A N A_A
+درخت 1.0	D_D A R A X T_D
+حنیف 1.0	H A N II F
+کھانوں 1.0	K_H A_A N O_O_N
+اژدہا 1.0	A Z_Z D_D A H A_A
+تشویشناک 1.0	T_D A S_H V II S_H N A_A K
+بیوی 1.0	B A_Y V II
+کروں 1.0	K U R R O_O_N
+مرچ 1.0	M I R TS
+شخصیت 1.0	S_H A X S II J A T_D
+لالہ 1.0	L A_A L A_A
+برپا 1.0	B A R P A_A
+ساہیوال 1.0	S A_A H II V A_A L
+بندش 1.0	B A N D_D I S_H
+گجر 1.0	G A D_Z A R
+امڈ 1.0	U M A D
+گفٹ 1.0	G I F T
+شمشاد 1.0	S_H A M S_H A_A D_D
+کفایت 1.0	K I F A_A J A T_D
+سمجھنا 1.0	S A M A D_Z_H N A_A
+مری 1.0	M U R II
+ذاکرہ 1.0	Z A_A K I R A_A
+صدیق 1.0	S A D_D D_D II Q
+امن 1.0	A M A N
+مرد 1.0	M U R D_D
+سمجھنے 1.0	S A M A D_Z_H N A_Y
+کنڈرہ 1.0	K A N D A R A_A
+کروا 1.0	K A R V A_A
+تعویز 1.0	T_D A_A V II Z
+ضلعی 1.0	Z I L A II
+گندم 1.0	G A N D_D A M
+مانکیڑہ 1.0	M A_A N K II R_R A_A
+آزادی 1.0	A_A Z A_A D_D II
+کمی 1.0	K A M II
+بندی 1.0	B A N D_D II
+بندہ 1.0	B A N D_D A_A
+باتیں 1.0	B A_A T_D A_Y_N
+تسلی 1.0	T_D A S A L L II
+سنگین 1.0	S A N_G II N
+ترلائی 1.0	T_D A R L A_A II
+ضمیر 1.0	Z A M II R
+امر 1.0	A M A R
+آنسوبہاتی 1.0	A_A N S U_U B A H A_A T_D II
+آنسہ 1.0	A_A N I S A_A
+مہمان 1.0	M U H M A_A N
+کروٹ 1.0	K U R U_U T
+گورکنوں 1.0	G O_O R K A N O_O_N
+گوہر 1.0	G O_O H A R
+قذافی 1.0	Q A Z A_A F II
+کہاں 1.0	K A H A_A_N
+پیاروں 1.0	P I J A_A R O_O_N
+چوریوں 1.0	TS O R II O_O_N
+گرم 1.0	G A R A M
+حاصل 1.0	H A_A S I L
+خریدنا 1.0	X A R II D_D N A_A
+گوجرہ 1.0	G O_O D_Z R A_A
+گرا 1.0	G I R A_A
+کھچڑی 1.0	K_H I TS R_R II
+گرد 1.0	G A R D_D
+گرج 1.0	G A R I D_Z
+سازگار 1.0	S A_A Z G A_A R
+پھائے 1.0	P_H A_A A_Y
+بلیوارڈ 1.0	B I L J A_A R D
+عجیب 1.0	A D_Z II B
+تیسرا 1.0	T_D II S R A_A
+جاناں 1.0	D_Z A_A N A_A_N
+سطریں 1.0	S A T_D R A_Y_N
+برداری 1.0	B A R D_D A_A R II
+دیواریں 1.0	D_D A_Y V A_A R A_Y_N
+تیسری 1.0	T_D II S R II
+گولڑہ 1.0	G O_O L R_R A_A
+پٹری 1.0	P A T R II
+قدیم 1.0	Q A D_D II M
+گرے 1.0	G I R A_Y
+کہار 1.0	K A H A_A R
+خریدنے 1.0	X A R II D_D N A_Y
+دھمکیاں 1.0	D_D_H A M K I J A_A_N
+پنوں 1.0	P I N N O_O_N
+قدیر 1.0	Q A D_D II R
+پٹرھ 1.0	P I T A R
+آئینہ 1.0	A_A II N A_A
+قینچی 1.0	Q AE N TS II
+واپسی 1.0	V A_A P S II
+چڑیا 1.0	TS I R_R J A_A
+شمولیت 1.0	S_H A M U_U L II J A T_D
+جرائم 1.0	D_Z A R A_A I M
+مضمون 1.0	M A Z M U_U N
+بڑہا 1.0	B A R_R H A_A
+تھی 1.0	T_D_H II
+تھے 1.0	T_D_H A_Y
+باڑہ 1.0	B A_A R_R A_A
+لیا 1.0	L I J A_A
+پانے 1.0	P A_A N A_Y
+کلامی 1.0	K A L A_A M II
+دردانہ 1.0	D_D A R D_D A_A N A_A
+سالگرہ 1.0	S A_A L G I R A_A
+بعد 1.0	B A_A D_D
+لیس 1.0	L A_Y S
+تکبر 1.0	T_D A K A B B U R
+حادثات 1.0	H A_A D_D I S A_A T_D
+دستہ 1.0	D_D A S T_D A_A
+بعض 1.0	B A_A Z
+متعلقہ 1.0	M U T_D A A L L I Q A_A
+چھلانگیں 1.0	TS_H A L A_A N_G G A_Y_N
+پانی 1.0	P A_A N II
+شوہر 1.0	S_H O_O H A R
+ضائع 1.0	Z A_A A_Y
+نائب 1.0	N A_A I B
+دستک 1.0	D_D A S T_D A K
+قدوسی 1.0	Q U D_D D_D U_U S II
+پیلے 1.0	P A_Y L A_Y
+تھک 1.0	T_D_H A K
+نورجہاں 1.0	N O R A_Y D_Z A H A_A_N
+چلنا 1.0	TS A L N A_A
+پانچ 1.0	P A_A N TS
+لہجے 1.0	L AE_H H D_Z A_Y
+اعتمادی 1.0	A_Y T_D A_Y M A_A D_D II
+نیند 1.0	N II N D_D
+خزانہ 1.0	X A Z A_A N A_A
+تھل 1.0	T_D_H A L
+جدو 1.0	D_Z A D_D D_D U_U
+خزانے 1.0	X A Z A_A N A_Y
+چلنے 1.0	TS A L N A_Y
+کرواتے 1.0	K A R V A_A T_D A_Y
+گرفتار 1.0	G I R I F T_D A_A R
+پیسے 1.0	P II S A_Y
+ناشطہ 1.0	N A_A S_H I T_D A_A
+مواقعوں 1.0	M A V A_A Q O_O_N
+لیگ 1.0	L II G
+کفالت 1.0	K A F A_A L A T_D
+فیروز 1.0	F AE R O_O Z
+پیسہ 1.0	P AE S A_A
+افسوس 1.0	A F S U_U S
+رشید 1.0	R A S_H II D_D
+لیہ 1.0	L I J J A_A
+دستر 1.0	D_D A S T_D A R
+باڑا 1.0	B A_A R_R A_A
+کراس 1.0	K A R A_A S
+تھا 1.0	T_D_H A_A
+جدا 1.0	D_Z U D_D A_A
+شرجیل 1.0	S_H A R D_Z II L
+لاکھوں 1.0	L A_A K_H O_O_N
+باقی 1.0	B A_A Q II
+جاننا 1.0	D_Z A_A N N A_A
+خوف 1.0	X O F
+دراوڑ 1.0	D_D A R A_A V A R_R
+لیاقت 1.0	L I J A_A Q A T_D
+کھردرا 1.0	K_H U R D_D A R A_A
+فرہاد 1.0	F A R H A_A D_D
+چوڑیوں 1.0	TS O R_R II O_O_N
+جستجو 1.0	D_Z I S T_D D_Z U_U
+کاری 1.0	K A_A R II
+دمک 1.0	D_D A M A K
+خوشاب 1.0	X O_O S_H A_A B
+درجہ 1.0	D_D A R D_Z A_A
+اِدھر 1.0	I D_D_H A R
+والوں 1.0	V A_A L O_O_N
+کارڈ 1.0	K A_A R D
+کبیر 1.0	K A B II R
+خوب 1.0	X U_U B
+خوش 1.0	X U S_H
+گلوکار 1.0	G U L U_U K A_A R
+خور 1.0	X U R
+کروڑ 1.0	K A R R O_O R_R
+بچیوں 1.0	B A TS TS II O_O_N
+تھوڑی 1.0	T_D_H O_O R_R II
+کالا 1.0	K A_A L A_A
+گلوکاری 1.0	G U L U_U K A_A R II
+کالج 1.0	K A_A L I D_Z
+گلوکارہ 1.0	G U L U_U K A_A R A_A
+وجوہات 1.0	V A D_Z U_U H A_A T_D
+ساتھی 1.0	S A_A T_D_H II
+کھنکھار 1.0	K_H A N K_H A_A R
+سربراہان 1.0	S A R B A R A_A H A_A N
+پسماندہ 1.0	P A S M A_A N D_D A_A
+بزرگوں 1.0	B U Z U R G O_O_N
+باغیچہ 1.0	B A_A G_G II TS A_A
+مقابلوں 1.0	M U Q A_A B A L O_O_N
+وقتی 1.0	V A Q T_D II
+الطاف 1.0	A L T_D A_A F
+جیتنے 1.0	D_Z II T_D N A_Y
+ایوبیہ 1.0	AE V A B I J J A_A
+تلاش 1.0	T_D A L A_A S_H
+آہستہ 1.0	A_A H I S T_D A_A
+کالم 1.0	K A_A L A M
+بٹورنے 1.0	B A T O_O R N A_Y
+ثبوت 1.0	S U B U_U T_D
+موقع 1.0	M O Q A
+روزگاری 1.0	R O_O Z G A_A R II
+تعاون 1.0	T_D A A_A V U N
+گردی 1.0	G A R D_D II
+داری 1.0	D_D A_A R II
+معاوضہ 1.0	M U A_A V A Z A_A
+تھام 1.0	T_D_H A_A M
+چیکنگ 1.0	TS II K I N_G
+خیمہ 1.0	X II M A_A
+منعقد 1.0	M U N A Q I D_D
+نگہت 1.0	N I G A H T_D A T_D
+عا 1.0	A_A
+ٹکڑے 1.0	T U K R_R A_Y
+معیشت 1.0	M A II S_H A T_D
+اشعر 1.0	A S_H A R
+سگریٹ 1.0	S I G R A_Y T
+پلاٹ 1.0	P A L A_A T
+واشنگٹن 1.0	V A_A S_H I N_G T A N
+درمیانی 1.0	D_D A R M I J A_A N II
+اصباح 1.0	A S B A_A
+بتول 1.0	B A T_D U_U L
+بزنس 1.0	B I Z N I S
+گردن 1.0	G A R D_D A N
+محنتی 1.0	M U H N A T_D II
+شناور 1.0	S_H I N A_A V A R
+نمک 1.0	N A M A K
+بھاری 1.0	B_H A_A R II
+نصیب 1.0	N A S II B
+آنکھیں 1.0	A_A N K_H A_Y_N
+نصیر 1.0	N A S II R
+گردش 1.0	G A R D_D I S_H
+انحصار 1.0	I N H I S A_A R
+بیٹی 1.0	B AE T II
+کھیلوں 1.0	K_H A_Y L O_O_N
+چوراہے 1.0	TS O R A_A H A_Y
+خواتین 1.0	X A V A_A T_D II N
+روکا 1.0	R O_O K A_A
+زرگل 1.0	Z A R A G A L
+صورتحال 1.0	S U_U R A T_D A H A_A L
+ریں 1.0	R II_N
+بڑے 1.0	B A R_R A_Y
+چیمبر 1.0	TS AE M B A R
+بڑی 1.0	B A R_R II
+قحط 1.0	Q A H T_D
+خولہ 1.0	X O L A_A
+واقعی 1.0	V A_A Q I Y II
+بڑھ 1.0	B A R_R_H
+واقعہ 1.0	V A_A Q I A_A
+بازار 1.0	B A_A Z A_A R
+تاریخ 1.0	T_D A_A R II X
+فاضل 1.0	F A_A Z I L
+حرمتی 1.0	H U R M A T_D II
+واقعے 1.0	V A_A Q I A_Y
+غیرملکی 1.0	G_G AE R M U L K II
+ایرج 1.0	AE R I D_Z
+بٹا 1.0	B A T A_A
+جہانگیر 1.0	D_Z A H A_A N_G G II R
+معاشی 1.0	M A A_A S_H II
+غوری 1.0	G_G O R II
+خدا 1.0	X U D_D D_D A_A
+پچاس 1.0	P A TS TS A_A S
+سماجی 1.0	S A M A_A D_Z II
+ریس 1.0	R A_Y S
+آغا 1.0	A_A G_G A_A
+انیقہ 1.0	A N II Q A_A
+ریت 1.0	R A_Y T_D
+سعیدہ 1.0	S A II D_D A_A
+تاریں 1.0	T_D A_A R A_Y_N
+ریل 1.0	R A_Y L
+بڑا 1.0	B A R_R A_A
+حاوی 1.0	H A_A V II
+کیلاش 1.0	K AE L A_A S_H
+روکے 1.0	R O_O K A_Y
+پینا 1.0	P II N A_A
+تروٹ 1.0	T_D A R U_U T
+مغلیہ 1.0	M U G_G L I J A_A
+بکھیری 1.0	B A K_H A_Y R II
+سوتے 1.0	S O_O T_D A_Y
+مدار 1.0	M U D_D D_D A_A R
+ملنے 1.0	M A L N A_Y
+وقفہ 1.0	V A Q F A_A
+طے 1.0	T_D AE
+کرا 1.0	K A R A_A
+لگیں 1.0	L A G A_Y_N
+ملنی 1.0	M I L N II
+پڑیاں 1.0	P A R_R J A_A_N
+عابد 1.0	A_A B I D_D
+بستر 1.0	B A S T_D A R
+کرو 1.0	K U R R U_U
+کرم 1.0	K U R A M
+کرن 1.0	K A R A N
+خوشگوار 1.0	X U S_H G A V A_A R
+چھوٹوں 1.0	TS_H U_U T O_O_N
+درگئی 1.0	D_D A R A G A II
+فوجداری 1.0	F O D_Z D_D A_A R II
+سوتا 1.0	S O_O T_D A_A
+سکا 1.0	S A K A_A
+لا 1.0	L A_A
+پزیرائی 1.0	P A Z II R A_A II
+بھاٹی 1.0	B_H A_A T II
+تقریباً 1.0	T_D A Q R II B A N
+سکے 1.0	S I K K A_Y
+ترمیم 1.0	T_D A R M II M
+تکیہ 1.0	T_D A K J A_A
+سکی 1.0	S A K II
+باقر 1.0	B A_A Q I R
+بستی 1.0	B A S T_D II
+کیمپس 1.0	K AE M P A S
+کرک 1.0	K U R K
+شہربانو 1.0	S_H AE_H H R B A_A N O_O
+حاجرہ 1.0	H A_A D_Z I R A_A
+احساسِ 1.0	A H S A_A S A_Y
+آقا 1.0	A_A Q A_A
+مقدار 1.0	M I Q D_D A_A R
+کرے 1.0	K A R R A_Y
+ملنا 1.0	M I L N A_A
+تقریبات 1.0	T_D A Q R II B A_A T_D
+سیمینار 1.0	S AE M II N A_A R
+معاہدوں 1.0	M U A_A H A D_D O_O_N
+سکھ 1.0	S U K_H
+پکوانوں 1.0	P A K V A_A N O_O_N
+کھنچاؤ 1.0	K_H I N TS A_A O_O
+منزلہ 1.0	M A N Z A L A_A
+پینے 1.0	P II N A_Y
+سوتر 1.0	S U_U T_D R

@@ -1,0 +1,18 @@
+# compute-mfcc-feats --write-utt2dur=ark,t:exp/make_mfcc/test/utt2dur.5 --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/wav_test.5.scp ark:- | copy-feats --write-num-frames=ark,t:exp/make_mfcc/test/utt2num_frames.5 --compress=true ark:- ark,scp:/media/vinayak/d/kaldi/egs/urdu/s5/mfcc/raw_mfcc_test.5.ark,/media/vinayak/d/kaldi/egs/urdu/s5/mfcc/raw_mfcc_test.5.scp 
+# Started at Tue Jun 18 17:05:30 IST 2019
+#
+compute-mfcc-feats --write-utt2dur=ark,t:exp/make_mfcc/test/utt2dur.5 --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/wav_test.5.scp ark:- 
+copy-feats --write-num-frames=ark,t:exp/make_mfcc/test/utt2num_frames.5 --compress=true ark:- ark,scp:/media/vinayak/d/kaldi/egs/urdu/s5/mfcc/raw_mfcc_test.5.ark,/media/vinayak/d/kaldi/egs/urdu/s5/mfcc/raw_mfcc_test.5.scp 
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c674
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c675
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c676
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c677
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c678
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c679
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c680
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c681
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c682
+LOG (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:185)  Done 9 out of 9 utterances.
+LOG (copy-feats[5.5.383~1-bd1d]:main():copy-feats.cc:143) Copied 9 feature matrices.
+# Accounting: time=0 threads=1
+# Ended (code 0) at Tue Jun 18 17:05:30 IST 2019, elapsed time 0 seconds

@@ -1,0 +1,56 @@
+# gunzip -c exp/tri3/decode.si/lat.3.gz | lattice-to-post --acoustic-scale=0.083333 ark:- ark:- | weight-silence-post 0.01 1:2:3:4:5:6:7:8:9:10 exp/tri3/final.alimdl ark:- ark:- | gmm-post-to-gpost exp/tri3/final.alimdl "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/3/utt2spk scp:data/test/split8/3/cmvn.scp scp:data/test/split8/3/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/tri3/final.mat ark:- ark:- |" ark:- ark:- | gmm-est-fmllr-gpost --fmllr-update-type=full --spk2utt=ark:data/test/split8/3/spk2utt exp/tri3/final.mdl "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/3/utt2spk scp:data/test/split8/3/cmvn.scp scp:data/test/split8/3/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/tri3/final.mat ark:- ark:- |" ark,s,cs:- ark:exp/tri3/decode/pre_trans.3 
+# Started at Tue Jun 18 17:12:41 IST 2019
+#
+gmm-post-to-gpost exp/tri3/final.alimdl 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/3/utt2spk scp:data/test/split8/3/cmvn.scp scp:data/test/split8/3/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/tri3/final.mat ark:- ark:- |' ark:- ark:- 
+weight-silence-post 0.01 1:2:3:4:5:6:7:8:9:10 exp/tri3/final.alimdl ark:- ark:- 
+gmm-est-fmllr-gpost --fmllr-update-type=full --spk2utt=ark:data/test/split8/3/spk2utt exp/tri3/final.mdl 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/3/utt2spk scp:data/test/split8/3/cmvn.scp scp:data/test/split8/3/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/tri3/final.mat ark:- ark:- |' ark,s,cs:- ark:exp/tri3/decode/pre_trans.3 
+lattice-to-post --acoustic-scale=0.083333 ark:- ark:- 
+LOG (lattice-to-post[5.5.383~1-bd1d]:main():lattice-to-post.cc:106) Overall average log-like/frame is -4.68087 over 4480 frames.  Average acoustic like/frame is -4.48185
+LOG (lattice-to-post[5.5.383~1-bd1d]:main():lattice-to-post.cc:110) Done 9 lattices.
+transform-feats exp/tri3/final.mat ark:- ark:- 
+splice-feats ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/test/split8/3/utt2spk scp:data/test/split8/3/cmvn.scp scp:data/test/split8/3/feats.scp ark:- 
+splice-feats ark:- ark:- 
+transform-feats exp/tri3/final.mat ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/test/split8/3/utt2spk scp:data/test/split8/3/cmvn.scp scp:data/test/split8/3/feats.scp ark:- 
+WARNING (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 59.1376
+LOG (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:main():gmm-est-fmllr-gpost.cc:141) For speaker c656, auxf-impr from fMLLR is 0, over 59.1376 frames.
+
+LOG (weight-silence-post[5.5.383~1-bd1d]:main():weight-silence-post.cc:95) Done 9 posteriors.
+WARNING (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 164.514
+LOG (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:main():gmm-est-fmllr-gpost.cc:141) For speaker c657, auxf-impr from fMLLR is 0, over 164.514 frames.
+
+LOG (apply-cmvn[5.5.383~1-bd1d]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 9 utterances, errors on 0
+WARNING (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 22.2181
+LOG (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:main():gmm-est-fmllr-gpost.cc:141) For speaker c658, auxf-impr from fMLLR is 0, over 22.2181 frames.
+
+LOG (apply-cmvn[5.5.383~1-bd1d]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 9 utterances, errors on 0
+WARNING (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 100.223
+LOG (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:main():gmm-est-fmllr-gpost.cc:141) For speaker c659, auxf-impr from fMLLR is 0, over 100.223 frames.
+
+WARNING (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 51.3195
+LOG (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:main():gmm-est-fmllr-gpost.cc:141) For speaker c660, auxf-impr from fMLLR is 0, over 51.3195 frames.
+
+WARNING (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 87.676
+LOG (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:main():gmm-est-fmllr-gpost.cc:141) For speaker c661, auxf-impr from fMLLR is 0, over 87.676 frames.
+
+WARNING (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 64.4583
+LOG (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:main():gmm-est-fmllr-gpost.cc:141) For speaker c662, auxf-impr from fMLLR is 0, over 64.4583 frames.
+
+LOG (transform-feats[5.5.383~1-bd1d]:main():transform-feats.cc:158) Overall average [pseudo-]logdet is -86.2559 over 4480 frames.
+LOG (transform-feats[5.5.383~1-bd1d]:main():transform-feats.cc:161) Applied transform to 9 utterances; 0 had errors.
+WARNING (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 66.3761
+LOG (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:main():gmm-est-fmllr-gpost.cc:141) For speaker c663, auxf-impr from fMLLR is 0, over 66.3761 frames.
+
+LOG (transform-feats[5.5.383~1-bd1d]:main():transform-feats.cc:158) Overall average [pseudo-]logdet is -86.2559 over 4480 frames.
+LOG (transform-feats[5.5.383~1-bd1d]:main():transform-feats.cc:161) Applied transform to 9 utterances; 0 had errors.
+LOG (gmm-post-to-gpost[5.5.383~1-bd1d]:main():gmm-post-to-gpost.cc:124) Done 9 files, 0 with no posteriors, 0 with other errors.
+LOG (gmm-post-to-gpost[5.5.383~1-bd1d]:main():gmm-post-to-gpost.cc:128) Overall avg like per frame (Gaussian only) = -51.6684 over 705.654 frames.
+LOG (gmm-post-to-gpost[5.5.383~1-bd1d]:main():gmm-post-to-gpost.cc:131) Done converting post to gpost
+WARNING (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 89.7311
+LOG (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:main():gmm-est-fmllr-gpost.cc:141) For speaker c664, auxf-impr from fMLLR is 0, over 89.7311 frames.
+
+LOG (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:main():gmm-est-fmllr-gpost.cc:186) Done 9 files, 0 with no gposts, 0 with other errors.
+LOG (gmm-est-fmllr-gpost[5.5.383~1-bd1d]:main():gmm-est-fmllr-gpost.cc:188) Overall fMLLR auxf impr per frame is 0 over 705.654 frames.
+# Accounting: time=1 threads=1
+# Ended (code 0) at Tue Jun 18 17:12:42 IST 2019, elapsed time 1 seconds

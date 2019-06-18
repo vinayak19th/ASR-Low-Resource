@@ -1,0 +1,30 @@
+# gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/mono/graph/words.txt exp/mono/final.mdl exp/mono/graph/HCLG.fst "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/7/utt2spk scp:data/test/split8/7/cmvn.scp scp:data/test/split8/7/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark:|gzip -c > exp/mono/decode/lat.7.gz" 
+# Started at Tue Jun 18 17:07:19 IST 2019
+#
+gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/mono/graph/words.txt exp/mono/final.mdl exp/mono/graph/HCLG.fst 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/7/utt2spk scp:data/test/split8/7/cmvn.scp scp:data/test/split8/7/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark:|gzip -c > exp/mono/decode/lat.7.gz' 
+add-deltas ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/test/split8/7/utt2spk scp:data/test/split8/7/cmvn.scp scp:data/test/split8/7/feats.scp ark:- 
+c692 بتول نثار نے کہا کہ میں صبح سویرے کا گاڑی کے بھی آپ کے دلوں 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c692 is -7.73033 over 523 frames.
+c693 میں نے ہفتے جسے کہا کہ وقار پر بھی نہ کرامت دو 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c693 is -7.48555 over 461 frames.
+c694 کرن کا جوڑا شیشہ پایہ ورثاء کو جج <oov> صحیح چاق و چوبند بنا ہے 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c694 is -7.59251 over 555 frames.
+c695 چوری کی جانے <oov> جانے کو کرن <oov> کو پانی میں ہو جائیں 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c695 is -7.69237 over 581 frames.
+LOG (apply-cmvn[5.5.383~1-bd1d]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 9 utterances, errors on 0
+c696 <oov> فاصلے کیا میں زیب کو مصنوعی مصور روکے بنانے کے لئے فراہم کِیا جائے گا 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c696 is -7.65559 over 611 frames.
+c697 کلور کوٹ سے ستمبر ڈیزائن کرنے کا کام ہو گا 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c697 is -7.74424 over 415 frames.
+c698 بار اور ہنزہ <oov> سے شفاف باعث کا جائزہ لے نے لگا 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c698 is -7.72497 over 477 frames.
+c699 آج کے فروغ روکا کی <oov> میں برائے کیا دینی بے حرمتی کا مقصد <oov> 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c699 is -7.77367 over 669 frames.
+c700 ہوش تروٹ کی تقریر میں کہا فوری کی <oov> کرو خوبصورت ہو 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c700 is -7.96376 over 621 frames.
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:main():gmm-latgen-faster.cc:176) Time taken 3.61784s: real-time factor assuming 100 frames/sec is 0.0736381
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:main():gmm-latgen-faster.cc:179) Done 9 utterances, failed for 0
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:main():gmm-latgen-faster.cc:181) Overall log-likelihood per frame is -7.71407 over 4913 frames.
+# Accounting: time=4 threads=1
+# Ended (code 0) at Tue Jun 18 17:07:23 IST 2019, elapsed time 4 seconds

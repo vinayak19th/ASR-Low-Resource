@@ -1,0 +1,7 @@
+# sum-tree-stats exp/tri3/treeacc exp/tri3/1.treeacc exp/tri3/2.treeacc exp/tri3/3.treeacc exp/tri3/4.treeacc exp/tri3/5.treeacc exp/tri3/6.treeacc exp/tri3/7.treeacc exp/tri3/8.treeacc 
+# Started at Tue Jun 18 17:10:59 IST 2019
+#
+sum-tree-stats exp/tri3/treeacc exp/tri3/1.treeacc exp/tri3/2.treeacc exp/tri3/3.treeacc exp/tri3/4.treeacc exp/tri3/5.treeacc exp/tri3/6.treeacc exp/tri3/7.treeacc exp/tri3/8.treeacc 
+LOG (sum-tree-stats[5.5.383~1-bd1d]:main():sum-tree-stats.cc:88) Wrote summed accs ( 21757 individual stats)
+# Accounting: time=1 threads=1
+# Ended (code 0) at Tue Jun 18 17:11:00 IST 2019, elapsed time 1 seconds

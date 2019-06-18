@@ -1,0 +1,30 @@
+# gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/mono/graph/words.txt exp/mono/final.mdl exp/mono/graph/HCLG.fst "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/1/utt2spk scp:data/test/split8/1/cmvn.scp scp:data/test/split8/1/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark:|gzip -c > exp/mono/decode/lat.1.gz" 
+# Started at Tue Jun 18 17:07:15 IST 2019
+#
+gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/mono/graph/words.txt exp/mono/final.mdl exp/mono/graph/HCLG.fst 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/1/utt2spk scp:data/test/split8/1/cmvn.scp scp:data/test/split8/1/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark:|gzip -c > exp/mono/decode/lat.1.gz' 
+apply-cmvn --utt2spk=ark:data/test/split8/1/utt2spk scp:data/test/split8/1/cmvn.scp scp:data/test/split8/1/feats.scp ark:- 
+add-deltas ark:- ark:- 
+c638 <oov> کی شرح میں کوئی صورت <oov> کو کھڑکی کے خلاف سجے چلیں 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c638 is -7.87209 over 693 frames.
+c639 کیف کے دفتر کے دکھ درد سے تجویز کر سکینہ عبور کی <oov> سکیں 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c639 is -7.89656 over 630 frames.
+c640 شام کے نیا پر بیٹھ گیا روٹی سفیر نے تیسری کونسل کے شکوہ لا کا چوری کوچ لگایا 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c640 is -7.88916 over 710 frames.
+c641 کو ہلو <oov> کی آتش بازی اطلاع کرنسی گی 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c641 is -8.05519 over 436 frames.
+c642 عرفان <oov> <oov> سیکھی <oov> مخوص کی <oov> تھی 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c642 is -7.92626 over 533 frames.
+LOG (apply-cmvn[5.5.383~1-bd1d]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 9 utterances, errors on 0
+c643 تحفہ اُسے <oov> میں خوف افواج اسے نہ آئیں اور <oov> سے زائد دیہی ڈالیں 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c643 is -7.90575 over 622 frames.
+c644 کھیل نیت اچھے میں <oov> اور زیب راہ بچی کیسی پارس <oov> دبا پر ہے 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c644 is -7.88423 over 685 frames.
+c645 <oov> کیس میں گزر کے صاحب زور <oov> کرنے کی فحاشی نکلیں گیں 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c645 is -7.94341 over 584 frames.
+c646 <oov> اور <oov> بننے کے بعد لاو بڑا میں دراوڑ ادا لے آئی 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c646 is -8.08327 over 504 frames.
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:main():gmm-latgen-faster.cc:176) Time taken 4.68141s: real-time factor assuming 100 frames/sec is 0.0867409
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:main():gmm-latgen-faster.cc:179) Done 9 utterances, failed for 0
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:main():gmm-latgen-faster.cc:181) Overall log-likelihood per frame is -7.93019 over 5397 frames.
+# Accounting: time=5 threads=1
+# Ended (code 0) at Tue Jun 18 17:07:20 IST 2019, elapsed time 5 seconds

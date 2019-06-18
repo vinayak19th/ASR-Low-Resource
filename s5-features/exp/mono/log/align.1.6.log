@@ -1,0 +1,156 @@
+# gmm-align-compiled --transition-scale=1.0 --acoustic-scale=0.1 --self-loop-scale=0.1 --beam=6 --retry-beam=40 --careful=false "gmm-boost-silence --boost=1.0 1 exp/mono/1.mdl - |" "ark:gunzip -c exp/mono/fsts.6.gz|" "ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split8/6/utt2spk scp:data/train/split8/6/cmvn.scp scp:data/train/split8/6/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark,t:|gzip -c >exp/mono/ali.6.gz" 
+# Started at Tue Jun 18 17:05:42 IST 2019
+#
+gmm-align-compiled --transition-scale=1.0 --acoustic-scale=0.1 --self-loop-scale=0.1 --beam=6 --retry-beam=40 --careful=false 'gmm-boost-silence --boost=1.0 1 exp/mono/1.mdl - |' 'ark:gunzip -c exp/mono/fsts.6.gz|' 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split8/6/utt2spk scp:data/train/split8/6/cmvn.scp scp:data/train/split8/6/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark,t:|gzip -c >exp/mono/ali.6.gz' 
+gmm-boost-silence --boost=1.0 1 exp/mono/1.mdl - 
+WARNING (gmm-boost-silence[5.5.383~1-bd1d]:main():gmm-boost-silence.cc:82) The pdfs for the silence phones may be shared by other phones (note: this probably does not matter.)
+LOG (gmm-boost-silence[5.5.383~1-bd1d]:main():gmm-boost-silence.cc:93) Boosted weights for 5 pdfs, by factor of 1
+LOG (gmm-boost-silence[5.5.383~1-bd1d]:main():gmm-boost-silence.cc:103) Wrote model to -
+add-deltas ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/train/split8/6/utt2spk scp:data/train/split8/6/cmvn.scp scp:data/train/split8/6/feats.scp ark:- 
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c458
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c459
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c46
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c46 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c460
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c460 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c461
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c461 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c462
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c462 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c463
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c463 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c464
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c464 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c465
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c465 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c466
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c466 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c467
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c467 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c468
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c468 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c469
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c47
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c470
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c470 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c471
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c472
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c472 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c473
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c473 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c474
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c474 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c475
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c475 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c476
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c476 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c477
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c477 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c478
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c478 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c479
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c479 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c48
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c480
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c481
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c481 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c482
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c482 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c483
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c484
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c485
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c485 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c486
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c486 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c487
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c487 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c488
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c489
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c49
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c49 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c490
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c490 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c491
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c491 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c492
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c492 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c493
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c493 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c494
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c495
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c495 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c496
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c496 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c497
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c497 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c498
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c498 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c499
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c499 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c5
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c5 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c50
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c50 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c500
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c500 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c501
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c501 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c502
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c502 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c503
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c503 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c504
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c505
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c505 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c506
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c506 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c507
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c508
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c508 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c509
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c509 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c51
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c51 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c510
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c510 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c511
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c511 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c512
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c512 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c513
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c514
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c514 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c515
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c515 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c516
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c516 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c517
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c517 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c518
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c518 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c519
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c519 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c52
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c52 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c520
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c520 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c521
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c521 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c522
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c522 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c523
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c523 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c524
+LOG (apply-cmvn[5.5.383~1-bd1d]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 79 utterances, errors on 0
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c525
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c525 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c526
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c527
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:127) c528
+WARNING (gmm-align-compiled[5.5.383~1-bd1d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance c528 with beam 40
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:135) Overall log-likelihood per frame is -106.147 over 41853 frames.
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:137) Retried 61 out of 79 utterances.
+LOG (gmm-align-compiled[5.5.383~1-bd1d]:main():gmm-align-compiled.cc:139) Done 79, errors on 0
+# Accounting: time=5 threads=1
+# Ended (code 0) at Tue Jun 18 17:05:47 IST 2019, elapsed time 5 seconds

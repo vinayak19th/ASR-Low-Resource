@@ -1,0 +1,6 @@
+# init-ubm --intermediate-num-gauss=2000 --ubm-num-gauss=400 --verbose=2 --fullcov-ubm=true exp/tri3_ali/final.mdl exp/tri3_ali/final.occs exp/ubm4/0.ubm 
+# Started at Tue Jun 18 16:53:15 IST 2019
+#
+bash: line 1: init-ubm: command not found
+# Accounting: time=0 threads=1
+# Ended (code 127) at Tue Jun 18 16:53:15 IST 2019, elapsed time 0 seconds

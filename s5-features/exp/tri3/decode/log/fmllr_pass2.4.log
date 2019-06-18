@@ -1,0 +1,44 @@
+# lattice-determinize-pruned --acoustic-scale=0.083333 --beam=4.0 "ark:gunzip -c exp/tri3/decode/lat.tmp.4.gz|" ark:- | lattice-to-post --acoustic-scale=0.083333 ark:- ark:- | weight-silence-post 0.01 1:2:3:4:5:6:7:8:9:10 exp/tri3/final.mdl ark:- ark:- | gmm-est-fmllr --fmllr-update-type=full --spk2utt=ark:data/test/split8/4/spk2utt exp/tri3/final.mdl "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/4/utt2spk scp:data/test/split8/4/cmvn.scp scp:data/test/split8/4/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/tri3/final.mat ark:- ark:- | transform-feats --utt2spk=ark:data/test/split8/4/utt2spk ark:exp/tri3/decode/pre_trans.4 ark:- ark:- |" ark,s,cs:- ark:exp/tri3/decode/trans_tmp.4 && compose-transforms --b-is-affine=true ark:exp/tri3/decode/trans_tmp.4 ark:exp/tri3/decode/pre_trans.4 ark:exp/tri3/decode/trans.4 
+# Started at Tue Jun 18 17:12:50 IST 2019
+#
+weight-silence-post 0.01 1:2:3:4:5:6:7:8:9:10 exp/tri3/final.mdl ark:- ark:- 
+lattice-determinize-pruned --acoustic-scale=0.083333 --beam=4.0 'ark:gunzip -c exp/tri3/decode/lat.tmp.4.gz|' ark:- 
+lattice-to-post --acoustic-scale=0.083333 ark:- ark:- 
+gmm-est-fmllr --fmllr-update-type=full --spk2utt=ark:data/test/split8/4/spk2utt exp/tri3/final.mdl 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/4/utt2spk scp:data/test/split8/4/cmvn.scp scp:data/test/split8/4/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/tri3/final.mat ark:- ark:- | transform-feats --utt2spk=ark:data/test/split8/4/utt2spk ark:exp/tri3/decode/pre_trans.4 ark:- ark:- |' ark,s,cs:- ark:exp/tri3/decode/trans_tmp.4 
+transform-feats --utt2spk=ark:data/test/split8/4/utt2spk ark:exp/tri3/decode/pre_trans.4 ark:- ark:- 
+transform-feats exp/tri3/final.mat ark:- ark:- 
+splice-feats ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/test/split8/4/utt2spk scp:data/test/split8/4/cmvn.scp scp:data/test/split8/4/feats.scp ark:- 
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 96.0059
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c665, auxf-impr from fMLLR is 0, over 96.0059 frames.
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 68.2127
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c666, auxf-impr from fMLLR is 0, over 68.2127 frames.
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 86.4164
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c667, auxf-impr from fMLLR is 0, over 86.4164 frames.
+LOG (apply-cmvn[5.5.383~1-bd1d]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 9 utterances, errors on 0
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 108.55
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c668, auxf-impr from fMLLR is 0, over 108.55 frames.
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 104.752
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c669, auxf-impr from fMLLR is 0, over 104.752 frames.
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 13.6386
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c670, auxf-impr from fMLLR is 0, over 13.6386 frames.
+LOG (transform-feats[5.5.383~1-bd1d]:main():transform-feats.cc:158) Overall average [pseudo-]logdet is -86.2559 over 4342 frames.
+LOG (transform-feats[5.5.383~1-bd1d]:main():transform-feats.cc:161) Applied transform to 9 utterances; 0 had errors.
+LOG (lattice-determinize-pruned[5.5.383~1-bd1d]:main():lattice-determinize-pruned.cc:159) Average input-lattice depth (measured at at state level) is 8.61769, output depth is 3.97236, over 4342 frames  (average num-frames = 482.444).
+LOG (lattice-determinize-pruned[5.5.383~1-bd1d]:main():lattice-determinize-pruned.cc:164) Done 9 lattices, determinization finished earlier than specified by the beam (or output was empty) on 0 of these.
+LOG (lattice-to-post[5.5.383~1-bd1d]:main():lattice-to-post.cc:106) Overall average log-like/frame is -4.7285 over 4342 frames.  Average acoustic like/frame is -4.51671
+LOG (lattice-to-post[5.5.383~1-bd1d]:main():lattice-to-post.cc:110) Done 9 lattices.
+LOG (weight-silence-post[5.5.383~1-bd1d]:main():weight-silence-post.cc:95) Done 9 posteriors.
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 121.739
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c671, auxf-impr from fMLLR is 0, over 121.739 frames.
+LOG (transform-feats[5.5.383~1-bd1d]:main():transform-feats.cc:158) Overall average logdet is 0 over 4342 frames.
+LOG (transform-feats[5.5.383~1-bd1d]:main():transform-feats.cc:161) Applied transform to 9 utterances; 0 had errors.
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 137.033
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c672, auxf-impr from fMLLR is 0, over 137.033 frames.
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 114.049
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c673, auxf-impr from fMLLR is 0, over 114.049 frames.
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:188) Done 9 files, 0 with no posts, 0 with other errors.
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:190) Overall fMLLR auxf impr per frame is 0 over 850.397 frames.
+compose-transforms --b-is-affine=true ark:exp/tri3/decode/trans_tmp.4 ark:exp/tri3/decode/pre_trans.4 ark:exp/tri3/decode/trans.4 
+# Accounting: time=1 threads=1
+# Ended (code 0) at Tue Jun 18 17:12:51 IST 2019, elapsed time 1 seconds

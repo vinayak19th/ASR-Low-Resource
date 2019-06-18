@@ -1,0 +1,15 @@
+# ali-to-post "ark:gunzip -c exp/tri1_ali/ali.4.gz|" ark:- | weight-silence-post 0.0 1:2:3:4:5:6:7:8:9:10 exp/tri1_ali/final.mdl ark:- ark:- | acc-lda --rand-prune=4.0 exp/tri1_ali/final.mdl "ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split8/4/utt2spk scp:data/train/split8/4/cmvn.scp scp:data/train/split8/4/feats.scp ark:- | splice-feats  ark:- ark:- |" ark,s,cs:- exp/tri2/lda.4.acc 
+# Started at Tue Jun 18 17:09:08 IST 2019
+#
+ali-to-post 'ark:gunzip -c exp/tri1_ali/ali.4.gz|' ark:- 
+weight-silence-post 0.0 1:2:3:4:5:6:7:8:9:10 exp/tri1_ali/final.mdl ark:- ark:- 
+acc-lda --rand-prune=4.0 exp/tri1_ali/final.mdl 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split8/4/utt2spk scp:data/train/split8/4/cmvn.scp scp:data/train/split8/4/feats.scp ark:- | splice-feats  ark:- ark:- |' ark,s,cs:- exp/tri2/lda.4.acc 
+apply-cmvn --utt2spk=ark:data/train/split8/4/utt2spk scp:data/train/split8/4/cmvn.scp scp:data/train/split8/4/feats.scp ark:- 
+splice-feats ark:- ark:- 
+LOG (ali-to-post[5.5.383~1-bd1d]:main():ali-to-post.cc:73) Converted 79 alignments.
+LOG (weight-silence-post[5.5.383~1-bd1d]:main():weight-silence-post.cc:95) Done 79 posteriors.
+LOG (apply-cmvn[5.5.383~1-bd1d]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 79 utterances, errors on 0
+LOG (acc-lda[5.5.383~1-bd1d]:main():acc-lda.cc:117) Done 79 files, failed for 0
+LOG (acc-lda[5.5.383~1-bd1d]:main():acc-lda.cc:122) Written statistics.
+# Accounting: time=0 threads=1
+# Ended (code 0) at Tue Jun 18 17:09:08 IST 2019, elapsed time 0 seconds

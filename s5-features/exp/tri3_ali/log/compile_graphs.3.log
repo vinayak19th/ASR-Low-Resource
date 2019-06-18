@@ -1,0 +1,29 @@
+# compile-train-graphs --read-disambig-syms=data/lang/phones/disambig.int exp/tri3_ali/tree exp/tri3_ali/final.mdl data/lang/L.fst "ark:utils/sym2int.pl --map-oov 2 -f 2- data/lang/words.txt data/train/split8/3/text|" "ark:|gzip -c >exp/tri3_ali/fsts.3.gz" 
+# Started at Tue Jun 18 16:53:01 IST 2019
+#
+compile-train-graphs --read-disambig-syms=data/lang/phones/disambig.int exp/tri3_ali/tree exp/tri3_ali/final.mdl data/lang/L.fst 'ark:utils/sym2int.pl --map-oov 2 -f 2- data/lang/words.txt data/train/split8/3/text|' 'ark:|gzip -c >exp/tri3_ali/fsts.3.gz' 
+sym2int.pl: replacing راسخ with 2
+sym2int.pl: replacing واہلہ with 2
+sym2int.pl: replacing رم with 2
+sym2int.pl: replacing جھم with 2
+sym2int.pl: replacing آبشار with 2
+sym2int.pl: replacing پرجوش with 2
+sym2int.pl: replacing تیقن with 2
+sym2int.pl: replacing عرضداشت with 2
+sym2int.pl: replacing بھیجی with 2
+sym2int.pl: replacing فزیوتھراپسٹ with 2
+sym2int.pl: replacing بافتوں with 2
+sym2int.pl: replacing پھیلا with 2
+sym2int.pl: replacing رویا with 2
+sym2int.pl: replacing گدھا with 2
+sym2int.pl: replacing مکھیوں with 2
+sym2int.pl: replacing لیے with 2
+sym2int.pl: replacing ڈھینچوں with 2
+sym2int.pl: replacing سورما with 2
+sym2int.pl: replacing اودھم with 2
+sym2int.pl: replacing معا with 2
+sym2int.pl: not warning for OOVs any more times
+** Replaced 480 instances of OOVs with 2
+LOG (compile-train-graphs[5.5.383~1-bd1d]:main():compile-train-graphs.cc:147) compile-train-graphs: succeeded for 80 graphs, failed for 0
+# Accounting: time=0 threads=1
+# Ended (code 0) at Tue Jun 18 16:53:01 IST 2019, elapsed time 0 seconds

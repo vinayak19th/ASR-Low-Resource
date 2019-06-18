@@ -1,0 +1,42 @@
+# lattice-determinize-pruned --acoustic-scale=0.083333 --beam=4.0 "ark:gunzip -c exp/tri3/decode/lat.tmp.8.gz|" ark:- | lattice-to-post --acoustic-scale=0.083333 ark:- ark:- | weight-silence-post 0.01 1:2:3:4:5:6:7:8:9:10 exp/tri3/final.mdl ark:- ark:- | gmm-est-fmllr --fmllr-update-type=full --spk2utt=ark:data/test/split8/8/spk2utt exp/tri3/final.mdl "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/8/utt2spk scp:data/test/split8/8/cmvn.scp scp:data/test/split8/8/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/tri3/final.mat ark:- ark:- | transform-feats --utt2spk=ark:data/test/split8/8/utt2spk ark:exp/tri3/decode/pre_trans.8 ark:- ark:- |" ark,s,cs:- ark:exp/tri3/decode/trans_tmp.8 && compose-transforms --b-is-affine=true ark:exp/tri3/decode/trans_tmp.8 ark:exp/tri3/decode/pre_trans.8 ark:exp/tri3/decode/trans.8 
+# Started at Tue Jun 18 17:12:50 IST 2019
+#
+weight-silence-post 0.01 1:2:3:4:5:6:7:8:9:10 exp/tri3/final.mdl ark:- ark:- 
+gmm-est-fmllr --fmllr-update-type=full --spk2utt=ark:data/test/split8/8/spk2utt exp/tri3/final.mdl 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/8/utt2spk scp:data/test/split8/8/cmvn.scp scp:data/test/split8/8/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/tri3/final.mat ark:- ark:- | transform-feats --utt2spk=ark:data/test/split8/8/utt2spk ark:exp/tri3/decode/pre_trans.8 ark:- ark:- |' ark,s,cs:- ark:exp/tri3/decode/trans_tmp.8 
+lattice-to-post --acoustic-scale=0.083333 ark:- ark:- 
+lattice-determinize-pruned --acoustic-scale=0.083333 --beam=4.0 'ark:gunzip -c exp/tri3/decode/lat.tmp.8.gz|' ark:- 
+transform-feats exp/tri3/final.mat ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/test/split8/8/utt2spk scp:data/test/split8/8/cmvn.scp scp:data/test/split8/8/feats.scp ark:- 
+splice-feats ark:- ark:- 
+transform-feats --utt2spk=ark:data/test/split8/8/utt2spk ark:exp/tri3/decode/pre_trans.8 ark:- ark:- 
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 123.208
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c701, auxf-impr from fMLLR is 0, over 123.208 frames.
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 94.3874
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c702, auxf-impr from fMLLR is 0, over 94.3874 frames.
+LOG (apply-cmvn[5.5.383~1-bd1d]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 8 utterances, errors on 0
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 109.72
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c703, auxf-impr from fMLLR is 0, over 109.72 frames.
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 92.2767
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c704, auxf-impr from fMLLR is 0, over 92.2767 frames.
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 214.07
+LOG (lattice-determinize-pruned[5.5.383~1-bd1d]:main():lattice-determinize-pruned.cc:159) Average input-lattice depth (measured at at state level) is 9.0157, output depth is 2.97126, over 4140 frames  (average num-frames = 517.5).
+LOG (lattice-determinize-pruned[5.5.383~1-bd1d]:main():lattice-determinize-pruned.cc:164) Done 8 lattices, determinization finished earlier than specified by the beam (or output was empty) on 0 of these.
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c705, auxf-impr from fMLLR is 0, over 214.07 frames.
+LOG (lattice-to-post[5.5.383~1-bd1d]:main():lattice-to-post.cc:106) Overall average log-like/frame is -4.57249 over 4140 frames.  Average acoustic like/frame is -4.37097
+LOG (lattice-to-post[5.5.383~1-bd1d]:main():lattice-to-post.cc:110) Done 8 lattices.
+LOG (transform-feats[5.5.383~1-bd1d]:main():transform-feats.cc:158) Overall average [pseudo-]logdet is -86.2559 over 4140 frames.
+LOG (transform-feats[5.5.383~1-bd1d]:main():transform-feats.cc:161) Applied transform to 8 utterances; 0 had errors.
+LOG (weight-silence-post[5.5.383~1-bd1d]:main():weight-silence-post.cc:95) Done 8 posteriors.
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 93.9979
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c706, auxf-impr from fMLLR is 0, over 93.9979 frames.
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 52.1483
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c707, auxf-impr from fMLLR is 0, over 52.1483 frames.
+LOG (transform-feats[5.5.383~1-bd1d]:main():transform-feats.cc:158) Overall average logdet is 0 over 4140 frames.
+LOG (transform-feats[5.5.383~1-bd1d]:main():transform-feats.cc:161) Applied transform to 8 utterances; 0 had errors.
+WARNING (gmm-est-fmllr[5.5.383~1-bd1d]:Update():fmllr-diag-gmm.cc:162) Not updating fMLLR since below min-count: count is 104.425
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:143) For speaker c708, auxf-impr from fMLLR is 0, over 104.425 frames.
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:188) Done 8 files, 0 with no posts, 0 with other errors.
+LOG (gmm-est-fmllr[5.5.383~1-bd1d]:main():gmm-est-fmllr.cc:190) Overall fMLLR auxf impr per frame is 0 over 884.234 frames.
+compose-transforms --b-is-affine=true ark:exp/tri3/decode/trans_tmp.8 ark:exp/tri3/decode/pre_trans.8 ark:exp/tri3/decode/trans.8 
+# Accounting: time=1 threads=1
+# Ended (code 0) at Tue Jun 18 17:12:51 IST 2019, elapsed time 1 seconds

@@ -1,0 +1,16 @@
+# gmm-acc-stats-ali exp/tri2/33.mdl "ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split8/1/utt2spk scp:data/train/split8/1/cmvn.scp scp:data/train/split8/1/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/tri2/12.mat ark:- ark:- |" "ark,s,cs:gunzip -c exp/tri2/ali.1.gz|" exp/tri2/33.1.acc 
+# Started at Tue Jun 18 17:10:23 IST 2019
+#
+gmm-acc-stats-ali exp/tri2/33.mdl 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split8/1/utt2spk scp:data/train/split8/1/cmvn.scp scp:data/train/split8/1/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/tri2/12.mat ark:- ark:- |' 'ark,s,cs:gunzip -c exp/tri2/ali.1.gz|' exp/tri2/33.1.acc 
+splice-feats ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/train/split8/1/utt2spk scp:data/train/split8/1/cmvn.scp scp:data/train/split8/1/feats.scp ark:- 
+transform-feats exp/tri2/12.mat ark:- ark:- 
+LOG (gmm-acc-stats-ali[5.5.383~1-bd1d]:main():gmm-acc-stats-ali.cc:105) Processed 50 utterances; for utterance c143 avg. like is -44.8257 over 377 frames.
+LOG (apply-cmvn[5.5.383~1-bd1d]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 80 utterances, errors on 0
+LOG (transform-feats[5.5.383~1-bd1d]:main():transform-feats.cc:158) Overall average [pseudo-]logdet is -86.2559 over 49878 frames.
+LOG (transform-feats[5.5.383~1-bd1d]:main():transform-feats.cc:161) Applied transform to 80 utterances; 0 had errors.
+LOG (gmm-acc-stats-ali[5.5.383~1-bd1d]:main():gmm-acc-stats-ali.cc:112) Done 80 files, 0 with errors.
+LOG (gmm-acc-stats-ali[5.5.383~1-bd1d]:main():gmm-acc-stats-ali.cc:115) Overall avg like per frame (Gaussian only) = -47.8039 over 49878 frames.
+LOG (gmm-acc-stats-ali[5.5.383~1-bd1d]:main():gmm-acc-stats-ali.cc:123) Written accs.
+# Accounting: time=1 threads=1
+# Ended (code 0) at Tue Jun 18 17:10:24 IST 2019, elapsed time 1 seconds

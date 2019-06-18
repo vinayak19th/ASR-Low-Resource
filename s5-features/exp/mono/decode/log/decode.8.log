@@ -1,0 +1,28 @@
+# gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/mono/graph/words.txt exp/mono/final.mdl exp/mono/graph/HCLG.fst "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/8/utt2spk scp:data/test/split8/8/cmvn.scp scp:data/test/split8/8/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark:|gzip -c > exp/mono/decode/lat.8.gz" 
+# Started at Tue Jun 18 17:07:20 IST 2019
+#
+gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/mono/graph/words.txt exp/mono/final.mdl exp/mono/graph/HCLG.fst 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/8/utt2spk scp:data/test/split8/8/cmvn.scp scp:data/test/split8/8/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark:|gzip -c > exp/mono/decode/lat.8.gz' 
+apply-cmvn --utt2spk=ark:data/test/split8/8/utt2spk scp:data/test/split8/8/cmvn.scp scp:data/test/split8/8/feats.scp ark:- 
+add-deltas ark:- ark:- 
+c701 مضمون بنوانے دونوں کو ضلع کی تم اپنا کی سے کے علاوہ کر موضوع <oov> کو سمجھایا 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c701 is -7.67917 over 722 frames.
+c702 غفار <oov> توبہ کی اوٹ میں کرے کو شاہانہ دیر بخش <oov> 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c702 is -7.63716 over 467 frames.
+c703 غیرت رائے سے تاریخی <oov> کے کپڑوں کاروبار ظاہر ہوتا ہے 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c703 is -7.58981 over 478 frames.
+c704 چوتھائی <oov> سیشن متنازعہ <oov> کنزہ باقی پھیلاؤ کا پورا سے ہے 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c704 is -7.7208 over 564 frames.
+LOG (apply-cmvn[5.5.383~1-bd1d]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 8 utterances, errors on 0
+c705 <oov> <oov> ایجاد پر لاگت آٹھ تین سو سے بڑھ گئی 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c705 is -7.75416 over 535 frames.
+c706 گجر خان کی غزر کے آنکھیں <oov> تو مت <oov> 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c706 is -7.8733 over 492 frames.
+c707 ماضی کو بلا حتم آگے بڑھتی نہیں انہوں نے اَن پڑھ ہے 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c707 is -7.91305 over 355 frames.
+c708 جنگ چلنے سے پہلے بروئے نے مجھے کچھ <oov> سی بات بھی کا اور مشق سمجھتا ہے 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c708 is -7.93252 over 527 frames.
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:main():gmm-latgen-faster.cc:176) Time taken 2.89868s: real-time factor assuming 100 frames/sec is 0.0700165
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:main():gmm-latgen-faster.cc:179) Done 8 utterances, failed for 0
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:main():gmm-latgen-faster.cc:181) Overall log-likelihood per frame is -7.75485 over 4140 frames.
+# Accounting: time=3 threads=1
+# Ended (code 0) at Tue Jun 18 17:07:23 IST 2019, elapsed time 3 seconds

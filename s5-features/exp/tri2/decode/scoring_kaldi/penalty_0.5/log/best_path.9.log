@@ -1,0 +1,154 @@
+# lattice-scale --inv-acoustic-scale=9 "ark:gunzip -c exp/tri2/decode/lat.*.gz|" ark:- | lattice-add-penalty --word-ins-penalty=0.5 ark:- ark:- | lattice-best-path --word-symbol-table=exp/tri2/graph/words.txt ark:- ark,t:- | utils/int2sym.pl -f 2- exp/tri2/graph/words.txt | cat > exp/tri2/decode/scoring_kaldi/penalty_0.5/9.txt 
+# Started at Tue Jun 18 17:10:48 IST 2019
+#
+lattice-scale --inv-acoustic-scale=9 'ark:gunzip -c exp/tri2/decode/lat.*.gz|' ark:- 
+lattice-add-penalty --word-ins-penalty=0.5 ark:- ark:- 
+lattice-best-path --word-symbol-table=exp/tri2/graph/words.txt ark:- ark,t:- 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c638, best cost 115.74 + 4178.82 = 4294.56 over 693 frames.
+c638 <oov> میں <oov> <oov> کو <oov> کی <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c639, best cost 139.483 + 3773.38 = 3912.86 over 630 frames.
+c639 <oov> دل سے <oov> کر سے کے <oov> کی <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c640, best cost 215.483 + 4141.09 = 4356.58 over 710 frames.
+c640 <oov> کے <oov> پر بیٹھ <oov> سفیر نے <oov> <oov> صلح کے <oov> والا کا <oov> لگایا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c641, best cost 84.0335 + 2707.26 = 2791.29 over 436 frames.
+c641 <oov> کی <oov> کر <oov> <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c642, best cost 103.549 + 3278.91 = 3382.46 over 533 frames.
+c642 <oov> کے <oov> <oov> <oov> کی <oov> <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c643, best cost 138.751 + 3795.36 = 3934.11 over 622 frames.
+c643 <oov> سے <oov> پڑھ <oov> <oov> <oov> اور <oov> <oov> <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c644, best cost 123.862 + 4151 = 4274.87 over 685 frames.
+c644 <oov> <oov> اور <oov> <oov> کے <oov> پر <oov> <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c645, best cost 154.742 + 3531.19 = 3685.93 over 584 frames.
+c645 <oov> کے اس میں <oov> کے ثائب <oov> <oov> کرنے کی <oov> ہیں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c646, best cost 127.892 + 3084.03 = 3211.93 over 504 frames.
+c646 <oov> نے کے بعد <oov> میں <oov> <oov> نے آئی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c647, best cost 64.2345 + 2176.04 = 2240.28 over 356 frames.
+c647 <oov> <oov> <oov> پر آئے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c648, best cost 88.9365 + 2449.04 = 2537.98 over 415 frames.
+c648 میلے میں <oov> <oov> کیلئے <oov> تھا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c649, best cost 107.99 + 3425.03 = 3533.02 over 580 frames.
+c649 <oov> کر کے <oov> کے بعد <oov> <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c650, best cost 114.891 + 3436.15 = 3551.05 over 580 frames.
+c650 <oov> کی <oov> کے <oov> کے <oov> ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c651, best cost 127.693 + 2792.27 = 2919.96 over 470 frames.
+c651 <oov> کو <oov> <oov> کی <oov> سے پہلے <oov> <oov> تھیں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c652, best cost 134.988 + 4669.29 = 4804.27 over 761 frames.
+c652 <oov> کی <oov> <oov> <oov> اور <oov> <oov> کے <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c653, best cost 129.919 + 3935.8 = 4065.72 over 660 frames.
+c653 <oov> <oov> کا <oov> اہلکار <oov> کے <oov> وہ 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c654, best cost 97.6375 + 3317.82 = 3415.45 over 542 frames.
+c654 <oov> <oov> کے <oov> میں <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c655, best cost 64.7629 + 3034.47 = 3099.23 over 516 frames.
+c655 <oov> <oov> <oov> ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c656, best cost 113.348 + 3754.49 = 3867.84 over 643 frames.
+c656 <oov> <oov> <oov> <oov> اور <oov> <oov> <oov> کریں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c657, best cost 120.562 + 2733.67 = 2854.24 over 491 frames.
+c657 <oov> <oov> کے <oov> کردار کی حد سے <oov> نہیں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c658, best cost 69.2966 + 2656.54 = 2725.84 over 449 frames.
+c658 <oov> <oov> کی <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c659, best cost 140.071 + 3603.53 = 3743.6 over 617 frames.
+c659 <oov> کر <oov> اور <oov> کا <oov> <oov> کے بعد <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c660, best cost 77.8773 + 1865.94 = 1943.82 over 313 frames.
+c660 <oov> کے <oov> <oov> نہیں <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c661, best cost 49.792 + 2353.86 = 2403.65 over 413 frames.
+c661 <oov> کیلئے <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c662, best cost 102.877 + 2429.22 = 2532.1 over 376 frames.
+c662 <oov> <oov> کو کی <oov> کی <oov> <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c663, best cost 126.047 + 3628.96 = 3755 over 603 frames.
+c663 <oov> نے <oov> <oov> <oov> <oov> <oov> کی <oov> <oov> ہوئی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c664, best cost 147.509 + 3696.29 = 3843.8 over 575 frames.
+c664 <oov> کے <oov> میں <oov> نہ <oov> کے <oov> <oov> ہو گئ 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c665, best cost 91.5199 + 2473.31 = 2564.83 over 435 frames.
+c665 فیض نے <oov> سے <oov> <oov> ہوا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c666, best cost 108.212 + 2664.91 = 2773.12 over 438 frames.
+c666 <oov> سے <oov> <oov> پر <oov> سے <oov> لئے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c667, best cost 110.986 + 2549.11 = 2660.1 over 395 frames.
+c667 <oov> <oov> سے <oov> <oov> <oov> کی <oov> <oov> ہوئی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c668, best cost 136.937 + 3591.09 = 3728.03 over 613 frames.
+c668 <oov> کے <oov> <oov> والے <oov> کا <oov> <oov> سے <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c669, best cost 90.8608 + 2747.12 = 2837.98 over 458 frames.
+c669 <oov> <oov> کے <oov> نہیں کیا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c670, best cost 50.5689 + 2442.67 = 2493.24 over 383 frames.
+c670 <oov> <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c671, best cost 152.466 + 3912.91 = 4065.37 over 624 frames.
+c671 <oov> سے پہلے <oov> کے <oov> نے کہا <oov> کے <oov> <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c672, best cost 122.399 + 3380.24 = 3502.64 over 589 frames.
+c672 <oov> <oov> <oov> غوث صدر <oov> کا <oov> ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c673, best cost 135.973 + 2322.23 = 2458.21 over 407 frames.
+c673 پڑا ہی کے <oov> <oov> نسل کے <oov> <oov> آئے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c674, best cost 135.459 + 3508.27 = 3643.73 over 592 frames.
+c674 <oov> <oov> میں بڑھ کا پر <oov> <oov> نے کی کوشش کی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c675, best cost 84.9371 + 2518.16 = 2603.1 over 403 frames.
+c675 <oov> <oov> <oov> <oov> کا <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c676, best cost 163.863 + 2954.29 = 3118.16 over 480 frames.
+c676 <oov> ہائش کی <oov> کر نتیجہ <oov> نے <oov> <oov> پر رکھ تھی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c677, best cost 157.083 + 3650.68 = 3807.76 over 605 frames.
+c677 <oov> <oov> کی <oov> <oov> <oov> صبوحی <oov> کی ہیبت سے <oov> گیا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c678, best cost 173.572 + 4245.45 = 4419.02 over 737 frames.
+c678 <oov> <oov> <oov> کو <oov> سے <oov> آنے کے <oov> <oov> سے <oov> <oov> کریں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c679, best cost 102.604 + 2218.12 = 2320.73 over 365 frames.
+c679 <oov> اور <oov> پر <oov> لگایا <oov> لی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c680, best cost 73.1137 + 2977.49 = 3050.6 over 480 frames.
+c680 <oov> <oov> <oov> آ جاتا ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c681, best cost 106.011 + 3061.96 = 3167.97 over 504 frames.
+c681 <oov> کو <oov> کی <oov> پر <oov> <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c682, best cost 149.603 + 3259.39 = 3408.99 over 554 frames.
+c682 <oov> کرنا <oov> کر <oov> اسکے <oov> ہر معلوم کیے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c683, best cost 122.455 + 3311.16 = 3433.62 over 524 frames.
+c683 <oov> سے <oov> <oov> <oov> کے <oov> سے نکھر گئی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c684, best cost 48.3301 + 2518.8 = 2567.13 over 392 frames.
+c684 <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c685, best cost 55.1029 + 2377.25 = 2432.35 over 390 frames.
+c685 <oov> <oov> <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c686, best cost 76.755 + 3190.71 = 3267.47 over 516 frames.
+c686 <oov> کے <oov> <oov> <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c687, best cost 151.848 + 3942.88 = 4094.72 over 644 frames.
+c687 <oov> کے <oov> کے کھول <oov> <oov> سے <oov> <oov> <oov> کرائی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c688, best cost 202.353 + 4328.54 = 4530.89 over 713 frames.
+c688 ہلکی <oov> کر <oov> <oov> گزار <oov> اور دیکھ <oov> کے <oov> <oov> <oov> کے <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c689, best cost 113.888 + 3430.94 = 3544.83 over 541 frames.
+c689 <oov> جان <oov> اور <oov> <oov> کر <oov> ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c690, best cost 83.4909 + 1883.5 = 1966.99 over 315 frames.
+c690 <oov> پڑھ <oov> <oov> نہیں جاتا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c691, best cost 172.468 + 3394.51 = 3566.98 over 591 frames.
+c691 کی سی کی <oov> کیلئے آپ <oov> اور <oov> سے <oov> <oov> میں <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c692, best cost 163.023 + 2925.07 = 3088.1 over 523 frames.
+c692 <oov> نثار نے کہا کہ میں سے <oov> ں گاڑی کے <oov> <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c693, best cost 147.032 + 2468.7 = 2615.73 over 461 frames.
+c693 میں نے <oov> <oov> سے کہا کہ <oov> پر <oov> کر رائے مت دو 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c694, best cost 100.219 + 3174.25 = 3274.47 over 555 frames.
+c694 <oov> <oov> <oov> <oov> چوبند بنائی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c695, best cost 119.936 + 3347.61 = 3467.55 over 581 frames.
+c695 <oov> <oov> کو <oov> <oov> تو پانی میں <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c696, best cost 185.71 + 3450.16 = 3635.87 over 611 frames.
+c696 <oov> <oov> کے آمیز ایک <oov> مصنوعی <oov> کے بنانے کے لئے فراہم کیا جائے گا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c697, best cost 83.9948 + 2395.58 = 2479.58 over 415 frames.
+c697 <oov> <oov> کرنے کا کام ہو گا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c698, best cost 104.477 + 2771.69 = 2876.17 over 477 frames.
+c698 <oov> سے شفاف <oov> <oov> لینے لگا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c699, best cost 155.698 + 3862.28 = 4017.98 over 669 frames.
+c699 <oov> کار کی <oov> میں <oov> کے <oov> بے حرمتی کا <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c700, best cost 99.4573 + 3857.03 = 3956.48 over 621 frames.
+c700 <oov> کی LOG (lattice-scale[5.5.383~1-bd1d]:main():lattice-scale.cc:107) Done 71 lattices.
+<oov> <oov> کی <oov> ہو 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c701, best cost 146.91 + 4193.85 = 4340.76 over 722 frames.
+c701 مضمون <oov> <oov> کو غزل کی <oov> <oov> کر <oov> <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c702, best cost 103.578 + 2608.55 = 2712.13 over 467 frames.
+c702 غیر فیصلہ <oov> میں ہر ایک <oov> 
+LOG (lattice-add-penalty[5.5.383~1-bd1d]:main():lattice-add-penalty.cc:62) Done adding word insertion penalty to 71 lattices.
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c703, best cost 83.3472 + 2683.33 = 2766.67 over 478 frames.
+c703 <oov> کے <oov> <oov> ہوتا ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c704, best cost 90.4915 + 3223.29 = 3313.78 over 564 frames.
+c704 <oov> <oov> <oov> کے <oov> ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c705, best cost 119.765 + 3108.8 = 3228.56 over 535 frames.
+c705 <oov> <oov> <oov> پر لاگت <oov> سے بڑھ گئی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c706, best cost 99.1572 + 2996.32 = 3095.48 over 492 frames.
+c706 <oov> <oov> کے آنکھیں <oov> تو <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c707, best cost 77.8971 + 2138.16 = 2216.06 over 355 frames.
+c707 <oov> کو <oov> <oov> پڑے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c708, best cost 115.647 + 3171.07 = 3286.72 over 527 frames.
+c708 جنگ <oov> سے پہلے <oov> <oov> اور <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:124) Overall cost per frame is 6.18919 = 0.220043 [graph] + 5.96914 [acoustic] over 37498 frames.
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:128) Done 71 lattices, failed for 0
+# Accounting: time=0 threads=1
+# Ended (code 0) at Tue Jun 18 17:10:48 IST 2019, elapsed time 0 seconds

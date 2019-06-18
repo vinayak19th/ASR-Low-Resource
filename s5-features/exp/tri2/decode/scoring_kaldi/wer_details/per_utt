@@ -1,0 +1,284 @@
+c638 ref  کانجو   گجر   کی  شیڈو  ڈرائینگ  میں  کنویں  سورج   اور   کوٹھری  کو  کھڑکی    کے   غلاف  سے   جچیں
+c638 hyp   ***   <oov>  کی   ***   <oov>   میں   ***    ***  <oov>   <oov>  کو   ***   <oov>   کی   کے  <oov>
+c638 op     D      S     C    D      S      C     D      D     S       S     C    D      S      S    S    S  
+c638 #csid 3 8 0 5
+c639 ref  حیف   کہ   دختر  کی   دکھے  دل  سے  تجہیز  کر  سکے   نہ  بدھ  کی   ظہر     تک   سانسیں   دبوچ   سکیں
+c639 hyp  ***  ***  <oov>  کی  <oov>  دل  سے  <oov>  کر  ***  ***   سے  کے  <oov>  <oov>    کی    <oov>  <oov>
+c639 op    D    D     S     C    S     C   C    S     C   D    D    S    S    S      S       S      S      S  
+c639 #csid 4 10 0 4
+c640 ref   چوک   کے   نیون  پر  بیٹھی  گیارہویں  سفیر  نے   ***   بیسویں  قونصل  کے  شوالا   کا   کچوری   کھوج  لگایا
+c640 hyp  <oov>  کے  <oov>  پر   بیٹھ    <oov>   سفیر  نے  <oov>   <oov>   صلح   کے  <oov>  والا    کا   <oov>  لگایا
+c640 op     S     C    S     C    S        S       C    C    I       S      S     C    S      S     S      S      C  
+c640 #csid 6 10 1 0
+c641 ref  اوہو  ہیلمٹ  اور  گھڑی  شگوفوں  کی  آتشبازی  دکھلا  کر  وین    سے    گریں
+c641 hyp   ***   ***   ***   ***   <oov>  کی    ***    <oov>  کر  ***  <oov>  <oov>
+c641 op     D     D     D     D      S     C     D       S     C   D     S      S  
+c641 #csid 2 4 0 6
+c642 ref  حرفوں  کے  ففٹی  میچز  سیکھے   تو   دشت     سے    نفوس  کی  پھوار   اٹھی
+c642 hyp  <oov>  کے   ***   ***   ***   ***  <oov>  <oov>  <oov>  کی  <oov>  <oov>
+c642 op     S     C    D     D     D     D     S      S      S     C    S      S  
+c642 #csid 2 6 0 4
+c643 ref  تفاعل  سے  نفل  پڑھیں  مخفف   اجر     سے   نہائیں  اور  دوغلے   راگ   سے  زائد  دہی  ڈالیں
+c643 hyp  <oov>  سے  ***  <oov>   پڑھ  <oov>  <oov>   <oov>  اور   ***   <oov>  سے  زائد  ***  <oov>
+c643 op     S     C   D     S      S     S      S       S     C     D      S     C    C    D     S  
+c643 #csid 4 8 0 3
+c644 ref   پچ  کھیلنی   ہے   تو  چھید  میں   ڈول   پروئیں  اور  زیبرا  بچھڑی  کے  سینگ    پر   سپننگ   ڈبہ   پھیریں
+c644 hyp  ***    ***   ***  ***   ***  ***  <oov>   <oov>  اور   زیب   <oov>  کے   ***  <oov>   پارس  <oov>   <oov>
+c644 op    D      D     D    D     D    D     S       S     C     S      S     C    D     S      S      S       S  
+c644 #csid 2 8 0 7
+c645 ref   ***    نیٹو  ڈیبٹ  کیس  میں   دوزخ  کے  سائے   بزور   مسخر  کرنے  کی  فاش  نقلیں  ہیں
+c645 hyp  <oov>  <oov>   کے    اس  میں  <oov>  کے  ثائب  <oov>  <oov>  کرنے  کی  ***  <oov>  ہیں
+c645 op     I      S      S    S    C     S     C    S     S      S      C    C   D     S     C 
+c645 #csid 5 8 1 1
+c646 ref  ساؤڑی   ناخن  چوسنے   اور   چگنے  کے  بعد   لاؤڈ  بیڑا   میں   دراڑیں  ڈالنے  آئی
+c646 hyp   ***   <oov>   اور   <oov>   نے   کے  بعد  <oov>   میں  <oov>   <oov>    نے   آئی
+c646 op     D      S      S      S      S    C   C     S      S     S       S      S     C 
+c646 #csid 3 9 0 1
+c647 ref  واچ  نگر   کے  خنازیر  گوند   نچوڑ    کر   دوروں  پر  آئے
+c647 hyp  ***  ***  ***   <oov>   گر   <oov>  <oov>  <oov>  پر  آئے
+c647 op    D    D    D      S      S     S      S      S     C   C 
+c647 #csid 2 5 0 3
+c648 ref  میلے  میں  دودھیا  چھاچھ   تنہا   خچر   کیلئے   کڑوا  تھا
+c648 hyp  میلے  میں    ***    ***   <oov>  <oov>  کیلئے  <oov>  تھا
+c648 op     C    C      D      D      S      S      C      S     C 
+c648 #csid 4 3 0 2
+c649 ref  پھپھو  کو  کنوینس  کرکے  بیٹھنے  کے  بعد  قوام   کا   نیڈل  لگایئے
+c649 hyp  <oov>  بس    کر     کے    <oov>  کے  بعد   ***  ***  <oov>   <oov>
+c649 op     S     S     S      S      S     C   C     D    D     S       S  
+c649 #csid 2 7 0 2
+c650 ref  ہجویری  تابعین  کی  سیرت  اور  سالمیت    ان   کے  نفلی   احیا  کے  رائج   تک   ایضا  ہے
+c650 hyp    ***    <oov>  کی   ***  ***    ***   <oov>  کے   ***  <oov>  کے   ***  ***  <oov>  ہے
+c650 op      D       S     C    D    D      D      S     C    D     S     C    D    D     S     C
+c650 #csid 4 4 0 7
+c651 ref   کوئل  کو  بھیرویں  میچوں  کی  کھوکھلی  گانٹھیں   اڑنے  سے  پہلے   ***   سونپی  تھیں
+c651 hyp  <oov>  کو   <oov>   <oov>  کی    ***     <oov>   <oov>  سے  پہلے  <oov>    پی   تھیں
+c651 op     S     C     S       S     C     D        S       S     C    C     I      S      C 
+c651 #csid 5 6 1 1
+c652 ref  پٹرولیم  کی  جھیلیں   تھم    گئیں  اور  لیکوئڈ  کینولا  میگھا   گوٹھ  کے  صدور   تک  پہنچیں
+c652 hyp   <oov>   کی   <oov>  <oov>  <oov>  اور   <oov>   <oov>  <oov>  <oov>  کے   ***  ***   <oov>
+c652 op      S      C     S      S      S     C      S       S      S      S     C    D    D      S  
+c652 #csid 3 9 0 2
+c653 ref  لوئر   براڈ   ویلز  کا  سیزن   ڈھل     کر     ذیل   کے  ہجری  دھائی    تک    کلوز  ہوا
+c653 hyp   ***  <oov>  <oov>  کا   ***  <oov>  اہلکار  <oov>  کے   ***   ***   <oov>  <oov>   وہ
+c653 op     D     S      S     C    D     S       S      S     C    D     D      S      S     S 
+c653 #csid 2 8 0 4
+c654 ref  کھڈی  اور  ڈیش  ہاؤسز   کی  اشیا   چوہے   اور   انسیکٹی   وورس  کے   معدہ  میں  سدھریں
+c654 hyp   ***  ***  ***   ***   ***   ***  <oov>  <oov>   <oov>   <oov>  کے  <oov>  میں   <oov>
+c654 op     D    D    D     D     D     D     S      S       S       S     C    S     C      S  
+c654 #csid 2 6 0 6
+c655 ref  نعم  بخش   کی  اچھائی  اوڈ   ڈی   لیفٹ  بجھانے    کا    عشق   ہے
+c655 hyp  ***  ***  ***    ***   ***  ***  <oov>   <oov>  <oov>  <oov>  ہے
+c655 op    D    D    D      D     D    D     S       S      S      S     C
+c655 #csid 1 4 0 6
+c656 ref  بیلز   سے  سجی   ایرو   ویگن  کا  زیریں   ہینڈ  بجائیں  اور  سوئم   و   چہارم   وید    حفظ   کریں
+c656 hyp   ***  ***  ***  <oov>  <oov>  کا   ***   <oov>   <oov>  اور   ***  ***  <oov>  <oov>  <oov>  کریں
+c656 op     D    D    D     S      S     C    D      S       S     C     D    D     S      S      S      C 
+c656 #csid 3 7 0 6
+c657 ref  ہاں    گل    افگن   زین   کے   کیفر  کردار  کی  حد  سے   مفر   نہیں
+c657 hyp  ***  <oov>  <oov>  <oov>  کے  <oov>  کردار  کی  حد  سے  <oov>  نہیں
+c657 op    D     S      S      S     C    S      C     C   C   C    S      C 
+c657 #csid 6 5 0 1
+c658 ref  لنڈ  ووڈ   کا  میوہ   لوئی  ویئرز  کی  باچھ   سے  گذاروں
+c658 hyp  ***  ***  ***   ***  <oov>  <oov>  کی   ***  ***   <oov>
+c658 op    D    D    D     D     S      S     C    D    D      S  
+c658 #csid 1 3 0 6
+c659 ref  مٹی   کھود  کر  بچھائیں  اور   کوڑی  کا  تخم  غور    و     خوض   کے  بعد  بوئیں   یا  پھر  سوئیں
+c659 hyp  ***  <oov>  کر   <oov>   اور  <oov>  کا  ***  ***  <oov>  <oov>  کے  بعد   ***   ***  ***  <oov>
+c659 op    D     S     C     S      C     S     C   D    D     S      S     C   C     D     D    D     S  
+c659 #csid 5 6 0 6
+c660 ref   اوئے  برہان  کے  بقعہ  اضلاع   میں   نہیں  گھسنا
+c660 hyp  <oov>  <oov>  کے   ***  <oov>  <oov>  نہیں  <oov>
+c660 op     S      S     C    D     S      S      C     S  
+c660 #csid 2 5 0 1
+c661 ref   قذف   لینے  کیلئے  بچھو  پر  حمل    کا   ڈاہا  رگ  دبائیں
+c661 hyp  <oov>  لینے   ***    ***  کے  لئے  <oov>   پر   ہم   <oov>
+c661 op     S      C     D      D    S   S     S      S    S     S  
+c661 #csid 1 7 0 2
+c662 ref   کٹھن  جھونکوں  کی  آندھیاں   چلیں    تو   سیاروں  کی  تشبیہیں  بگڑیں
+c662 hyp  <oov>   <oov>   کو     کی    <oov>  <oov>   <oov>  کی   <oov>   <oov>
+c662 op     S       S      S     S       S      S       S     C     S       S  
+c662 #csid 1 9 0 0
+c663 ref  پیروں  نے  جہاں  چاہے  مکعب  انگوٹھیاں  ارسال   کیں   تو  گیندے  کی  تمحیص   وقوع  ہوئی
+c663 hyp  <oov>  نے  جہاں   ***  چائے    <oov>    <oov>  <oov>  تو  <oov>  کی  <oov>  <oov>  ہوئی
+c663 op     S     C    C     D     S       S        S      S     C    S     C    S      S      C 
+c663 #csid 5 8 0 1
+c664 ref  فلاں  سیارے  کے  براعظم  میں  تعینات  گوریلے   کا  نزول   ہوا   تو  ایلچی  کے  رونگٹے   کھڑے  ہو  گئے
+c664 hyp   ***  <oov>  کے   <oov>  میں    ***     ***   ***   ***  <oov>  نہ  <oov>  کے   <oov>  <oov>  ہو   گئ
+c664 op     D     S     C     S     C      D       D     D     D     S     S    S     C     S      S     C   S 
+c664 #csid 4 8 0 5
+c665 ref  فیض  نے  خصال   راوی  سے  سگریٹ  چھینی    تو     حج    بخیر  ہوا
+c665 hyp  فیض  نے   ***  <oov>  سے   ***    ***   <oov>  <oov>  <oov>  ہوا
+c665 op    C    C    D     S     C    D      D      S      S      S     C 
+c665 #csid 4 4 0 3
+c666 ref   دھوم  سے  ہوئے   اول    چہلم  پر  آقا   کا  تبصرہ  خیر    سے   بھولیے
+c666 hyp  <oov>  سے   ***  <oov>  <oov>  پر  ***  ***  <oov>   سے  <oov>    لئے 
+c666 op     S     C    D     S      S     C   D    D     S     S     S       S  
+c666 #csid 2 7 0 3
+c667 ref  پگھلی   بھیل  کے   داڑھ  سے   ***    چمٹے  بھوسے  کی  گٹھلی   بھسم  ہوئی
+c667 hyp  <oov>  <oov>  کے  <oov>  سے  <oov>  <oov>  بھوسے  کی  <oov>  <oov>  ہوئی
+c667 op     S      S     C    S     C    I      S      C     C    S      S      C 
+c667 #csid 5 6 1 0
+c668 ref  سانگی  فلور   وھیل  کے   پلڑے  میں   اگنے  والے   جھنڈ  کا  پچھلا  آبیانہ   ہیئت  سے  جعل   نکلا
+c668 hyp   ***    ***  <oov>  کے  <oov>  میں  <oov>  والے  <oov>  کا   ***    <oov>  <oov>  سے  ***  <oov>
+c668 op     D      D     S     C    S     C     S      C     S     C    D       S      S     C   D     S  
+c668 #csid 5 7 0 4
+c669 ref  اولڈ  خازن  نوفل  بورڈ    نے    یوزر  کیلئے   رزلٹ   لوڈ   نہیں  کیا
+c669 hyp   ***   ***   ***   ***  <oov>  <oov>    کے   <oov>  <oov>  نہیں  کیا
+c669 op     D     D     D     D     S      S      S      S      S      C    C 
+c669 #csid 2 5 0 4
+c670 ref  روزے   کا  آخری  عشرہ   ہے  ایک  حصہ  ڈونگا  پکوڑوں  کا   تلوں
+c670 hyp   ***  ***   ***   ***  ***  ***  ***  <oov>   <oov>  کا  <oov>
+c670 op     D    D     D     D    D    D    D     S       S     C    S  
+c670 #csid 1 3 0 7
+c671 ref   غشی   سے  پہلے   سو   سال   کی  بڑھیا  نے  کہا  سونف  اور  اسبغول  کے  سفوف  جھولی   میں     دو   اور  جئے   جاؤ 
+c671 hyp  <oov>  سے  پہلے  ***  <oov>  کے  <oov>  نے  کہا   ***  ***   <oov>  کے   ***   ***   <oov>  <oov>  اور  ***  <oov>
+c671 op     S     C    C    D     S     S    S     C   C     D    D      S     C    D     D      S      S     C    D     S  
+c671 #csid 6 8 0 6
+c672 ref  انٹرمیڈیٹ  شوز  چلائیں  تو  فرقان   ولد   سرور  اوسط   درجے  کا  پگھلا  ہے
+c672 hyp     ***     ***   <oov>  تو  <oov>  <oov>   غوث   صدر  <oov>  کا  <oov>  ہے
+c672 op       D       D      S     C    S      S      S     S     S     C    S     C
+c672 #csid 3 7 0 2
+c673 ref  کڑاہی   کے  چانپ  گنواتے   ہوئے   جوزی  نسل  کے   ***    بیل   پھڑپھڑائے
+c673 hyp   ***   پڑا   ہی     کے    <oov>  <oov>  نسل  کے  <oov>  <oov>     آئے   
+c673 op     D     S     S      S      S      S     C    C    I      S        S    
+c673 #csid 2 7 1 1
+c674 ref  نشو    نے    پلو   میں   بڑ  کا  پرچہ  گانٹھ  کر  ہموار   ہینگ  ٹھونسنے  کی  کوشش  کی
+c674 hyp  ***  <oov>  <oov>  میں  بڑھ  کا   ***   ***   پر  <oov>  <oov>     نے    کی  کوشش  کی
+c674 op    D     S      S     C    S    C    D     D     S    S      S       S      C    C    C
+c674 #csid 5 7 0 3
+c675 ref   آر   جے  بروری   کے   رویے  پر  سوچیں    تو    تعفن  کا  بہاؤ  اڑائے
+c675 hyp  ***  ***   ***   ***  <oov>  پر   سوچ   <oov>  <oov>  کا   ***  <oov>
+c675 op    D    D     D     D     S     C    S      S      S     C    D     S  
+c675 #csid 2 5 0 5
+c676 ref  اپنی  رہائش  کی   سیج   کا  نتیجہ  کھوئے   زوار  نے  انگشت   جبڑے  پر  رکھ    دی 
+c676 hyp  اپنی  رہائش  کی  <oov>  کر  نتیجہ   ***   <oov>  نے  <oov>  <oov>  پر  رکھ  <oov>
+c676 op     C     C     C    S     S    C      D      S     C    S      S     C   C     S  
+c676 #csid 7 6 0 1
+c677 ref  نثار    نے    گھیا  کی  گٹھلی  بوئی  مگر   بعد    ازاں    وہ   صبوحی  روگردانی  کی  ہیبت  سے   دہل   گیا
+c677 hyp   ***  <oov>  <oov>  کی   ***    ***  ***  <oov>  <oov>  <oov>  صبوحی    <oov>   کی  ہیبت  سے  <oov>  گیا
+c677 op     D     S      S     C    D      D    D     S      S      S      C        S      C    C    C    S     C 
+c677 #csid 6 7 0 4
+c678 ref  صنف  نسواں    کو    ٹیلی  فیر  ٹراؤزر  والوں    سے   چھڑانے  کیلئے  ہائیڈروجن   فلیگ  سے  مشقیں   شیئر  کریں
+c678 hyp  ***  <oov>  <oov>  <oov>   کو   <oov>    سے   <oov>    آنے     کے     <oov>    <oov>  سے  <oov>  <oov>  کریں
+c678 op    D     S      S      S     S      S      S      S       S      S        S        S     C    S      S      C 
+c678 #csid 2 13 0 1
+c679 ref  ٹھوڑی  اور   ایڑی  پر   چیر   لگایا   تو   سحر   تیزی    سے   اچھلی
+c679 hyp  <oov>  اور  <oov>  پر  <oov>  لگایا  ***  <oov>  تیزی  <oov>    لی 
+c679 op     S     C     S     C    S      C     D     S      C     S      S  
+c679 #csid 4 6 0 1
+c680 ref   چولی  کا  جوڑا  پہنتے  ہوئے  بیٹھو   تو  لائیو  اپھارہ  برسنے   میں   ٹھہراؤ  آ  جاتا  ہے
+c680 hyp  <oov>  کا  جوڑا   ***    ***   ***   ***   ***     پہن   <oov>  <oov>   <oov>  آ  جاتا  ہے
+c680 op     S     C    C     D      D     D     D     D       S      S      S       S    C    C    C
+c680 #csid 5 5 0 5
+c681 ref  گدا  چشم   جیش   کو   گہر   کی  ڈھارس  ہوئی   تو   وہ   لون   پر  بچھی   دھار    پر    سویا
+c681 hyp  ***  ***  <oov>  کو  <oov>  کی   ***    ***  ***  ***  <oov>  پر   ***  <oov>  <oov>  <oov>
+c681 op    D    D     S     C    S     C    D      D    D    D     S     C    D     S      S      S  
+c681 #csid 3 6 0 7
+c682 ref  بیف  اور  چھوہارے  کی  لوٹ   پر  ہیجڑے   کا    ناچ   نچا    کر   بوائز    کے   جوہر  معلوم  کئے
+c682 hyp  ***  ***   <oov>   کی  ***  ***  <oov>  کرنا  <oov>   کر  <oov>   اسکے  <oov>   ہر   معلوم  کیے
+c682 op    D    D      S      C   D    D     S      S     S     S     S      S      S      S     C     S 
+c682 #csid 2 10 0 4
+c683 ref   ریڑھ  سے  ماؤتھ   کی  جڑوں   تک   این    ایم    نینی   ردیف  کے   ایز   سے  نکھر  گئی
+c683 hyp  <oov>  سے   ***   ***   ***  ***  <oov>  <oov>  <oov>  <oov>  کے  <oov>  سے  نکھر  گئی
+c683 op     S     C    D     D     D    D     S      S      S      S     C    S     C    C    C 
+c683 #csid 5 6 0 4
+c684 ref  نیور   بی  فول  خواہ  ایگزٹ  کے  کیو  میں  ملوں   یا  رئیل  پلگ  تک   آؤں 
+c684 hyp   ***  ***  ***   ***  <oov>  کے  ***  ***   ***  ***   ***  ***  کی  <oov>
+c684 op     D    D    D     D     S     C   D    D     D    D     D    D    S    S  
+c684 #csid 1 3 0 10
+c685 ref   جو  فلک  بوس   ای   ون  چئر  بخشے   اسے    کہاں    سے    لاؤں   گدھو
+c685 hyp  ***  ***  ***  ***  ***  ***   ***  <oov>  <oov>  <oov>  <oov>  <oov>
+c685 op    D    D    D    D    D    D     D     S      S      S      S      S  
+c685 #csid 0 5 0 7
+c686 ref  سوئفٹ   گیند  کے  سرخیل   وہپ    فشر   سے  بنیادی  میسج   کا  شوشہ  پوچھو
+c686 hyp   ***   <oov>  کے  <oov>  <oov>  <oov>  سے    ***    ***  ***   ***  <oov>
+c686 op     D      S     C    S      S      S     C     D      D    D     D     S  
+c686 #csid 2 5 0 5
+c687 ref  سوک   کوئز  کے   بد  سلوک    سے   آنکھیں  کھولیں    تو     حب   اغراض  سے  چیخ   مار   کر   توجہ  مبذول  کرائی
+c687 hyp  ***  <oov>  کے  ***   ***  <oov>    کے     کھول   <oov>  <oov>  <oov>  سے  ***  <oov>  کر  <oov>  <oov>  کرائی
+c687 op    D     S     C   D     D     S       S       S      S      S      S     C   D     S     C    S      S      C  
+c687 #csid 4 10 0 4
+c688 ref  ہلکی  پھلکی  چادر   بچھ   بچھا  کر  سنچریاں  گذاروں   اور  دیگچی   کے   بیخ   میں   نہاں   مونگ    کے   پراٹھے  داغے   جاؤں
+c688 hyp  ہلکی  <oov>   کی   چادر  <oov>  کر   <oov>    <oov>  گزار  <oov>  اور  دیکھ  <oov>   کے   <oov>  <oov>   <oov>   کے   <oov>
+c688 op     C     S      S     S     S     C     S        S      S     S     S     S     S      S     S      S       S      S     S  
+c688 #csid 2 17 0 0
+c689 ref  بوجھو   تو  بھڑ  جیسا  کیڑا  کیا  جانوں   جو   غول  بنائے  اور   سوسو  فصلیں  کچل    کر   چھائے
+c689 hyp   ***   ***  ***   ***   ***  ***  <oov>  کِیا  جان  <oov>  اور  <oov>  <oov>   کر  <oov>    ہے 
+c689 op     D     D    D     D     D    D     S      S    S     S     C     S      S     S     S      S  
+c689 #csid 1 9 0 6
+c690 ref   یہ  گتھیاں    نہ   پڑھائیں   کہ   شعلے  کو   چھوا  نہیں  جاتا
+c690 hyp  ***    ***   <oov>   <oov>   پڑھ  <oov>  کے  <oov>  نہیں  جاتا
+c690 op    D      D      S       S      S     S     S    S      C     C 
+c690 #csid 2 6 0 2
+c691 ref  ***  کسی  کی  دلجوئی  کیلئے  اپنا  جگر  دھویا  اور  ہندسے  ٹھونسا    کر   معینات  میں  ٹھونس   دیئے
+c691 hyp   کی   سی  کی   <oov>  کیلئے   آپ   نجی  <oov>  اور  <oov>    سے    <oov>   <oov>  میں   ***   <oov>
+c691 op    I    S    C     S      C      S    S     S     C     S       S      S       S     C     D      S  
+c691 #csid 4 10 1 1
+c692 ref   بد   خُو   نثار  نے  کہا  کہ  میں  اسے  بھوسہ   بھرے  ہتھ  گاڑی  کے  بہی  کھاتے  دلواؤں
+c692 hyp  ***  <oov>  نثار  نے  کہا  کہ  میں  ***    سے   <oov>   ں   گاڑی  کے  ***  <oov>   <oov>
+c692 op    D     S      C    C   C    C   C    D     S      S     S     C    C   D     S       S  
+c692 #csid 7 6 0 3
+c693 ref  میں  نے   حق    کے    جویا  سے  کہا  کہ  وقائع  پر   بھنا  کر  رائے  مت  دو
+c693 hyp  میں  نے  ***  <oov>  <oov>  سے  کہا  کہ  <oov>  پر  <oov>  کر  رائے  مت  دو
+c693 op    C    C   D     S      S     C   C    C    S     C    S     C    C    C   C
+c693 #csid 10 4 0 1
+c694 ref  ترن   کا  چوڑا   شش  پایہ  کھر  صاحب   کو   جچے    اور    اسے   ہی   چاق     و    چوبند  بنائے
+c694 hyp  ***  ***   ***  ***   ***  ***   ***  ***  <oov>  <oov>  <oov>  ہر  <oov>  چوبند    بن    آئے 
+c694 op    D    D     D    D     D    D     D    D     S      S      S     S    S      S      S      S  
+c694 #csid 0 8 0 8
+c695 ref  کھوئی  کی  جانب   کچھے   جانے  کو  کیا  روؤں  اگر   کھنچ   جاؤں  تو  پانی  میں  گھل   جاؤں
+c695 hyp  <oov>  کی   ***  <oov>  <oov>  کو  ***   ***  ***  <oov>  <oov>  تو  پانی  میں  ***  <oov>
+c695 op     S     C    D     S      S     C   D     D    D     S      S     C    C    C    D     S  
+c695 #csid 5 6 0 5
+c696 ref  کیلشم  فاسفیٹ  کے   ***  آمیزے    کو   مصنوعی  مسوڑوں  کے  بنانے  کیلئے  فراہم  کیا  جائے  گا
+c696 hyp  <oov>   <oov>  کے  آمیز   ایک   <oov>  مصنوعی   <oov>  کے  بنانے  کیلئے  فراہم  کیا  جائے  گا
+c696 op     S       S     C    I     S      S       C       S     C    C      C      C     C     C    C
+c696 #csid 9 5 1 0
+c697 ref  بلور  کاؤچ   سے  سویلین   تمغے  ڈیزائن  کرنے  کا  کام  ہو  گا
+c697 hyp   ***   ***  ***    ***   <oov>   <oov>  کرنے  کا  کام  ہو  گا
+c697 op     D     D    D      D      S       S      C    C   C    C   C
+c697 #csid 5 2 0 4
+c698 ref  بارہواں  ہمزاد  دوربین  سے  شفاف  بائیوس    کا   جائزہ  لینے  لگا
+c698 hyp    ***     ***    <oov>  سے  شفاف    ***   <oov>  <oov>  لینے  لگا
+c698 op      D       D       S     C    C      D      S      S      C    C 
+c698 #csid 4 3 0 3
+c699 ref  نجف   کے  فیوض    و    افکار  کی   چھڑی  میں  بدائع  کے   عیب   یعنی  بےحرمتی  کا   مت   سوچو
+c699 hyp  ***  ***   ***  <oov>   کار   کی  <oov>  میں  <oov>  کے  <oov>   بے    حرمتی   کا  ***  <oov>
+c699 op    D    D     D     S      S     C    S     C     S     C    S      S      S      C   D     S  
+c699 #csid 4 8 0 4
+c700 ref  گوشت  اور   پھوگ  کی  تقلیل   میں   تغافل  کی  سوجی  چھڑک   کر   وثوق    سے   اُٹھو
+c700 hyp   ***  ***  <oov>  کی   ***   <oov>  <oov>  کی   ***   ***  ***  <oov>  <oov>  <oov>
+c700 op     D    D     S     C    D      S      S     C    D     D    D     S      S      S  
+c700 #csid 2 6 0 6
+c701 ref  مضمون  بعنوان  بونوں  کو  غزل  کی   تہمت  ناچیز  سے  کہلوا  کر  معزز  قوتوں  کو  سمجھایا
+c701 hyp  مضمون   <oov>  <oov>  کو  غزل  کی  <oov>  <oov>  سے  <oov>  کر   ***  <oov>  کو   <oov> 
+c701 op     C       S      S     C   C    C    S      S     C    S     C    D     S     C     S   
+c701 #csid 7 7 0 1
+c702 ref  غیرفیصلہ  عقوبت    کی    رود   میں  ہر  ایک   کو  شاذ   و   نادر   بخشو
+c702 hyp     ***     غیر   فیصلہ  <oov>  میں  ہر  ایک  ***  ***  ***   ***  <oov>
+c702 op       D       S      S      S     C    C   C    D    D    D     D     S  
+c702 #csid 3 4 0 5
+c703 ref  پیراتھرائیڈ   سے  تولیدی   جین   کے  پھیپھڑوں    کا    غبار  ظاہر  ہوتا  ہے
+c703 hyp      ***      ***   <oov>  <oov>  کے     ***    <oov>  <oov>  ظاہر  ہوتا  ہے
+c703 op        D        D      S      S     C      D       S      S      C     C    C
+c703 #csid 4 4 0 3
+c704 ref  چوتھا  ایوننگ   سیشن  متعینہ  زاویوں  کے  انضباطی  پھیلاؤ   کا  پراسیس  ہے
+c704 hyp  <oov>    سے    <oov>   <oov>   <oov>  کے    ***     <oov>  آتی   <oov>  ہے
+c704 op     S       S      S       S       S     C     D        S     S      S     C
+c704 #csid 2 8 0 1
+c705 ref   بوجہ  غبن  مائیکروویوز  ایجاد  پر  لاگت   آٹھ   ہندسوں  سے  بڑھ  گئی
+c705 hyp  <oov>   بن     <oov>     <oov>  پر  لاگت  <oov>   <oov>  سے  بڑھ  گئی
+c705 op     S     S        S         S     C    C     S       S     C   C    C 
+c705 #csid 5 6 0 0
+c706 ref   بجز    خفیف   غیظ   کے  آنکھیں  دکھیں  تو   مت   میچو
+c706 hyp  <oov>  <oov>  <oov>  کے  آنکھیں  <oov>  تو  ***  <oov>
+c706 op     S      S      S     C     C      S     C   D     S  
+c706 #csid 3 5 0 1
+c707 ref   ماضی  کو  بھلایا   ہے    تو   آگے  بڑھیں  یونہی  گناہوں  میں    نہ   پڑیں
+c707 hyp  <oov>  کو    ***   ***  <oov>  آگے   ***    ***     ***   بڑھ  <oov>   پڑے
+c707 op     S     C     D     D     S     C     D      D       D     S     S      S 
+c707 #csid 2 5 0 5
+c708 ref  جنگ  چھڑنے  سے  پہلے   بروے  نے  مجھے  کچھ  آڑھا  سیدھا  طریقہ  اور  مشق  سمجھائے
+c708 hyp  جنگ  <oov>  سے  پہلے  <oov>  نے  مجھے  ***   ***   ***   <oov>  اور  ***   <oov> 
+c708 op    C     S     C    C     S     C    C    D     D     D      S     C    D      S   
+c708 #csid 6 4 0 4

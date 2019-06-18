@@ -1,0 +1,17 @@
+# compute-mfcc-feats --write-utt2dur=ark,t:exp/make_mfcc/test/utt2dur.8 --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/wav_test.8.scp ark:- | copy-feats --write-num-frames=ark,t:exp/make_mfcc/test/utt2num_frames.8 --compress=true ark:- ark,scp:/media/vinayak/d/kaldi/egs/urdu/s5/mfcc/raw_mfcc_test.8.ark,/media/vinayak/d/kaldi/egs/urdu/s5/mfcc/raw_mfcc_test.8.scp 
+# Started at Tue Jun 18 17:05:30 IST 2019
+#
+copy-feats --write-num-frames=ark,t:exp/make_mfcc/test/utt2num_frames.8 --compress=true ark:- ark,scp:/media/vinayak/d/kaldi/egs/urdu/s5/mfcc/raw_mfcc_test.8.ark,/media/vinayak/d/kaldi/egs/urdu/s5/mfcc/raw_mfcc_test.8.scp 
+compute-mfcc-feats --write-utt2dur=ark,t:exp/make_mfcc/test/utt2dur.8 --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/wav_test.8.scp ark:- 
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c701
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c702
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c703
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c704
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c705
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c706
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c707
+VLOG[2] (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:182) Processed features for key c708
+LOG (compute-mfcc-feats[5.5.383~1-bd1d]:main():compute-mfcc-feats.cc:185)  Done 8 out of 8 utterances.
+LOG (copy-feats[5.5.383~1-bd1d]:main():copy-feats.cc:143) Copied 8 feature matrices.
+# Accounting: time=0 threads=1
+# Ended (code 0) at Tue Jun 18 17:05:30 IST 2019, elapsed time 0 seconds

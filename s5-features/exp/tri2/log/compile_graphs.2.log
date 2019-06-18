@@ -1,0 +1,29 @@
+# compile-train-graphs --read-disambig-syms=data/lang/phones/disambig.int exp/tri2/tree exp/tri2/1.mdl data/lang/L.fst "ark:utils/sym2int.pl --map-oov 2 -f 2- data/lang/words.txt < data/train/split8/2/text |" "ark:|gzip -c >exp/tri2/fsts.2.gz" 
+# Started at Tue Jun 18 17:09:13 IST 2019
+#
+compile-train-graphs --read-disambig-syms=data/lang/phones/disambig.int exp/tri2/tree exp/tri2/1.mdl data/lang/L.fst 'ark:utils/sym2int.pl --map-oov 2 -f 2- data/lang/words.txt < data/train/split8/2/text |' 'ark:|gzip -c >exp/tri2/fsts.2.gz' 
+sym2int.pl: replacing ملت with 2
+sym2int.pl: replacing ڈوگر with 2
+sym2int.pl: replacing میمن with 2
+sym2int.pl: replacing ریلی with 2
+sym2int.pl: replacing مقرر with 2
+sym2int.pl: replacing مرچنٹ with 2
+sym2int.pl: replacing پرچھائیں with 2
+sym2int.pl: replacing ویوز with 2
+sym2int.pl: replacing پڑی with 2
+sym2int.pl: replacing قادری with 2
+sym2int.pl: replacing خزاں with 2
+sym2int.pl: replacing رسیدہ with 2
+sym2int.pl: replacing جن with 2
+sym2int.pl: replacing کالجز with 2
+sym2int.pl: replacing فہرستیں with 2
+sym2int.pl: replacing ریڈ with 2
+sym2int.pl: replacing کمشنر with 2
+sym2int.pl: replacing اشجار with 2
+sym2int.pl: replacing گیراج with 2
+sym2int.pl: replacing پیڑی with 2
+sym2int.pl: not warning for OOVs any more times
+** Replaced 464 instances of OOVs with 2
+LOG (compile-train-graphs[5.5.383~1-bd1d]:main():compile-train-graphs.cc:147) compile-train-graphs: succeeded for 79 graphs, failed for 0
+# Accounting: time=1 threads=1
+# Ended (code 0) at Tue Jun 18 17:09:14 IST 2019, elapsed time 1 seconds

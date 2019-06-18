@@ -1,0 +1,154 @@
+# lattice-scale --inv-acoustic-scale=15 "ark:gunzip -c exp/mono/decode/lat.*.gz|" ark:- | lattice-add-penalty --word-ins-penalty=1.0 ark:- ark:- | lattice-best-path --word-symbol-table=exp/mono/graph/words.txt ark:- ark,t:- | utils/int2sym.pl -f 2- exp/mono/graph/words.txt | cat > exp/mono/decode/scoring_kaldi/penalty_1.0/15.txt 
+# Started at Tue Jun 18 17:07:28 IST 2019
+#
+lattice-add-penalty --word-ins-penalty=1.0 ark:- ark:- 
+lattice-scale --inv-acoustic-scale=15 'ark:gunzip -c exp/mono/decode/lat.*.gz|' ark:- 
+lattice-best-path --word-symbol-table=exp/mono/graph/words.txt ark:- ark,t:- 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c638, best cost 162.976 + 4245.82 = 4408.8 over 693 frames.
+c638 <oov> کی شرح میں کوئی <oov> کو کی کے خلاف سجے چلیں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c639, best cost 178.742 + 3848.35 = 4027.1 over 630 frames.
+c639 غیرت کے دفتر کے دکھ درد سے تجویز کر سکینہ بھوک <oov> سکیں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c640, best cost 256.477 + 4291.8 = 4548.28 over 710 frames.
+c640 شام کے نیا پر بیٹھ گیارہ سفیر نے تیسری کونسل کے شکوہ لا کا چوری کو لگایا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c641, best cost 120.419 + 2720.53 = 2840.94 over 436 frames.
+c641 کو ہلو <oov> کی آتش بازی اطلاع کرنسی گی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c642, best cost 123.915 + 3287.66 = 3411.57 over 533 frames.
+c642 عرفان <oov> سیکھی <oov> مخوص کی <oov> تھی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c643, best cost 179.741 + 3805.72 = 3985.46 over 622 frames.
+c643 تحفہ حسن <oov> خوف افواج ایسے نہیں اور <oov> سے زائد دیہی ڈالیں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c644, best cost 205.301 + 4170.39 = 4375.69 over 685 frames.
+c644 کھیل نیت اچھے <oov> اور زیور لا بچی کیسی پاس <oov> دبا پر ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c645, best cost 165.731 + 3590.64 = 3756.37 over 584 frames.
+c645 <oov> کیس میں <oov> صاحب زور <oov> کرنے کی فحاشی نکلیں گیں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c646, best cost 152.194 + 3147.99 = 3300.19 over 504 frames.
+c646 <oov> بننے کے بعد لاو بڑا میں تارا <oov> لے آئی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c647, best cost 96.3252 + 2199.21 = 2295.54 over 356 frames.
+c647 بچنے <oov> جوڑ کرداروں پر آئے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c648, best cost 148.864 + 2488.63 = 2637.5 over 415 frames.
+c648 میلے میں طوطی اچانک <oov> تنہا خط چپکے کروا تھا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c649, best cost 159.806 + 3446.47 = 3606.27 over 580 frames.
+c649 حقوق کو تندرست کر کے بیٹھے کے بعد عوام کا نکل آئی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c650, best cost 149.721 + 3508.4 = 3658.12 over 580 frames.
+c650 <oov> کثیر تسلی انکے نفری اہلیہ کرائی <oov> ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c651, best cost 150.392 + 2890 = 3040.39 over 470 frames.
+c651 کو ہلو بھری میچ کی کوٹلی <oov> سے پہلے <oov> کی تھی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c652, best cost 161.273 + 4696.24 = 4857.51 over 761 frames.
+c652 <oov> کیجئیے تھام <oov> اور <oov> کے سطور تک آ پہنچی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c653, best cost 180.349 + 3991.92 = 4172.27 over 660 frames.
+c653 لوئر برانڈس <oov> کا سیدن اہلکار زیرِ کے دہانی <oov> <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c654, best cost 152.629 + 3351.68 = 3504.3 over 542 frames.
+c654 <oov> سسکیاں شجر حارثہ کی دوستی میدان میں خود ہیں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c655, best cost 108.711 + 3053.77 = 3162.48 over 516 frames.
+c655 نامور <oov> کو <oov> بجھانے کاشت ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c656, best cost 180.609 + 3864.53 = 4045.14 over 643 frames.
+c656 <oov> سے سجے اروا گنکا <oov> بچائیں اور <oov> میچ ہار <oov> کریں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c657, best cost 116.055 + 2892.92 = 3008.98 over 491 frames.
+c657 <oov> <oov> کے کیفرِکردار کی حد سے مکمل نہیں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c658, best cost 98.7231 + 2714.61 = 2813.33 over 449 frames.
+c658 <oov> کرنے والی <oov> کی <oov> گزار ہیں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c659, best cost 193.916 + 3689.71 = 3883.62 over 617 frames.
+c659 نیکی کو کر بچائیں اور پوری کا تصور اور <oov> کے بعد <oov> پسند ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c660, best cost 102.581 + 1906.47 = 2009.06 over 313 frames.
+c660 <oov> کے <oov> اضلاع میں نہیں ہو سکا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c661, best cost 144.738 + 2437.42 = 2582.15 over 413 frames.
+c661 قذافی لینے کے لئے بے <oov> پر عمل کردار ہر ادب آئے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c662, best cost 121.864 + 2383.8 = 2505.66 over 376 frames.
+c662 <oov> کو اکیلا نہیں چلے سیاحوں کی تشریح دی گئیں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c663, best cost 183.708 + 3707.92 = 3891.62 over 603 frames.
+c663 <oov> جہاں چار ارب انگور <oov> سال کی تبدیلی کی طرح <oov> ہوئی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c664, best cost 178.341 + 3628.88 = 3807.23 over 575 frames.
+c664 فلاح سیالکوٹ پرہز میں کائنات <oov> کرو <oov> کروٹ <oov> ہو گئے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c665, best cost 152.908 + 2554.97 = 2707.88 over 435 frames.
+c665 فیض نے سال راوی سے سگریٹ چینی حاجب خیر پور 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c666, best cost 145.417 + 2688.08 = 2833.5 over 438 frames.
+c666 <oov> سے ہوئی <oov> پر آقا کتاب <oov> صبور لئے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c667, best cost 102.52 + 2542.32 = 2644.84 over 395 frames.
+c667 <oov> سے چٹرھ موسیقی کو مصنوعی ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c668, best cost 184.844 + 3732.17 = 3917.02 over 613 frames.
+c668 ثانی چوری کے <oov> ہونے والے کا فیصلہ بیان اہلیت سے جعلی قلعہ 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c669, best cost 118.722 + 2807.83 = 2926.55 over 458 frames.
+c669 <oov> خزانے <oov> کیلئے رضا <oov> نہیں کِیا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c670, best cost 116.093 + 2414.83 = 2530.92 over 383 frames.
+c670 روز ایک آخری <oov> سر <oov> قاتلوں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c671, best cost 203.811 + 3930.67 = 4134.48 over 624 frames.
+c671 رشید سے پہلے سال کے بڑی آنے کا <oov> کے صفورہ <oov> دور <oov> جاؤ 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c672, best cost 169.732 + 3504.86 = 3674.59 over 589 frames.
+c672 کمیٹی چوک سلامت فرقان وال سربراہ اور صدر کا اطلاع ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c673, best cost 153.365 + 2430.12 = 2583.49 over 407 frames.
+c673 لڑائی کے چار دن واقع ہوئی جوہی نسل کے بغیر <oov> ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c674, best cost 170.187 + 3607.61 = 3777.79 over 592 frames.
+c674 نئے شعبے کھول میں بڑھتا پچ آگاہ کرم والدین نے کی کوشش کی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c675, best cost 133.109 + 2518.36 = 2651.47 over 403 frames.
+c675 حاجب پروری کرنے پر سوچ کرتا فنکار <oov> ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c676, best cost 175.242 + 2956.85 = 3132.09 over 480 frames.
+c676 اپنی رہائش کسی کا نتیجہ کھوئے زوار نے انگور <oov> پر تھی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c677, best cost 207.822 + 3705.39 = 3913.21 over 605 frames.
+c677 ایثار نے <oov> کی کوئی مگر بعد ضرور صبوحی <oov> کی ہیبت سے پہلے گیا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c678, best cost 265.288 + 4415.15 = 4680.44 over 737 frames.
+c678 سند انسان کو علی فرائض اور والوں سے چھڑا نے کے ہر عروج افلاح سے مشقیں شر کریں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c679, best cost 130.456 + 2223.86 = 2354.31 over 365 frames.
+c679 تھوڑی دور ڈی پر <oov> لگایا سحر تیزی سوچ لیں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c680, best cost 179.954 + 2942.18 = 3122.13 over 480 frames.
+c680 چوری کے جوڑا پہن کے اوپر ترلائی اٹھارہ برسی میں ہیرو آ جاتا ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c681, best cost 161.067 + 3106.41 = 3267.47 over 504 frames.
+c681 کراچی <oov> کی ڈھارس ہوئی تو لوگوں پر بچی ہار پر سوار 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c682, best cost 179.808 + 3340.18 = 3519.99 over 554 frames.
+c682 بھی اور <oov> پر ہی <oov> کرنا مچا کر <oov> اسکے <oov> کی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c683, best cost 137.488 + 3244.62 = 3382.11 over 524 frames.
+c683 اِس موقع کی <oov> نے میری کے سے نکھر گی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c684, best cost 118.64 + 2462.92 = 2581.56 over 392 frames.
+c684 نور پور ورزی کے کی اوٹ میں میلوں <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c685, best cost 145.317 + 2342.46 = 2487.78 over 390 frames.
+c685 جو فلاح دوستی بچے رخشی سے کہاں سلامت ہو 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c686, best cost 161.467 + 3161.34 = 3322.81 over 516 frames.
+c686 <oov> کے <oov> بھی اشعر سے بنیادی مسجد کشور شاہ پور روڈ 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c687, best cost 180.199 + 3990.01 = 4170.21 over 644 frames.
+c687 <oov> اسکے بات سلوک سکی کھولے کوٹھا بحران سے <oov> کرائی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c688, best cost 260.843 + 4342.19 = 4603.03 over 713 frames.
+c688 ہلکی ہلکی چادر بچہ کر سچے <oov> گزار اور دیتی کے بھی میں نہا <oov> کے پر تباہ ہو 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c689, best cost 149.171 + 3419.04 = 3568.21 over 541 frames.
+c689 گجرات بجے سکینہ کے اچانک دو بنائیں اور <oov> ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c690, best cost 94.8636 + 1970.5 = 2065.37 over 315 frames.
+c690 <oov> پڑھائی کشور <oov> نہیں جاتا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c691, best cost 194.163 + 3519.02 = 3713.19 over 591 frames.
+c691 کسی کی بھی جاری کیلئے نجی کروایا اور ہنسی <oov> کرنے آنا میں توسیع 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c692, best cost 177.331 + 3104.52 = 3281.85 over 523 frames.
+c692 بتول نثار نے کہا کہ میں صبح سویرے کا گاڑی کے بھی آپ کے دلوں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c693, best cost 161.317 + 2641.23 = 2802.54 over 461 frames.
+c693 میں نے ہفتے جسے کہا کہ وقار پر بھی نہ کرامت دو 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c694, best cost 197.443 + 3224.61 = 3422.05 over 555 frames.
+c694 کرن کا جوڑا شیشہ پایہ ورثاء کو جسے <oov> صحیح چاق و چوبند بنائیں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c695, best cost 159.694 + 3458.57 = 3618.26 over 581 frames.
+c695 چوری کی جانے <oov> جانے کو کرن <oov> پانی میں ہو جائیں 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c696, best cost 196.056 + 3598.69 = 3794.75 over 611 frames.
+c696 <oov> فاصلے کیا میں زیب کو مصنوعی منصوبوں کے بنانے کے لئے فراہم کِیا جائے گا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c697, best cost 127.488 + 2477.11 = 2604.59 over 415 frames.
+c697 کلور کوٹ سے ستمبر ڈیزائن کرنے کا کام ہو گا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c698, best cost 124.82 + 2859.73 = 2984.55 over 477 frames.
+c698 بارہ ہنزہ <oov> سے شفاف باعث کا جائزہ لے گا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c699, best cost 197.765 + 4014.49 = 4212.25 over 669 frames.
+c699 آج کے فروغ روکا کی <oov> میں برائے کیا دینی بےحرمتی کا مقصد <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c700, best cost 159.617 + 3839.97 = 3999.59 over 621 frames.
+c700 <oov> LOG (lattice-scale[5.5.383~1-bd1d]:main():lattice-scale.cc:107) Done 71 lattices.
+کی تقریر میں کہا فوری کی <oov> کرو خوبصورت ہو 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c701, best cost 240.785 + 4256.48 = 4497.26 over 722 frames.
+c701 مضمون بنوانے دونوں کو ضلع کی تم اپنا کی سے کے علاوہ کر موضوع <oov> کو سمجھایا 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c702, best cost 148.982 + 2743.98 = 2892.96 over 467 frames.
+c702 غفار <oov> توبہ کی اوٹ میں کرے کو شاہانہ دربار <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c703, best cost 143.223 + 2796.99 = 2940.21 over 478 frames.
+c703 پراسرار سے تاریخی <oov> کے کپڑوں کاروبار ظاہر ہوتا ہے 
+LOG (lattice-add-penalty[5.5.383~1-bd1d]:main():lattice-add-penalty.cc:62) Done adding word insertion penalty to 71 lattices.
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c704, best cost 159.609 + 3364.38 = 3523.99 over 564 frames.
+c704 چوتھائی <oov> سیشن متنازعہ <oov> کنزہ باقی <oov> سے ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c705, best cost 149.152 + 3208.27 = 3357.42 over 535 frames.
+c705 <oov> <oov> ایجاد پر لاگت آٹھ تین سو سے بڑھ گئی 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c706, best cost 132.317 + 3000.79 = 3133.11 over 492 frames.
+c706 گجر خان کی غزر کے آنکھیں <oov> تو <oov> 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c707, best cost 124.853 + 2157.22 = 2282.07 over 355 frames.
+c707 ماضی کو بلا حتم آگے بڑھتی ہوئی <oov> پڑے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:99) For utterance c708, best cost 212.539 + 3187.93 = 3400.47 over 527 frames.
+c708 جنگ چلنے سے پہلے بروئے نے مجھے کچھ <oov> سی بات بھی کا اور مشق سمجھتا ہے 
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:124) Overall cost per frame is 6.37767 = 0.303472 [graph] + 6.0742 [acoustic] over 37498 frames.
+LOG (lattice-best-path[5.5.383~1-bd1d]:main():lattice-best-path.cc:128) Done 71 lattices, failed for 0
+# Accounting: time=0 threads=1
+# Ended (code 0) at Tue Jun 18 17:07:28 IST 2019, elapsed time 0 seconds

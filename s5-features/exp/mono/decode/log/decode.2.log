@@ -1,0 +1,30 @@
+# gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/mono/graph/words.txt exp/mono/final.mdl exp/mono/graph/HCLG.fst "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/2/utt2spk scp:data/test/split8/2/cmvn.scp scp:data/test/split8/2/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark:|gzip -c > exp/mono/decode/lat.2.gz" 
+# Started at Tue Jun 18 17:07:15 IST 2019
+#
+gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/mono/graph/words.txt exp/mono/final.mdl exp/mono/graph/HCLG.fst 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/2/utt2spk scp:data/test/split8/2/cmvn.scp scp:data/test/split8/2/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark:|gzip -c > exp/mono/decode/lat.2.gz' 
+add-deltas ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/test/split8/2/utt2spk scp:data/test/split8/2/cmvn.scp scp:data/test/split8/2/feats.scp ark:- 
+c647 بچنے گرج اراضی <oov> جوڑ کر دو اور پر آئے 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c647 is -7.95671 over 356 frames.
+c648 میلے میں طوطی اچانک <oov> تنہا خط چپکے کروا تھا 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c648 is -7.83046 over 415 frames.
+c649 حقوق کو تندرست کر کے بیٹھ نے کے بعد عوام کا نے <oov> لگائی 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c649 is -7.67457 over 580 frames.
+c650 <oov> کثیر آتا سال میں تین کے نفری اہلیہ کرائی <oov> ہے 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c650 is -7.80194 over 580 frames.
+c651 کومل کو بھرنی میچ کی کوٹلی <oov> ہونے سے پہلے <oov> کی تھی 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c651 is -7.97812 over 470 frames.
+LOG (apply-cmvn[5.5.383~1-bd1d]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 9 utterances, errors on 0
+c652 <oov> کیجئیے تھام <oov> اور <oov> ائیرپورٹ کے سطور تک آ پہنچی 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c652 is -7.90789 over 761 frames.
+c653 لوئر برانڈس <oov> کا سیدن اہلکار زیرِ کے ہی <oov> دہانی <oov> روز وہ 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c653 is -7.81478 over 660 frames.
+c654 <oov> اور بیش ہاؤس اسکے شجر ہارن سے کی دوستی میدان میں خود ہیں 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c654 is -7.98423 over 542 frames.
+c655 نامور شکیل چھائی کو <oov> بجھانے کاشت ہے 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c655 is -7.59225 over 516 frames.
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:main():gmm-latgen-faster.cc:176) Time taken 4.09544s: real-time factor assuming 100 frames/sec is 0.0839229
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:main():gmm-latgen-faster.cc:179) Done 9 utterances, failed for 0
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:main():gmm-latgen-faster.cc:181) Overall log-likelihood per frame is -7.83382 over 4880 frames.
+# Accounting: time=4 threads=1
+# Ended (code 0) at Tue Jun 18 17:07:19 IST 2019, elapsed time 4 seconds

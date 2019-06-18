@@ -1,0 +1,33 @@
+# gmm-latgen-faster --max-active=2000 --beam=10.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/tri3/graph/words.txt exp/tri3/final.alimdl exp/tri3/graph/HCLG.fst "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/6/utt2spk scp:data/test/split8/6/cmvn.scp scp:data/test/split8/6/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/tri3/final.mat ark:- ark:- |" "ark:|gzip -c > exp/tri3/decode.si/lat.6.gz" 
+# Started at Tue Jun 18 17:12:31 IST 2019
+#
+gmm-latgen-faster --max-active=2000 --beam=10.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/tri3/graph/words.txt exp/tri3/final.alimdl exp/tri3/graph/HCLG.fst 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/6/utt2spk scp:data/test/split8/6/cmvn.scp scp:data/test/split8/6/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/tri3/final.mat ark:- ark:- |' 'ark:|gzip -c > exp/tri3/decode.si/lat.6.gz' 
+apply-cmvn --utt2spk=ark:data/test/split8/6/utt2spk scp:data/test/split8/6/cmvn.scp scp:data/test/split8/6/feats.scp ark:- 
+splice-feats ark:- ark:- 
+transform-feats exp/tri3/final.mat ark:- ark:- 
+c683 <oov> <oov> کے <oov> <oov> <oov> 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c683 is -4.98603 over 524 frames.
+c684 <oov> <oov> 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c684 is -4.9566 over 392 frames.
+c685 <oov> <oov> <oov> 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c685 is -4.73176 over 390 frames.
+c686 <oov> کے <oov> <oov> <oov> 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c686 is -4.77463 over 516 frames.
+LOG (apply-cmvn[5.5.383~1-bd1d]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 9 utterances, errors on 0
+c687 <oov> کے <oov> <oov> <oov> کرائی 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c687 is -4.8194 over 644 frames.
+c688 ہلکی <oov> کر <oov> <oov> <oov> کے <oov> <oov> کے <oov> 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c688 is -4.84637 over 713 frames.
+c689 <oov> جان <oov> <oov> اور <oov> <oov> ہے 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c689 is -4.96204 over 541 frames.
+c690 <oov> <oov> <oov> نہیں جاتا 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c690 is -4.75418 over 315 frames.
+LOG (transform-feats[5.5.383~1-bd1d]:main():transform-feats.cc:158) Overall average [pseudo-]logdet is -86.2559 over 4626 frames.
+LOG (transform-feats[5.5.383~1-bd1d]:main():transform-feats.cc:161) Applied transform to 9 utterances; 0 had errors.
+c691 کی سی کی دل <oov> کیلئے <oov> اور <oov> سے <oov> <oov> میں <oov> 
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance c691 is -4.62228 over 591 frames.
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:main():gmm-latgen-faster.cc:176) Time taken 3.84198s: real-time factor assuming 100 frames/sec is 0.0830518
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:main():gmm-latgen-faster.cc:179) Done 9 utterances, failed for 0
+LOG (gmm-latgen-faster[5.5.383~1-bd1d]:main():gmm-latgen-faster.cc:181) Overall log-likelihood per frame is -4.82873 over 4626 frames.
+# Accounting: time=4 threads=1
+# Ended (code 0) at Tue Jun 18 17:12:35 IST 2019, elapsed time 4 seconds
