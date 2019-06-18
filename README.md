@@ -25,31 +25,31 @@ https://kaldi-asr.org/doc/kaldi_for_dummies.html#kaldi_for_dummies_environment)
 * [Presentation](https://myelinf-my.sharepoint.com/:p:/g/personal/harsha_myelinfoundry_com/ER5nsCVZz4RMjNno_vHYLL4BXlVEqsBVWWP9Un5SrEK17g?e=4cbA8W)
 
 ### Repositories for Reference
-* Kaldi Pytorch : https://github.com/mravanelli/pytorch-kaldi#overview-of-the-toolkit-architecture
+* [Kaldi Pytorch](https://github.com/mravanelli/pytorch-kaldi#overview-of-the-toolkit-architecture)
 
-* Recipe for Kaldi-Arabic : http://alt.qcri.org//resources/speech/
+* [Recipe for Kaldi-Arabic](http://alt.qcri.org//resources/speech/)
 
-* EspNet : https://github.com/espnet/espnet
+* [EspNet](https://github.com/espnet/espnet)
 
-* Kaldi-ASR : https://github.com/kaldi-asr/kaldi
+* [Kaldi-ASR](https://github.com/kaldi-asr/kaldi)
 
-* Nabu : https://github.com/vrenkens/nabu
+* [Nabu](https://github.com/vrenkens/nabu)
 
 ### Proposed Languages with dataset used
 * [Pashto](https://catalog.ldc.upenn.edu/LDC2016S09)
-* [Urdu](https://archive.org/details/ArabicEnglishPashtoQaziFazlUllah)
+* [Urdu](Some University)
 
 
 #### Alternative Approaches: 
-1. https://github.com/mozilla/DeepSpeech
+1. [Mozilla DeepSpeech](https://github.com/mozilla/DeepSpeech)
+2. [Wav2Letter++](https://github.com/facebookresearch/wav2letter)
 
 ### Tasks 
 
 - [x] Acquire Dataset
 - [x] Test PyTorch Kaldi
-- [ ] Form Recipe
-- [ ] Test EspNet
-- [ ] Train Kaldi/EspNet to Convergence on Data
+- [x] Form Recipe
+- [ ] Train PyTorch Kaldi
 - [ ] Test Model on Real Time Data
 
 # Procedure 
