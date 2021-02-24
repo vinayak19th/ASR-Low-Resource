@@ -1,4 +1,4 @@
-# Sunshine
+# Low Resource ASR
 *Vernacular Language trigger word detector* <br>
 <b> Most data and computed models have been remove. Please use your own data when employing the model</b>
 ## Background & Proposal
